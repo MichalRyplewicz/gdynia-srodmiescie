@@ -158,7 +158,7 @@
 157;225076511;Hryniewickiego;23;;Biurowa;;Biurowa;2;;1980;Współczesnosc;2;;;google.com/maps;2;27.09.2026;
 158;261459288;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;1;27.09.2026;
 159;126897579;Jana z Kolna;29;;Przedszkole;;Przedszkole;2;;1950;Modernizm;2;;;google.com/maps;3;27.09.2026;
-160;225149794;Plac Kaszubski;1A;;Nieużytek;;Nieużytek;2;;1098;Wspóółczesność ;2;;;google.com/maps;3;25.09.2026;
+160;225149794;Plac Kaszubski;1A;;Nieużytek;;Nieużytek;2;;1980;Wspóółczesność ;2;;;google.com/maps;3;25.09.2026;
 161;228651434;Janka Wiśniewskiego;3;;Warsztat_Samochodowy;;;1;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026;
 162;355434399;Hryniewickiego;10;;Magazynowa;;Magazynowa;1;;1980;Współczesność;2;;;google.com/maps;1;27.09.2026;
 163;261459245;;;;Garaż;;;1;;1980;Współczsnośc;2;;;google.com/maps;3;25.09.2026;
@@ -312,7 +312,7 @@
 311;168043152;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026;
 312;261459243;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026;
 313;261450926;3 Maja;14;;Usługi_Szkolenia;;;1;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026;
-314;261459213;Starowiejska;8;;Bar;;;1;;1980;Współczesność;2;;;google.com/maps;2;23.09.2029;
+314;261459213;Starowiejska;8;;Bar;;;1;;1980;Współczesność;2;;;google.com/maps;2;23.09.2026;
 315;261459215;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026;
 316;261450930;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026;
 317;126117714;Stefana Żeromskiego;28;;Biurowa;;Biurowa;7;;1930;Modernizm;3;;;google.com/maps;3;27.09.2026;
@@ -580,7 +580,7 @@
 579;260676153;Kazimierza Pułaskiego;3C;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026;
 580;126116376;10 Lutego;24;;Informacja Turystyczna;;Urząd Miasta;6;;1930;Modernizm;3;;;google.com/maps;2;24.09.2026;
 581;126341136;Antoniego Abrahama;18;;Restauracja,Nieużytek;;Mieszkaniowa Wielorodzinna;5;;1930;Modernizm;2;;;google.com/maps;2;26.09.2026;
-582;260800916;10 Lutego;10;;Poczta;;Poczta;4;;1950;Modernizm;2;;;google.com/maps;3;26.09.2026;
+582;260800916;;;;Poczta;;Poczta;4;;1950;Modernizm;2;;;google.com/maps;3;26.09.2026;
 583;254762579;10 Lutego;18A;;Kawiarnia,Bank;;Mieszkaniowa Wielorodzinna;6;;2020;Współczesność;3;;;google.com/maps;2;24.09.2026;
 584;260676038;Kazimierza Pułaskiego;3K;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026;
 585;261459299;;;;Mieszkaniowa Jednorodzinna;;Mieszkaniowa Jednorodzinna;2;;1980;Współczesność;2;;;google.com/maps;2;26.09.2026;
@@ -820,7 +820,7 @@
 819;126326097;Świętojańska;29;Użyteczność publiczna;Kościół;;;1;;1930;Klasycyzm;3;;;google.com/maps;2;30.09.2026;
 820;260676222;;;;;;;;;;;;;;google.com/maps;;;
 821;260676167;;;;;;;;;;;;;;google.com/maps;;;
-822;125910035;Świętojańska;40;;Lombard,Tatułaż,Nieużytek;;Mieszkaniowa Wielorodzinna;4;;1930;Modernizm;4;;;google.com/maps;2;30.09.2026;
+822;125910035;Świętojańska;40;;Lombard,Tatułaż,Nieużytek;;Mieszkaniowa Wielorodzinna;2;;1930;Modernizm;4;;;google.com/maps;2;30.09.2026;
 823;260676298;;;;;;;;;;;;;;google.com/maps;;;
 824;260676324;;;;;;;;;;;;;;google.com/maps;;;
 825;260676215;;;;;;;;;;;;;;google.com/maps;;;
@@ -997,7 +997,7 @@
 996;205231751;;;;Techniczne;;;1;;1980;Współczesność;1;;;google.com/maps;2;30.09.2026;
 997;126337108;Franciszka Żwirki i Stanisława Wigury;2A;;Usługowa_Medyczne;;Mieszkaniowa Wielorodzinna;7;;1930;Modernizm;2;;;google.com/maps;2;27.09.2026;
 998;126337109;Franciszka Żwirki i Stanisława Wigury;2;;Biurowa;;Biurowa;5;;1930;Modernizm;2;;;google.com/maps;2;27.09.2026;
-999;126106123;Antoniego Abrahama;62;;Żabka;;Mieszkaniowa Wielorodzinna;7;;1930;Modernizm;2;;;google.com/maps;2;03.09.2026;
+999;126106123;Antoniego Abrahama;62;;Żabka;;Mieszkaniowa Wielorodzinna;7;;1930;Modernizm;2;;;google.com/maps;2;23.09.2026;
 1000;1422428082;;;;;;;;;;;;;;google.com/maps;;;
 1001;126337106;Franciszka Żwirki i Stanisława Wigury;9;;Usługi Wycieczki;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;2;29.09.2026;
 1002;260621009;Władysława IV;50;;Spółdzielnia Mieszkaniowa;;;1;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026;
