@@ -45,8 +45,8 @@ WHERE ground_floor_function IS NOT NULL
 GROUP BY LOWER(TRIM(ground_floor_function))
 HAVING COUNT(DISTINCT ground_floor_function) > 1;
 
-\copy (SELECT * FROM dataset_gdynia_fill_rate)  TO 'data/processed/checks/result_fill_rate.csv'  WITH (format csv, header true)
-\copy (SELECT * FROM dataset_gdynia_duplicate_id)  TO 'data/processed/checks/result_gdynia_duplicate_id.csv'  WITH (format csv, header true)
-\copy (SELECT * FROM dataset_gdynia_duplicate_osm_id)  TO 'data/processed/checks/result_duplicate_osm_id.csv'  WITH (format csv, header true)
-\copy (SELECT * FROM dataset_gdynia_illogical_range)  TO 'data/processed/checks/result_illogical_range.csv'  WITH (format csv, header true)
-\copy (SELECT * FROM dataset_gdynia_duplicate_ground_floor_functions)  TO 'data/processed/checks/result_duplicates_floor_functions.csv'  WITH (format csv, header true)
+\copy (SELECT * FROM dataset_gdynia_fill_rate)  TO 'data/processed/checks/result_fill_rate.csv'  WITH (format csv, header true, encoding 'UTF8')
+\copy (SELECT * FROM dataset_gdynia_duplicate_id)  TO 'data/processed/checks/result_gdynia_duplicate_id.csv'  WITH (format csv, header true, encoding 'UTF8')
+\copy (SELECT * FROM dataset_gdynia_duplicate_osm_id)  TO 'data/processed/checks/result_duplicate_osm_id.csv'  WITH (format csv, header true, encoding 'UTF8')
+\copy (SELECT * FROM dataset_gdynia_illogical_range)  TO 'data/processed/checks/result_illogical_range.csv'  WITH (format csv, header true, encoding 'UTF8')
+\copy (SELECT * FROM dataset_gdynia_duplicate_ground_floor_functions)  TO 'data/processed/checks/result_duplicates_floor_functions.csv'  WITH (format csv, header true, encoding 'UTF8')
