@@ -1,3 +1,4 @@
-git add .gitignore
-git commit -m "Add .gitignore"
-git push
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.env
