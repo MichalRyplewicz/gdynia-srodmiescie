@@ -14,7 +14,11 @@ SELECT
     COUNT(arch_style) * 100.0 / COUNT(*) AS arch_style_fill,
     COUNT(condition) * 100.0 / COUNT(*) AS condition_fill,
     COUNT(max_height) * 100.0 / COUNT(*) AS max_height_fill,
-    COUNT(is_heritage) * 100.0 / COUNT(*) AS is_heritage_fill
+    COUNT(is_heritage) * 100.0 / COUNT(*) AS is_heritage_fill,
+    COUNT(source) * 100.0 / COUNT(*) AS source_fill,
+    COUNT(confidence) * 100.0 / COUNT(*) AS confidence_fill,
+    COUNT(date_of_checking) * 100.0 / COUNT(*) AS date_of_checking_fill
+
 FROM dataset_gdynia_raw;
 
 
@@ -41,8 +45,8 @@ WHERE ground_floor_function IS NOT NULL
 GROUP BY LOWER(TRIM(ground_floor_function))
 HAVING COUNT(DISTINCT ground_floor_function) > 1;
 
-\copy (SELECT * FROM dataset_gdynia_fill_rate)  TO 'checkpoints/2026-09-30/output/result_fill_rate.csv'  WITH (format csv, header true)
-\copy (SELECT * FROM dataset_gdynia_duplicate_id)  TO 'checkpoints/2026-09-30/output/result_gdynia_duplicate_id.csv'  WITH (format csv, header true)
-\copy (SELECT * FROM dataset_gdynia_duplicate_osm_id)  TO 'checkpoints/2026-09-30/output/result_duplicate_osm_id.csv'  WITH (format csv, header true)
-\copy (SELECT * FROM dataset_gdynia_illogical_range)  TO 'checkpoints/2026-09-30/output/result_illogical_range.csv'  WITH (format csv, header true)
-\copy (SELECT * FROM dataset_gdynia_duplicate_ground_floor_functions)  TO 'checkpoints/2026-09-30/output/result_duplicates_floor_functions.csv'  WITH (format csv, header true)
+\copy (SELECT * FROM dataset_gdynia_fill_rate)  TO 'data/processed/checks/result_fill_rate.csv'  WITH (format csv, header true)
+\copy (SELECT * FROM dataset_gdynia_duplicate_id)  TO 'data/processed/checks/result_gdynia_duplicate_id.csv'  WITH (format csv, header true)
+\copy (SELECT * FROM dataset_gdynia_duplicate_osm_id)  TO 'data/processed/checks/result_duplicate_osm_id.csv'  WITH (format csv, header true)
+\copy (SELECT * FROM dataset_gdynia_illogical_range)  TO 'data/processed/checks/result_illogical_range.csv'  WITH (format csv, header true)
+\copy (SELECT * FROM dataset_gdynia_duplicate_ground_floor_functions)  TO 'data/processed/checks/result_duplicates_floor_functions.csv'  WITH (format csv, header true)
