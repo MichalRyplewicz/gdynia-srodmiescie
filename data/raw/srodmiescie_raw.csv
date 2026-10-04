@@ -1,4 +1,4 @@
-﻿id;osm_id;addr_street;addr_number;grupa_parter;funkcja_parter;grupa_pietra;funkcja_pietra;liczba_kondygnacji;mieszana;rok_budowy_szac;styl_arch;stan_tech;wysokosc_max;zabytek;zrodlo;pewnosc;data_sprawdzenia
+﻿id;osm_id;addr_street;addr_number;ground_floor_group;ground_floor_function;upper_floor_group;upper_floor_function;number_of_storeys;is_mixed_use;build_year_est;arch_style;condition;max_height;is_heritage;source;confidence;date_of_checking
 1;127184291;Świętego Piotra;8;;Hotel;;Hotel;7;;2000;Współczesność;3;;;google.com/maps;3;27.09.2026
 2;890729731;Świętego Piotra;6D;;Mieszkaniowa Wielorodzinna;;Mieszkaniowa Wielorodzinna;5;;2020;Współczesność;3;;;google.com/maps;3;27.09.2026
 3;890292040;Węglowa;22;;Centrum Handlowe;;Mieszkaniowa Wielorodzinna;17;;2020;Współczesność;3;;;google.com/maps;3;27.09.2026
@@ -58,7 +58,7 @@
 57;127110181;Portowa;9;;Klub Muzyczny;;Hotel;5;;1940;Modernizm;3;;;google.com/maps;2;27.09.2026
 58;398139535;Świętego Piotra;2;;Klub Muzyczny;;;1;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026
 59;126117725;Jerzego Waszyngtona;9;;Biurowa;;Biurowa;2;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026
-60;167561275;Portowa;2;Użyteczność publiczna;Sakralna;;Sakralna;2;;1970;Współczesność;3;;;google.com/maps;3;27.09.2026
+60;167561275;Portowa;2;;Sakralna;;Sakralna;2;;1970;Współczesność;3;;;google.com/maps;3;27.09.2026
 61;708191999;Stefana Żeromskiego;5;;Mieszkaniowa Wielorodzinna;;Mieszkaniowa Wielorodzinna;5;;1930;Tradycjonalizm;2;;;google.com/maps;2;27.09.2026
 62;127184282;Stefana Żeromskiego;6A;;Mieszkaniowa Wielorodzinna;;Mieszkaniowa Wielorodzinna;4;;1940;Modernizm;2;;;google.com/maps;2;27.09.2026
 63;225076534;Śledziowa;2;;Hurtownia;;;1;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
@@ -100,7 +100,7 @@
 99;355434414;Hryniewickiego;10;;Magazynowa;;;2;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
 100;126901828;Jerzego Waszyngtona;22A;;Mieszkaniowa Jednorodzinna;;Mieszkaniowa Jednorodzinna;3;;1940;Tradycjonalizm;3;;;google.com/maps;2;27.09.2026
 101;126901813;Jana z Kolna;8B;;Administracyjna;;Administracyjna;6;;1980;Współczesność;2;;;google.com/maps;3;26.09.2026
-102;226061440;Portowa;;Gastronomia;Restauracja;;;1;;2000;Współczesność;2;;;google.com/maps;2;27.09.2026
+102;226061440;Portowa;;;Restauracja;;;1;;2000;Współczesność;2;;;google.com/maps;2;27.09.2026
 103;226833426;Jana z Kolna;28;;Nieużytek;;;1;;1980;Współczesność;1;;;google.com/maps;2;27.09.2026
 104;126901814;Jana z Kolna;8B;;Administracyjna;;Administracyjna;6;;1980;Współczesność;2;;;google.com/maps;3;26.09.2026
 105;273937991;Jana z Kolna;8B;;Administracyjna;;Administracyjna;6;;1980;Współczesność;2;;;google.com/maps;3;26.09.2026
@@ -215,7 +215,7 @@
 214;707483055;Arkadiusza Rybickiego;6;;Portowa;;;1;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026
 215;1223746519;;;;Nieużytek;;;1;;1950;Modernizm;1;;;google.com/maps;2;27.09.2026
 216;291155665;;;;Techniczna;;;1;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026
-217;126897565;Plac Konstytucji;5;Użyteczność publiczna;Sąd;;Sąd;5;;1930;Modernizm;3;;;google.com/maps;3;27.09.2026
+217;126897565;Plac Konstytucji;5;;Sąd;;Sąd;5;;1930;Modernizm;3;;;google.com/maps;3;27.09.2026
 218;261459238;Wójta Radtkego;38;;Targ;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026
 219;126117717;Stefana Żeromskiego;31;;Szkoła Policealna,Administracja;;Szkoła Policealna,Administracja;3;;1940;Modernizm;3;;;google.com/maps;2;25.09.2026
 220;708123343;Arkadiusza Rybickiego;4B;;Nieużytek;;Mieszkaniowa Wielorodzinna;5;;2020;Współczesność;3;;;google.com/maps;2;27.09.2026
@@ -488,7 +488,7 @@
 487;126391717;Świętojańska;10;;Piekarnia, Jubiler,Kantor;;Mieszkaniowa Wielorodzinna;5;;1930;Klasycyzm;2;;;google.com/maps;2;26.09.2026
 488;126117741;Dworcowa;9;;Lombard,Restauracja;;;1;;1980;Współczesność;2;;;google.com/maps;2;24.09.2026
 489;260800929;;;;Mieszkaniowa Jednorodzinna;;;1;;1980;Współczesność;2;;;google.com/maps;1;26.09.2026
-490;126357869;Władysława IV;24;Użyteczność publiczna;Zus;;Zus;5;;1980;Postmodernizm;3;;;google.com/maps;2;24.09.2026
+490;126357869;Władysława IV;24;;Zus;;Zus;5;;1980;Postmodernizm;3;;;google.com/maps;2;24.09.2026
 491;261450903;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;2;24.09.2026
 492;126603280;Antoniego Abrahama;9;;Usługowa_Medyczna,Usługowa_Złotnik,Kawiarnia;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;2;26.09.2026
 493;126603293;Antoniego Abrahama;10;;Handlowa_Ubrania,Usługowa_Krawiec;;Mieszkaniowa Wielorodzinna;5;;1930;Modernizm;2;;;google.com/maps;2;26.09.2026
@@ -610,7 +610,7 @@
 609;227955719;Skwer Tadeusza Kościuszki;24;;Bar;;Mieszkaniowa_Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;2;27.09.2026
 610;1322365702;10 Lutego;18;;Manufaktura_Czekolady;;;1;;2020;Współczesność;3;;;google.com/maps;2;24.09.2026
 611;125925826;Skwer Tadeusza Kościuszki;20;;Bistro;;Mieszkaniowa Wielorodzinna;5;;1930;Modernizm;2;;;google.com/maps;2;27.09.2026
-612;126117751;10 Lutego;10;Użyteczność publiczna;Poczta;;Poczta;4;;1920;Klasycyzm;3;;;google.com/maps;3;26.09.2026
+612;126117751;10 Lutego;10;;Poczta;;Poczta;4;;1920;Klasycyzm;3;;;google.com/maps;3;26.09.2026
 613;125910026;Świętojańska;17;;Restauracja,Usługi_Noclegi;;;6;;1930;Modernizm;3;;;google.com/maps;2;27.09.2026
 614;260800738;Antoniego Abrahama;20;;Restauracja;;Mieszkaniowa_Wielorodzinna;5;;1920;Klasycyzm;2;;;google.com/maps;2;26.09.2026
 615;126117711;Świętojańska;18;;Restauracja,Cukiernia;;Mieszkaniowa_Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;3;24.09.2026
@@ -637,7 +637,7 @@
 636;126116375;10 Lutego;37;;Handlowa Zdrowie, Fryzjer, Usługowa Pośrednictwo Pracy;;Hotel;6;;1930;Klasycyzm;2;;;google.com/maps;2;24.09.2026
 637;126341123;10 Lutego;4;;Usługowa_Zdrowie;;Mieszkaniowa Wielorodzinna;4;;1930;Klasycyzm;2;;;google.com/maps;2;26.09.2026
 638;254762572;10 Lutego;38;;Usługowa Kursy;;Usługowa Kursy;2;;1980;Współczesność;2;;;google.com/maps;2;24.09.2026
-639;228113855;Świętojańska;20;Gastronomia;Lodziarnia;;;1;;2000;Współczesność;3;;;google.com/maps;2;26.09.2026
+639;228113855;Świętojańska;20;;Lodziarnia;;;1;;2000;Współczesność;3;;;google.com/maps;2;26.09.2026
 640;126596728;10 Lutego;35;;Handlowa Odzież ,Starocie;;Mieszkaniowa Wielorodzinna;6;;1920;ArtDeco;2;;;google.com/maps;2;24.09.2026
 641;126596727;10 Lutego;35A;;Handlowa Odzież;;Mieszkaniowa Wielorodzinna;6;;1920;ArtDeco;2;;;google.com/maps;2;24.09.2026
 642;126341126;10 Lutego;2;;Handlowa_Biżuteria,Usługowa Zdrowie,Restauracja;;Nieużytek;2;;1910;Klasycyzm;3;;;google.com/maps;2;26.09.2026
@@ -763,7 +763,7 @@
 762;261459189;Świętojańska;23;;Bank,Restauracja,Księgarnia;;Mieszkaniowa Wielorodzinna;7;;1940;Modernizm;2;;;google.com/maps;2;27.09.2026
 763;260800862;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;24.09.2026
 764;126171437;Świętojańska;32;;Drogeria;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;2;27.09.2026
-765;126343908;Armii Krajowej;46;Użyteczność publiczna;Kościół;;Kościół;2;;1960;Modernizm;3;;;google.com/maps;3;25.09.2026
+765;126343908;Armii Krajowej;46;;Kościół;;Kościół;2;;1960;Modernizm;3;;;google.com/maps;3;25.09.2026
 766;125910032;Zygmuntowska;4;;Restauracja;;Mieszkaniowa Wielorodzinna;8;;1940;Modernizm;3;;;google.com/maps;2;27.09.2026
 767;1322588532;Skwer Tadeusza Kościuszki;13;;Pustka;;Mieszkaniowa Wielorodzinna;7;;1940;Modernizm;3;;;google.com/maps;3;27.09.2026
 768;205937637;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;24.09.2026
@@ -799,7 +799,7 @@
 798;126171439;Świętojańska;36;;Pizzeria;;Mieszkaniowa Wielorodzinna;7;;1940;Modernizm;2;;;google.com/maps;2;27.09.2026
 799;125988092;Armii Krajowej;44;;Przychodnia;;Przychodnia;6;;1980;Nowożytność;2;;;google.com/maps;3;25.09.2026
 800;265385595;Aleja Jana Pawła II;9;;Szkoła Żeglarska;;;1;;2000;Nowożytność;2;;;google.com/maps;2;27.09.2026
-801;126326096;Armii Krajowej;26;Użyteczność publiczna;Sanktuarium;;Sanktuarium;2;;1980;Postmodernizm;3;;;google.com/maps;2;30.09.2026
+801;126326096;Armii Krajowej;26;;Sanktuarium;;Sanktuarium;2;;1980;Postmodernizm;3;;;google.com/maps;2;30.09.2026
 802;260676047;Świętojańska;36;;Pizzeria;;Mieszkaniowa Wielorodzinna;7;;1940;Modernizm;2;;;google.com/maps;2;27.09.2026
 803;1354786288;;;;Nieużytek;;;2;;1950;Modernizm;1;;;google.com/maps;2;27.09.2026
 804;1354786287;;;;Nieużytek;;;2;;1950;Modernizm;1;;;google.com/maps;2;27.09.2026
@@ -817,7 +817,7 @@
 816;205304477;;;;Techniczne;;;1;;1980;Współczesność;2;;;google.com/maps;2;30.09.2026
 817;1355047259;;;;;;;;;;;;;;google.com/maps;;
 818;260676246;;;;;;;;;;;;;;google.com/maps;;
-819;126326097;Świętojańska;29;Użyteczność publiczna;Kościół;;;1;;1930;Klasycyzm;3;;;google.com/maps;2;30.09.2026
+819;126326097;Świętojańska;29;;Kościół;;;1;;1930;Klasycyzm;3;;;google.com/maps;2;30.09.2026
 820;260676222;;;;;;;;;;;;;;google.com/maps;;
 821;260676167;;;;;;;;;;;;;;google.com/maps;;
 822;125910035;Świętojańska;40;;Lombard,Tatułaż,Nieużytek;;Mieszkaniowa Wielorodzinna;2;;1930;Modernizm;4;;;google.com/maps;2;30.09.2026
@@ -913,7 +913,7 @@
 912;126326107;Plac Grunwaldzki;20;;Mieszkaniowa Wielorodzinna;;Mieszkaniowa Wielorodzinna;6;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
 913;441181429;Obrońców Wybrzeża;;;Centrum Medyczne Estetycznej,Dentysta;;Mieszkaniowa Wielorodzinna;5;;1950;Modernizm;3;;;google.com/maps;2;24.09.2026
 914;126171443;Świętojańska;52;;Cukiernia,Restauracja,Biuro Podróży;;Mieszkaniowa Wielorodzinna;5;;1930;Modernizm;2;;;google.com/maps;2;27.09.2026
-915;49869951;Plac Grunwaldzki;1;Użyteczność publiczna;Teatr Muzyczny;;Teatr Muzyczny;5;;1950;Modernizm;3;;;google.com/maps;3;26.09.2026
+915;49869951;Plac Grunwaldzki;1;;Teatr Muzyczny;;Teatr Muzyczny;5;;1950;Modernizm;3;;;google.com/maps;3;26.09.2026
 916;126340013;Antoniego Abrahama;46A;;Bank;;Mieszkaniowa Wielorodzinna;7;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
 917;595016182;;;;Lodziarnia;;;1;;2000;Współczesność;2;;;google.com/maps;2;30.09.2026
 918;166410680;;;;Restauracja;;;1;;2000;Współczesność;3;;;google.com/maps;2;30.09.2026
@@ -927,7 +927,7 @@
 926;126340030;Antoniego Abrahama;46B;;Restauracja,Bank;;Mieszkaniowa Wielorodzinna;7;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
 927;515933337;Świętojańska;43;;Centrum Medyczne,Fryzjer,Restauracja,Rossman;;Hotel;6;;2020;Współczesność;3;;;google.com/maps;2;27.09.2026
 928;595016178;;;;Techniczne;;;1;;2000;Współczesność;3;;;google.com/maps;3;26.09.2026
-929;167832197;;;Gastronomia;Lodziarnia;;;1;;2000;Współczesność;3;;;google.com/maps;3;30.09.2026
+929;167832197;;;;Lodziarnia;;;1;;2000;Współczesność;3;;;google.com/maps;3;30.09.2026
 930;226106475;Antoniego Abrahama;51;;Pustka;;Mieszkaniowa Wielorodzinna;5;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
 931;126106130;Antoniego Abrahama;51;;Delikatesy;;Mieszkaniowa Wielorodzinna;6;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
 932;126340009;Antoniego Abrahama;51B;;Żabka;;Mieszkaniowa Wielorodzinna;6;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
@@ -1174,7 +1174,7 @@
 1173;260676162;;;;;;;;;;;;;;google.com/maps;;
 1174;126325518;Żołnierzy I Armii Wojska Polskiego;1A;;Cukiernia;;;1;;1980;Współczesność;2;;;google.com/maps;2;30.09.2026
 1175;260676032;;;;;;;;;;;;;;google.com/maps;;
-1176;206566485;Romualda Traugutta;9;Użyteczność publiczna;Przychodnia;;Przychodnia;3;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026
+1176;206566485;Romualda Traugutta;9;;Przychodnia;;Przychodnia;3;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026
 1177;260676007;Świętojańska;104;;Bank;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
 1178;125910053;Władysława IV;47;;Laboratorium Zdrowie,Usługi Uroda;;;5;;1940;Modernizm;2;;;google.com/maps;2;30.09.2026
 1179;260676375;;;;;;;;;;;;;;google.com/maps;;
@@ -1204,7 +1204,7 @@
 1203;126261975;Władysława IV;51;;Stoważyszenie,Usługi Masaż;;Mieszkaniowa Wielorodzinna;6;;1940;Modernizm;2;;;google.com/maps;2;30.09.2026
 1204;126173509;Świętojańska;112-110;;Rossman,Handel Meble,Usługi Nieruchomości;;Mieszkaniowa Wielorodzinna;8;;1930;Modernizm;3;;;google.com/maps;2;30.09.2026
 1205;126173500;Świętojańska;97;;GSM,Handel Ceramika,Bar;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
-1206;126180358;Generała Józefa Bema;26;Użyteczność publiczna;Teatr;;Teatr;2;;1960;Modernizm;3;;;google.com/maps;3;30.09.2026
+1206;126180358;Generała Józefa Bema;26;;Teatr;;Teatr;2;;1960;Modernizm;3;;;google.com/maps;3;30.09.2026
 1207;126173499;Świętojańska;99;;Restauracja,Usługi Tatuaż;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
 1208;260676176;;;;;;;;;;;;;;google.com/maps;;
 1209;126261972;Władysława IV;53;;Handel Meble,Żabka;;Mieszkaniowa Wielorodzinna;7;;1940;Modernizm;2;;;google.com/maps;2;30.09.2026
@@ -1239,4 +1239,4 @@
 1238;126173503;Świętojańska;122;;Apteka,Handel Zdrowie;;Biurowa;6;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
 1239;260676369;Aleja Marszałka Józefa Piłsudskiego;56;;Mieszkaniowa Wielorodzinna;;Mieszkaniowa Wielorodzinna;7;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
 1240;206252838;Aleja Marszałka Józefa Piłsudskiego;56;;Restauracja;;Mieszkaniowa Wielorodzinna;7;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
-1241;125912675;Aleja Marszałka Józefa Piłsudskiego;52/54;Użyteczność publiczna;Urząd Miasta;;Urząd Miasta;5;;1930;Modernizm;3;;;google.com/maps;3;30.09.2026
+1241;125912675;Aleja Marszałka Józefa Piłsudskiego;52/54;;Urząd Miasta;;Urząd Miasta;5;;1930;Modernizm;3;;;google.com/maps;3;30.09.2026
