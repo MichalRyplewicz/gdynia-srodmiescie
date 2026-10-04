@@ -2,7 +2,7 @@ functions;count;function_clean;category;subcategory
 garaż;216;garaż;garaże;
 restauracja;114;restauracja;gastronomia;
 mieszkaniowa wielorodzinna;79;mieszkaniowa wielorodzinna;mieszkaniowa;
-nieużytek;55;nieużytek;brak funkcji;
+nieużytek;55;pustostan;brak funkcji;
 biurowa;33;biurowa;biura;
 żabka;33;sklep spożywczy;handel;
 fryzjer;31;fryzjer;usługi;
@@ -12,7 +12,7 @@ handel ubrania;26;handlowa ubrania;handel;
 bank;26;bank;finanse;
 bar;22;bar;gastronomia;
 mieszkaniowa jednorodzinna;22;mieszkaniowa jednorodzinna;mieszkaniowa;
-pustka;20;pustka;brak funkcji;
+pustka;20;brak parteru;brak funkcji;
 cukiernia;19;cukiernia;handel;
 piekarnia;19;piekarnia;handel;
 techniczne;18;techniczna;przemysł i infrastruktura;
