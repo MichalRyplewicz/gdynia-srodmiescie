@@ -1,0 +1,294 @@
+id,osm_id,addr_street,addr_number,ground_floor_group,ground_floor_function,upper_floor_group,upper_floor_function,number_of_storeys,is_mixed_use,build_year_est,arch_style,condition,max_height,is_heritage,source,confidence,date_of_checking,number_of_functions,num_build_street,num_build_rank
+662,260800615,10 Lutego,11,,centrum handlowe,,Centrum Handlowe,6,,1990,współczesność,3,,,google.com/maps,3,2026-09-27,1,48.0,4.0
+665,260800674,10 Lutego,11,,centrum handlowe,,Centrum Handlowe,6,,1990,współczesność,3,,,google.com/maps,3,2026-09-27,1,48.0,4.0
+673,260800587,10 Lutego,11,,centrum handlowe,,,1,,1990,współczesność,3,,,google.com/maps,3,2026-09-27,1,48.0,4.0
+703,158334336,10 Lutego,11,,centrum handlowe,,Centrum Handlowe,6,,1990,współczesność,3,,,google.com/maps,3,2026-09-27,1,48.0,4.0
+713,260800830,10 Lutego,11,,centrum handlowe,,Centrum Handlowe,6,,1990,współczesność,3,,,google.com/maps,3,2026-09-27,1,48.0,4.0
+739,260800913,10 Lutego,11,,pustka,,Centrum Handlowe,6,,1990,współczesność,3,,,google.com/maps,3,2026-09-27,1,48.0,4.0
+741,260800964,10 Lutego,11,,centrum handlowe,,Centrum Handlowe,6,,1990,współczesność,3,,,google.com/maps,3,2026-09-27,1,48.0,4.0
+608,126116381,10 Lutego,18,,nieużytek,,Nieużytek,3,,1930,klasycyzm,2,,,google.com/maps,2,2026-09-24,1,48.0,4.0
+610,1322365702,10 Lutego,18,,manufaktura czekolady,,,1,,2020,współczesność,3,,,google.com/maps,2,2026-09-24,1,48.0,4.0
+656,126596720,10 Lutego,19,,piekarnia,,Mieszkaniowa Wielorodzinna,6,,1920,klasycyzm,3,,,google.com/maps,2,2026-09-24,1,48.0,4.0
+666,260800654,10 Lutego,19,,piekarnia,,,1,,1920,klasycyzm,3,,,google.com/maps,2,2026-09-24,1,48.0,4.0
+657,126596724,10 Lutego,27,,cukiernia,,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-24,1,48.0,4.0
+667,260800914,10 Lutego,27,,cukiernia,,,1,,1930,modernizm,2,,,google.com/maps,2,2026-09-24,1,48.0,4.0
+674,260800828,10 Lutego,27,,cukiernia,,,1,,1930,modernizm,2,,,google.com/maps,2,2026-09-24,1,48.0,4.0
+574,126596730,10 Lutego,28,,restauracja,,,1,,2000,współczesność,3,,,google.com/maps,2,2026-09-24,1,48.0,4.0
+576,594932574,10 Lutego,28,,sexshop,,,1,,2000,współczesność,3,,,google.com/maps,2,2026-09-24,1,48.0,4.0
+578,594932576,10 Lutego,28,,nieużytek,,,1,,2000,współczesność,1,,,google.com/maps,2,2026-09-24,1,48.0,4.0
+645,126106133,10 Lutego,31,,nieużytek,,Mieszkaniowa Wielorodzinna,8,,1950,modernizm,3,,,google.com/maps,1,2026-09-24,1,48.0,4.0
+660,260800557,10 Lutego,31,,nieużytek,,Nieużytek,2,,1950,modernizm,2,,,google.com/maps,1,2026-09-24,1,48.0,4.0
+678,126340881,10 Lutego,5,,"apteka,żabka",,Biurowa,6,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,2,48.0,4.0
+695,205304476,10 Lutego,5,,żabka,,,1,,2000,współczesność,2,,,google.com/maps,2,2026-09-27,1,48.0,4.0
+277,261450894,3 Maja,14,,centrum handlowe,,,1,,1950,modernizm,3,,,google.com/maps,2,2026-09-27,1,26.0,10.0
+287,261450932,3 Maja,14,,centrum handlowe,,,1,,1950,modernizm,3,,,google.com/maps,2,2026-09-27,1,26.0,10.0
+288,126606386,3 Maja,14,,centrum handlowe,,Mieszkaniowa Wielorodzinna,4,,1950,modernizm,3,,,google.com/maps,2,2026-09-27,1,26.0,10.0
+313,261450926,3 Maja,14,,usługi szkolenia,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,26.0,10.0
+405,261450915,3 Maja,17,,handel ubrania,,,1,,1950,modernizm,2,,,google.com/maps,2,2026-09-23,1,26.0,10.0
+422,261450927,3 Maja,17,,"fryzjer,usługowa biuro podróż",,Mieszkaniowa Wielorodzinna,6,,1950,modernizm,2,,,google.com/maps,2,2026-09-23,2,26.0,10.0
+440,1322367953,3 Maja,20,,żabka,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-23,1,26.0,10.0
+460,126606387,3 Maja,20,,"lombard, usługi foto",,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-23,2,26.0,10.0
+670,260800824,3 Maja,28,,klub muzyczny,,Klub Muzyczny,2,,1930,klasycyzm,3,,,google.com/maps,2,2026-09-24,1,26.0,10.0
+680,126596733,3 Maja,28,,klub muzyczny,,Klub Muzyczny,2,,1930,klasycyzm,3,,,google.com/maps,2,2026-09-24,1,26.0,10.0
+644,517895082,Aleja Jana Pawła II,1,,kasa biletowa,,,1,,2000,współczesność,3,,,google.com/maps,3,2026-09-27,1,15.0,14.0
+774,49803787,Aleja Jana Pawła II,1,,"muzeum,biurowa",,"Muzeum,Biurowa",4,,1970,modernizm,2,,,google.com/maps,3,2026-09-27,2,15.0,14.0
+786,281417038,Aleja Jana Pawła II,1,,muzeum,,,1,,1970,modernizm,2,,,google.com/maps,3,2026-09-27,1,15.0,14.0
+699,49803784,Aleja Jana Pawła II,2,,restauracja,,Restauracj,2,,1970,modernizm,3,,,google.com/maps,2,2026-09-27,1,15.0,14.0
+705,265385591,Aleja Jana Pawła II,2,,restauracja,,,1,,2000,współczesność,2,,,google.com/maps,2,2026-09-27,1,15.0,14.0
+706,166408887,Aleja Jana Pawła II,2,,restauracja,,,1,,2000,współczesność,2,,,google.com/maps,2,2026-09-27,1,15.0,14.0
+709,265385592,Aleja Jana Pawła II,2,,restauracja,,,1,,2000,współczesność,2,,,google.com/maps,2,2026-09-24,1,15.0,14.0
+800,265385595,Aleja Jana Pawła II,9,,szkoła żeglarska,,,1,,2000,współczesność,2,,,google.com/maps,2,2026-09-27,1,15.0,14.0
+805,167832079,Aleja Jana Pawła II,9,,restauracja,,,1,,2000,współczesność,2,,,google.com/maps,2,2026-09-27,1,15.0,14.0
+807,168341482,Aleja Jana Pawła II,9,,szkoła żeglarska,,,1,,2000,współczesność,2,,,google.com/maps,2,2026-09-27,1,15.0,14.0
+808,1410735010,Aleja Jana Pawła II,9,,szkoła żeglarska,,,1,,2000,współczesność,2,,,google.com/maps,2,2026-09-27,1,15.0,14.0
+1239,260676369,Aleja Marszałka Józefa Piłsudskiego,56,,mieszkaniowa wielorodzinna,,Mieszkaniowa Wielorodzinna,7,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,3.0,25.0
+1240,206252838,Aleja Marszałka Józefa Piłsudskiego,56,,restauracja,,Mieszkaniowa Wielorodzinna,7,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,3.0,25.0
+536,126603294,Antoniego Abrahama,14,,cukiernia,,,1,,1980,współczesność,2,,,google.com/maps,3,2026-09-26,1,80.0,2.0
+602,260800500,Antoniego Abrahama,14,,pizzeria,,Mieszkaniowa Wielorodzinna,5,,1930,klasycyzm,2,,,google.com/maps,2,2026-09-26,1,80.0,2.0
+530,260800938,Antoniego Abrahama,16,,aparthotel,,Aparthotel,4,,1980,współczesność,2,,,google.com/maps,2,2026-09-26,1,80.0,2.0
+541,260800539,Antoniego Abrahama,16,,aparthotel,,Aparthotel,4,,1980,współczesność,2,,,google.com/maps,2,2026-09-26,1,80.0,2.0
+555,126341137,Antoniego Abrahama,16,,kantor,,,1,,1980,współczesność,2,,,google.com/maps,3,2026-09-26,1,80.0,2.0
+614,260800738,Antoniego Abrahama,20,,restauracja,,Mieszkaniowa_Wielorodzinna,5,,1920,klasycyzm,2,,,google.com/maps,2,2026-09-26,1,80.0,2.0
+623,230813017,Antoniego Abrahama,20,,restauracja,,Mieszkaniowa_Wielorodzinna,5,,1920,klasycyzm,2,,,google.com/maps,2,2026-09-26,1,80.0,2.0
+621,260800777,Antoniego Abrahama,22,,mieszkaniowa jednorodzinna,,Mieszkaniowa Jednorodzinna,2,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,80.0,2.0
+628,260800511,Antoniego Abrahama,22,,kantor,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,80.0,2.0
+738,260676224,Antoniego Abrahama,28,,mieszkaniowa wielorodzinna,,Mieszkaniowa Wielorodzinna,5,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,80.0,2.0
+740,126340878,Antoniego Abrahama,28,,"usługi medyczne,usługi gsm,handel ubrania",,Mieszkaniowa Wielorodzinna,5,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,3,80.0,2.0
+744,126340885,Antoniego Abrahama,28,,pustka,,Mieszkaniowa Wielorodzinna,5,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,80.0,2.0
+791,126106131,Antoniego Abrahama,37,,biedronka,,Biedronka,2,,1980,współczesność,2,,,google.com/maps,3,2026-09-27,1,80.0,2.0
+797,260676192,Antoniego Abrahama,37,,biedronka,,Biedronka,2,,1980,współczesność,2,,,google.com/maps,3,2026-09-27,1,80.0,2.0
+806,126340877,Antoniego Abrahama,39,,kawiarnia,,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,80.0,2.0
+812,260675861,Antoniego Abrahama,39,,restauracja,,Hotel,6,,1920,klasycyzm,3,,,google.com/maps,2,2026-09-30,1,80.0,2.0
+901,126340010,Antoniego Abrahama,49,,usługi masażu,,Mieszkaniowa Wielorodzinna,6,,1940,modernizm,2,,,google.com/maps,2,2026-09-27,1,80.0,2.0
+910,260800944,Antoniego Abrahama,49,,"solarium,pole dance",,Mieszkaniowa Wielorodzinna,6,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,2,80.0,2.0
+930,226106475,Antoniego Abrahama,51,,pustka,,Mieszkaniowa Wielorodzinna,5,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,1,80.0,2.0
+931,126106130,Antoniego Abrahama,51,,delikatesy,,Mieszkaniowa Wielorodzinna,6,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,1,80.0,2.0
+934,126340008,Antoniego Abrahama,51A,,dentysta,,Mieszkaniowa Wielorodzinna,6,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,1,80.0,2.0
+935,205231755,Antoniego Abrahama,51A,,techniczne,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,80.0,2.0
+999,126106123,Antoniego Abrahama,62,,żabka,,Mieszkaniowa Wielorodzinna,7,,1930,modernizm,2,,,google.com/maps,2,2026-09-23,1,80.0,2.0
+1003,260800827,Antoniego Abrahama,62,,handel techniczne,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-30,1,80.0,2.0
+93,355434416,Antoniego Hryniewickiego,10,,magazynowa,,,1,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,1,25.0,11.0
+99,355434414,Antoniego Hryniewickiego,10,,magazynowa,,,2,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,1,25.0,11.0
+112,225076515,Antoniego Hryniewickiego,10,,magazynowa,,,2,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,1,25.0,11.0
+116,1362917314,Antoniego Hryniewickiego,10,,magazynowa,,,2,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,1,25.0,11.0
+119,225076533,Antoniego Hryniewickiego,10,,magazynowa,,,2,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,1,25.0,11.0
+153,225076513,Antoniego Hryniewickiego,10,,biurowa,,Biurowa,2,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,25.0,11.0
+162,355434399,Antoniego Hryniewickiego,10,,magazynowa,,Magazynowa,1,,1980,współczesność,2,,,google.com/maps,1,2026-09-27,1,25.0,11.0
+167,225076536,Antoniego Hryniewickiego,10,,biurowa,,Biurowa,4,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,25.0,11.0
+172,355434408,Antoniego Hryniewickiego,10,,biurowa,,Biurowa,4,,1980,współczesność,2,,,google.com/maps,3,2026-09-27,1,25.0,11.0
+180,225076529,Antoniego Hryniewickiego,10,,biurowa,,Biurowa,2,,1980,współczesność,2,,,google.com/maps,1,2026-09-27,1,25.0,11.0
+192,225076535,Antoniego Hryniewickiego,10,,biurowa,,Biurowa,4,,1980,współczesność,2,,,google.com/maps,3,2026-09-27,1,25.0,11.0
+194,355434404,Antoniego Hryniewickiego,10,,biurowa,,Biurowa,1,,1980,współczesność,2,,,google.com/maps,3,2026-09-27,1,25.0,11.0
+173,355434410,Antoniego Hryniewickiego,20,,magazynowa,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,25.0,11.0
+175,225076526,Antoniego Hryniewickiego,20,,magazynowa,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,25.0,11.0
+257,226567211,Antoniego Hryniewickiego,6,,centrum medyczne,,Usługowa,4,,2000,współczesność,3,,,google.com/maps,2,2026-09-27,1,25.0,11.0
+271,76208008,Antoniego Hryniewickiego,6,,"dentysta,dermatolog,restauracja",,Mieszkaniowa Wielorodzinna,38,,2000,współczesność,3,,,google.com/maps,2,2026-09-27,3,25.0,11.0
+865,260676325,Armii Krajowej,13,,pustka,,Mieszkaniowa Wielorodzinna,5,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,36.0,7.0
+867,126171453,Armii Krajowej,13,,kawiarnia,,Mieszkaniowa Wielorodzinna,5,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,36.0,7.0
+851,227135328,Armii Krajowej,25,,pustka,,Mieszkaniowa Wielorodzinna,5,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,1,36.0,7.0
+852,126340028,Armii Krajowej,25,,optyk,,Mieszkaniowa Wielorodzinna,6,,1950,modernizm,3,,,google.com/maps,2,2026-09-27,1,36.0,7.0
+801,126326096,Armii Krajowej,26,,sanktuarium,,Sanktuarium,2,,1980,postmodernizm,3,,,google.com/maps,2,2026-09-30,1,36.0,7.0
+831,260676009,Armii Krajowej,26,,przedszkole,,Przedszkole,3,,1930,klasycyzm,3,,,google.com/maps,2,2026-09-30,1,36.0,7.0
+842,126117736,Armii Krajowej,26,,księgarnia,,Szkoła Parafialna,5,,1950,modernizm,2,,,google.com/maps,2,2026-09-30,1,36.0,7.0
+843,260675982,Armii Krajowej,26,,garaż,,,1,,1930,klasycyzm,2,,,google.com/maps,2,2026-09-30,1,36.0,7.0
+844,260675863,Armii Krajowej,26,,księgarnia,,Szkoła Parafialna,5,,1950,modernizm,2,,,google.com/maps,2,2026-09-30,1,36.0,7.0
+845,260676008,Armii Krajowej,26,,szkoła parafialna,,Szkoła Parafialna,5,,1930,klasycyzm,2,,,google.com/maps,2,2026-09-30,1,36.0,7.0
+830,166016907,Armii Krajowej,35,,centrum medyczne rehabilitacja,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-24,1,36.0,7.0
+833,126116367,Armii Krajowej,35,,mieszkaniowa wielorodzinna,,Mieszkaniowa Wielorodzinna,6,,1950,modernizm,3,,,google.com/maps,2,2026-09-24,1,36.0,7.0
+795,399194270,Armii Krajowej,44,,przychodnia,,,1,,1980,współczesność,2,,,google.com/maps,3,2026-09-25,1,36.0,7.0
+799,125988092,Armii Krajowej,44,,przychodnia,,Przychodnia,6,,1980,współczesność,2,,,google.com/maps,3,2026-09-25,1,36.0,7.0
+765,126343908,Armii Krajowej,46,,kościół,,Kościół,2,,1960,modernizm,3,,,google.com/maps,3,2026-09-25,1,36.0,7.0
+781,260676210,Armii Krajowej,46,,kościół,,,1,,1960,modernizm,2,,,google.com/maps,3,2026-09-25,1,36.0,7.0
+792,201757584,Armii Krajowej,46,,szkoła wyższa,,Szkoła Wyższa,5,,1980,współczesność,2,,,google.com/maps,3,2026-09-25,1,36.0,7.0
+794,126343953,Armii Krajowej,46,,uczelnia,,Uczelnia,3,,1980,współczesność,2,,,google.com/maps,3,2026-09-25,1,36.0,7.0
+869,260676395,Armii Krajowej,9,,nieużytek,,,1,,1930,modernizm,2,,,google.com/maps,3,2026-09-27,1,36.0,7.0
+875,126326102,Armii Krajowej,9,,nieużytek,,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,3,2026-09-27,1,36.0,7.0
+494,256348843,Dworcowa,3,,dworzec kolejowy,,Dworzec_Kolejowy,2,,1950,modernizm,2,,,google.com/maps,3,2026-09-27,1,5.0,23.0
+509,261450883,Dworcowa,3,,dworzec kolejowy,,Dworzec_Kolejowy,2,,1950,modernizm,2,,,google.com/maps,3,2026-09-27,1,5.0,23.0
+1070,126336945,Jana Kilińskiego,9,,"kawiarnia,pub",,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,3,,,google.com/maps,2,2026-09-30,2,14.0,15.0
+1073,205166106,Jana Kilińskiego,9,,pub,,,1,,1930,modernizm,3,,,google.com/maps,2,2026-09-30,1,14.0,15.0
+89,398139504,Jana z Kolna,12,,hurtownia,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+95,273938009,Jana z Kolna,12,,hurtownia,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+108,127061401,Jana z Kolna,12,,hurtownia,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+114,273937997,Jana z Kolna,12,,hurtownia,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+134,273937983,Jana z Kolna,13,,komis sztuki,,,1,,1950,modernizm,2,,,google.com/maps,3,2026-09-26,1,41.0,6.0
+135,126901806,Jana z Kolna,13,,komis sztuki,,,1,,1950,modernizm,2,,,google.com/maps,3,2026-09-26,1,41.0,6.0
+147,126116416,Jana z Kolna,27,,biurowa,,Biurowa,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+148,261459290,Jana z Kolna,27,,biurowa,,Biurowa,5,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+149,261459286,Jana z Kolna,27,,biurowa,,Biurowa,5,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+150,261459291,Jana z Kolna,27,,biurowa,,Biurowa,5,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+88,136885200,Jana z Kolna,28,,nieużytek,,Nieużytek,4,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+90,398139544,Jana z Kolna,28,,nieużytek,,Nieużytek,4,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+92,127061409,Jana z Kolna,28,,nieużytek,,Nieużytek,4,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+103,226833426,Jana z Kolna,28,,nieużytek,,,1,,1980,współczesność,1,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+124,398139484,Jana z Kolna,28,,nieużytek,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+109,398139555,Jana z Kolna,4,,lumpeks,,,1,,1940,modernizm,2,,,google.com/maps,3,2026-09-27,1,41.0,6.0
+111,398139533,Jana z Kolna,4,,lumpeks,,,1,,1940,modernizm,2,,,google.com/maps,3,2026-09-27,1,41.0,6.0
+118,126391737,Jana z Kolna,4,,lumpeks,,Biurowa,3,,1940,modernizm,2,,,google.com/maps,3,2026-09-27,1,41.0,6.0
+139,273938008,Jana z Kolna,5,,szkoła podstawowa,,Szkoła Podstawowa,3,,1940,modernizm,2,,,google.com/maps,3,2026-09-27,1,41.0,6.0
+174,126895119,Jana z Kolna,5,,szkoła podstawowa,,Szkoła Podstawowa,3,,1940,modernizm,2,,,google.com/maps,3,2026-09-27,1,41.0,6.0
+179,273937996,Jana z Kolna,5,,szkoła podstawowa,,Szkoła Podstawowa,3,,1940,modernizm,2,,,google.com/maps,3,2026-09-27,1,41.0,6.0
+187,1258413691,Jana z Kolna,57,,sąd,,Sąd,4,,1930,modernizm,3,,,google.com/maps,3,2026-09-27,1,41.0,6.0
+202,126116396,Jana z Kolna,57,,sąd,,Sąd,4,,1930,modernizm,3,,,google.com/maps,3,2026-09-27,1,41.0,6.0
+86,126901811,Jana z Kolna,8B,,administracyjna,,Administracyjna,8,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+87,398139551,Jana z Kolna,8B,,administracyjna,,Administracyjna,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+101,126901813,Jana z Kolna,8B,,administracyjna,,Administracyjna,6,,1980,współczesność,2,,,google.com/maps,3,2026-09-26,1,41.0,6.0
+104,126901814,Jana z Kolna,8B,,administracyjna,,Administracyjna,6,,1980,współczesność,2,,,google.com/maps,3,2026-09-26,1,41.0,6.0
+105,273937991,Jana z Kolna,8B,,administracyjna,,Administracyjna,6,,1980,współczesność,2,,,google.com/maps,3,2026-09-26,1,41.0,6.0
+107,273938000,Jana z Kolna,8B,,administracyjna,,Administracyjna,6,,1980,współczesność,2,,,google.com/maps,3,2026-09-26,1,41.0,6.0
+161,228651434,Janka Wiśniewskiego,3,,warsztat samochodowy,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,3.0,25.0
+166,228651433,Janka Wiśniewskiego,3,,warsztat samochodowy,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,3.0,25.0
+177,228651437,Janka Wiśniewskiego,3,,warsztat samochodowy,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,3.0,25.0
+420,1228008634,Jerzego Waszyngtona,13B,,stomatolog,,Biurowa,5,,2020,współczesność,3,,,google.com/maps,3,2026-09-27,1,29.0,9.0
+428,1228008635,Jerzego Waszyngtona,13B,,biurowa,,Biurowa,5,,2020,współczesność,3,,,google.com/maps,2,2026-09-27,1,29.0,9.0
+433,1362922764,Jerzego Waszyngtona,13B,,pustka,,Biurowa,2,,2020,współczesność,3,,,google.com/maps,2,2026-09-27,1,29.0,9.0
+281,1228008637,Jerzego Waszyngtona,15,,żabka,,Mieszkaniowa Wielorodzinna,6,,2020,współczesność,3,,,google.com/maps,2,2026-09-27,1,29.0,9.0
+385,355434412,Jerzego Waszyngtona,15,,biurowa,,Biurowa,3,,2010,współczesność,3,,,google.com/maps,3,2026-09-27,1,29.0,9.0
+399,355431246,Jerzego Waszyngtona,15,,biurowa,,Biurowa,11,,2010,współczesność,3,,,google.com/maps,3,2026-09-27,1,29.0,9.0
+416,1228008638,Jerzego Waszyngtona,15,,mieszkaniowa wielorodzinna,,Mieszkaniowa Wielorodzinna,6,,2020,współczesność,3,,,google.com/maps,3,2026-09-27,1,29.0,9.0
+355,273938006,Jerzego Waszyngtona,38,,nieużytek,,Nieużytek,3,,1920,klasycyzm,3,,,google.com/maps,2,2026-09-25,1,29.0,9.0
+379,126117734,Jerzego Waszyngtona,38,,nieużytek,,Nieużytek,4,,1920,klasycyzm,3,,,google.com/maps,2,2026-09-25,1,29.0,9.0
+390,273938007,Jerzego Waszyngtona,38,,nieużytek,,Nieużytek,3,,1920,klasycyzm,3,,,google.com/maps,2,2026-09-25,1,29.0,9.0
+431,273938012,Jerzego Waszyngtona,42,,garaż,,Instytut Meteorologii,2,,1980,współczesność,2,,,google.com/maps,3,2026-09-25,1,29.0,9.0
+463,125910021,Jerzego Waszyngtona,42,,instytut meteorologii,,Instytut Meteorologii,6,,1950,modernizm,3,,,google.com/maps,3,2026-09-25,1,29.0,9.0
+474,125910018,Kazimierza Pułaskiego,2,,mieszkaniowa wielorodzinna,,Mieszkaniowa Wielorodzinna,4,,1950,modernizm,3,,,google.com/maps,2,2026-09-25,1,14.0,15.0
+511,1083186701,Kazimierza Pułaskiego,2,,mieszkaniowa wielorodzinna,,Mieszkaniowa Wielorodzinna,6,,1940,modernizm,2,,,google.com/maps,2,2026-09-27,1,14.0,15.0
+500,1322588558,Kazimierza Pułaskiego,3,,mieszkaniowa wielorodzinna,,Mieszkaniowa Wielorodzinna,6,,1940,modernizm,2,,,google.com/maps,2,2026-09-27,1,14.0,15.0
+512,273937987,Kazimierza Pułaskiego,3,,mieszkaniowa wielorodzinna,,Mieszkaniowa Wielorodzinna,6,,1940,modernizm,2,,,google.com/maps,2,2026-09-27,1,14.0,15.0
+946,205231786,Obrońców Wybrzeża,1,,restauracja,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-30,1,7.0,21.0
+947,126340856,Obrońców Wybrzeża,1,,przychodnia lekarska,,Mieszkaniowa Wielorodzinna,6,,1950,modernizm,2,,,google.com/maps,2,2026-09-30,1,7.0,21.0
+915,49869951,Plac Grunwaldzki,1,,teatr muzyczny,,Teatr Muzyczny,5,,1950,modernizm,3,,,google.com/maps,3,2026-09-26,1,8.0,20.0
+924,1431046090,Plac Grunwaldzki,1,,klub nocny,,Klub Nocny,2,,1920,klasycyzm,3,,,google.com/maps,3,2026-09-26,1,8.0,20.0
+925,206328518,Plac Grunwaldzki,1,,klub nocny,,Klub Nocny,2,,1920,klasycyzm,3,,,google.com/maps,3,2026-09-26,1,8.0,20.0
+879,355444055,Plac Grunwaldzki,2,,pustka,,Kino,3,,2020,współczesność,3,,,google.com/maps,3,2026-09-27,1,8.0,20.0
+899,333420869,Plac Grunwaldzki,2,,"galeria sztuki,restauracja",,Kino,3,,2020,współczesność,3,,,google.com/maps,3,2026-09-27,2,8.0,20.0
+200,261459280,Plac Kaszubski,15,,pustka,,Mieszkaniowa Wielorodzinna,5,,1930,modernizm,2,,,google.com/maps,3,2026-09-25,1,14.0,15.0
+206,126391741,Plac Kaszubski,15,,sklep spożywczy,,Mieszkaniowa Wielorodzinna,7,,1930,modernizm,2,,,google.com/maps,3,2026-09-25,1,14.0,15.0
+223,168042142,Plac Konstytucji,1,,informacja autobusowa,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,11.0,17.0
+360,97222145,Plac Konstytucji,1,,"dworzec kolejowy,rossman,mcdonald",,Biurowa,5,,1950,modernizm,3,,,google.com/maps,3,2026-09-27,3,11.0,17.0
+210,1363465557,Plac Konstytucji,2,,nieużytek ,,,1,,1950,modernizm,1,,,google.com/maps,3,2026-09-27,1,11.0,17.0
+232,127268556,Plac Konstytucji,2,,nieużytek ,,,9,,1950,modernizm,1,,,google.com/maps,3,2026-09-27,1,11.0,17.0
+28,126901816,Portowa,2,,sakralna,,Sakralna,6,,1930,modernizm,2,,,google.com/maps,3,2026-09-27,1,13.0,16.0
+60,167561275,Portowa,2,,sakralna,,Sakralna,2,,1970,współczesność,3,,,google.com/maps,3,2026-09-27,1,13.0,16.0
+725,1226631779,Skwer Tadeusza Kościuszki,13,,pustka,,Mieszkaniowa Wielorodzinna,7,,1940,modernizm,3,,,google.com/maps,3,2026-09-27,1,20.0,12.0
+748,395960036,Skwer Tadeusza Kościuszki,13,,"bar,fryzjer,hostel",,Mieszkaniowa Wielorodzinna,11,,1940,modernizm,3,,,google.com/maps,2,2026-09-27,3,20.0,12.0
+767,1322588532,Skwer Tadeusza Kościuszki,13,,pustka,,Mieszkaniowa Wielorodzinna,7,,1940,modernizm,3,,,google.com/maps,3,2026-09-27,1,20.0,12.0
+605,261459292,Skwer Tadeusza Kościuszki,14,,bank,,Mieszkaniowa_Wielorodzinna,1,,1930,modernizm,2,,,google.com/maps,1,2026-09-27,1,20.0,12.0
+620,125925820,Skwer Tadeusza Kościuszki,14,,"bank,apteka",,Mieszkaniowa_Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,2,20.0,12.0
+604,261459300,Skwer Tadeusza Kościuszki,16,,restauracja,,Mieszkaniowa_Wielorodzinna,2,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,20.0,12.0
+606,261459295,Skwer Tadeusza Kościuszki,16,,restauracja,,Mieszkaniowa_Wielorodzinna,2,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,20.0,12.0
+624,125925822,Skwer Tadeusza Kościuszki,16,,restauracja,,Mieszkaniowa_Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,20.0,12.0
+625,261459298,Skwer Tadeusza Kościuszki,16,,restauracja,,Mieszkaniowa_Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,20.0,12.0
+626,261459200,Skwer Tadeusza Kościuszki,16,,restauracja,,Mieszkaniowa_Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,20.0,12.0
+601,261459296,Skwer Tadeusza Kościuszki,24,,bar,,,1,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,20.0,12.0
+609,227955719,Skwer Tadeusza Kościuszki,24,,bar,,Mieszkaniowa_Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,20.0,12.0
+619,261459266,Skwer Tadeusza Kościuszki,24,,kebab,,Mieszkaniowa_Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,20.0,12.0
+318,667865525,Starowiejska,20,,bar,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-23,1,59.0,3.0
+341,126898883,Starowiejska,20,,ubezpieczenia,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,59.0,3.0
+331,261459260,Starowiejska,30,,restauracja,,,2,,1900,tradycjonalizm,3,,,google.com/maps,3,2026-09-27,1,59.0,3.0
+339,261459190,Starowiejska,30,,restauracja,,Restauracja,2,,1900,tradycjonalizm,3,,,google.com/maps,3,2026-09-27,1,59.0,3.0
+368,261459278,Starowiejska,36,,restauracja,,,1,,1950,modernizm,3,,,google.com/maps,3,2026-09-27,1,59.0,3.0
+369,261459199,Starowiejska,36,,piekarnia,,,1,,1950,modernizm,3,,,google.com/maps,3,2026-09-27,1,59.0,3.0
+371,261459301,Starowiejska,36,,handel ubrania,,,1,,1950,modernizm,3,,,google.com/maps,2,2026-09-27,1,59.0,3.0
+435,126879258,Starowiejska,45,,notariusz,,Centrum Medyczne,6,,1980,współczesność,2,,,google.com/maps,2,2026-09-23,1,59.0,3.0
+443,261450889,Starowiejska,45,,pustka,,Centrum Medyczne,6,,1980,współczesność,2,,,google.com/maps,2,2026-09-24,1,59.0,3.0
+353,261450897,Starowiejska,54,,restauracja,,,1,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,1,59.0,3.0
+376,126879254,Starowiejska,54,,"restauracja,usługowa zdrowie",,Mieszkaniowa Wielorodzinna,5,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,2,59.0,3.0
+309,126879282,Starowiejska,8,,restauracja,,Mieszkaniowa Wielorodzinna,3,,1930,klasycyzm,2,,,google.com/maps,2,2026-09-23,1,59.0,3.0
+314,261459213,Starowiejska,8,,bar,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-23,1,59.0,3.0
+710,260800820,Stefana Batorego,28-30,,biurowa,,Biurowa,9,,1980,postmodernizm,3,,,google.com/maps,2,2026-09-24,1,10.0,18.0
+711,126357614,Stefana Batorego,28-30,,"biurowa, usługowa medyczna",,Biurowa,9,,1980,postmodernizm,3,,,google.com/maps,2,2026-09-24,2,10.0,18.0
+715,260800816,Stefana Batorego,28-30,,"biurowa, usługowa medyczna",,Biurowa,9,,1980,postmodernizm,3,,,google.com/maps,2,2026-09-24,2,10.0,18.0
+76,398139520,Stefana Żeromskiego,10,,mieszkaniowa wielorodzinna,,Mieszkaniowa Wielorodzinna,5,,1950,modernizm,2,,,google.com/maps,2,2026-09-27,1,30.0,8.0
+141,1165971813,Stefana Żeromskiego,10,,usługi zdrowie,,Mieszkaniowa Wielorodzinna,6,,2020,współczesność,3,,,google.com/maps,3,2026-09-25,1,30.0,8.0
+133,706123163,Stefana Żeromskiego,23,,"usługi zdrowie,trycholog,żabka,piekarnia",,Mieszkaniowa Wielorodzinna,6,,2020,współczesność,3,,,google.com/maps,3,2026-09-25,4,30.0,8.0
+152,1226354993,Stefana Żeromskiego,23,,"usługi zdrowie,centrum medyczne,żabka,piekarnia",,,1,,2020,współczesność,3,,,google.com/maps,3,2026-09-25,4,30.0,8.0
+317,126117714,Stefana Żeromskiego,28,,biurowa,,Biurowa,7,,1930,modernizm,3,,,google.com/maps,3,2026-09-27,1,30.0,8.0
+352,126452265,Stefana Żeromskiego,28,,biurowa,,Biurowa,7,,1930,modernizm,3,,,google.com/maps,2,2026-09-27,1,30.0,8.0
+50,126901824,Stefana Żeromskiego,5,,mieszkaniowa jednorodzinna,,Mieszkaniowa Jednorodzinna,2,,1980,współczesność,2,,,google.com/maps,2,2026-09-26,1,30.0,8.0
+61,708191999,Stefana Żeromskiego,5,,mieszkaniowa wielorodzinna,,Mieszkaniowa Wielorodzinna,5,,1930,tradycjonalizm,2,,,google.com/maps,2,2026-09-27,1,30.0,8.0
+5,136885205,Tadeusza Wendy,15,,centrum medyczne,,Centrum Medyczne,6,,2000,współczesność,3,,,google.com/maps,2,2026-09-27,1,9.0,19.0
+6,273937994,Tadeusza Wendy,15,,biurowa,,Biurowa,9,,2000,współczesność,3,,,google.com/maps,2,2026-09-27,1,9.0,19.0
+7,398139557,Tadeusza Wendy,15,,biurowa,,Biurowa,1,,2000,współczesność,3,,,google.com/maps,2,2026-09-27,1,9.0,19.0
+8,273937986,Tadeusza Wendy,15,,biurowa,,Biurowa,8,,2000,współczesność,3,,,google.com/maps,2,2026-09-27,1,9.0,19.0
+10,273937982,Tadeusza Wendy,15,,usługi transport,,Usługi_Transport,5,,2000,współczesność,3,,,google.com/maps,2,2026-09-27,1,9.0,19.0
+12,273937989,Tadeusza Wendy,15,,usługi transport,,Usługi_Transport,2,,2000,współczesność,3,,,google.com/maps,2,2026-09-27,1,9.0,19.0
+21,398139547,Tadeusza Wendy,15,,usługi transport,,Usługi_Transport,3,,2000,współczesność,3,,,google.com/maps,2,2026-09-27,1,9.0,19.0
+226,555952485,Wójta Radtkego,1,,szpital,,Szpital,10,,1990,współczesność,3,,,google.com/maps,2,2026-09-23,1,45.0,5.0
+230,261459201,Wójta Radtkego,1,,szpital,,Szpital,7,,1990,współczesność,3,,,google.com/maps,2,2026-09-23,1,45.0,5.0
+235,890296123,Wójta Radtkego,1,,szpital,,Szpital,4,,2010,współczesność,3,,,google.com/maps,2,2026-09-23,1,45.0,5.0
+254,261459203,Wójta Radtkego,1,,szpital,,Szpital,5,,1990,współczesność,3,,,google.com/maps,2,2026-09-23,1,45.0,5.0
+279,126341140,Wójta Radtkego,1,,kaplica,,,1,,1930,klasycyzm,3,,,google.com/maps,2,2026-09-23,1,45.0,5.0
+237,261459249,Wójta Radtkego,12,,straż pożarna,,Straż Pożarna,5,,1950,modernizm,3,,,google.com/maps,3,2026-09-27,1,45.0,5.0
+239,261459208,Wójta Radtkego,12,,straż pożarna,,Straż Pożarna,5,,1950,modernizm,3,,,google.com/maps,3,2026-09-27,1,45.0,5.0
+241,261459258,Wójta Radtkego,12,,straż pożarna,,Straż Pożarna,5,,1950,modernizm,3,,,google.com/maps,3,2026-09-27,1,45.0,5.0
+243,261459224,Wójta Radtkego,12,,straż pożarna,,Straż Pożarna,5,,1950,modernizm,3,,,google.com/maps,3,2026-09-27,1,45.0,5.0
+191,1162261246,Wójta Radtkego,36,,targ,,,2,,1930,modernizm,3,,,google.com/maps,3,2026-09-27,1,45.0,5.0
+197,139635202,Wójta Radtkego,36,,targ,,,1,,1930,modernizm,2,,,google.com/maps,3,2026-09-27,1,45.0,5.0
+203,261459197,Wójta Radtkego,36,,targ,,,1,,1930,modernizm,3,,,google.com/maps,3,2026-09-27,1,45.0,5.0
+169,261459218,Wójta Radtkego,38,,targ,,,1,,1930,modernizm,2,,,google.com/maps,3,2026-09-27,1,45.0,5.0
+188,261459235,Wójta Radtkego,38,,targ,,,1,,1930,modernizm,2,,,google.com/maps,3,2026-09-27,1,45.0,5.0
+212,171756618,Wójta Radtkego,38,,targ,,,1,,1930,modernizm,2,,,google.com/maps,3,2026-09-27,1,45.0,5.0
+218,261459238,Wójta Radtkego,38,,targ,,,1,,1980,współczesność,2,,,google.com/maps,3,2026-09-27,1,45.0,5.0
+294,261450895,Wójta Radtkego,49,,serwis rowerowy,,,1,,2000,współczesność,2,,,google.com/maps,2,2026-09-27,1,45.0,5.0
+329,168043151,Wójta Radtkego,49,,serwis rowerowy,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,45.0,5.0
+270,126116395,Wójta Radtkego,53,,bank,,Mieszkaniowa Wielorodzinna,5,,1920,klasycyzm,2,,,google.com/maps,3,2026-09-25,1,45.0,5.0
+274,261450885,Wójta Radtkego,53,,bank,,Bank,2,,1920,klasycyzm,2,,,google.com/maps,3,2026-09-25,1,45.0,5.0
+668,125988090,Władysława IV,32,,"handlowa kwiaty,żabka",,Mieszkaniowa Wielorodzinna,11,,1980,współczesność,2,,,google.com/maps,2,2026-09-24,2,41.0,6.0
+669,260800829,Władysława IV,32,,"handlowa kwiaty,żabka",,Mieszkaniowa Wielorodzinna,11,,1980,współczesność,2,,,google.com/maps,2,2026-09-24,2,41.0,6.0
+1002,260621009,Władysława IV,50,,spółdzielnia mieszkaniowa,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+1011,125988087,Władysława IV,50,,kosmetologia,,Mieszkaniowa Wielorodzinna,10,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+1030,260676332,Władysława IV,50,,mieszkaniowa wielorodzinna,,Mieszkaniowa Wielorodzinna,10,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+1232,125910054,Władysława IV,59,,restauracja,,"Siłownia,Centrum Medyczne,Biurowa",7,,1940,modernizm,2,,,google.com/maps,2,2026-09-30,1,41.0,6.0
+1235,260675994,Władysława IV,59,,pustka,,"Siłownia,Centrum Medyczne,Biurowa",7,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,41.0,6.0
+233,1226333963,Władysława IV,7,,biblioteka,,Mieszkaniowa Wielorodzinna,8,,1950,modernizm,3,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+275,126117747,Władysława IV,7,,biblioteka,,Mieszkaniowa Wielorodzinna,8,,1950,modernizm,3,,,google.com/maps,2,2026-09-27,1,41.0,6.0
+9,126117723,Świętego Piotra,19,,bar,,Mieszkaniowa Wielorodzinna,5,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,16.0,13.0
+16,398139521,Świętego Piotra,19,,bar,,,1,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,16.0,13.0
+17,398139538,Świętego Piotra,19,,bar,,,1,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,16.0,13.0
+41,139634730,Świętego Piotra,2,,klub muzyczny,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,16.0,13.0
+46,398139561,Świętego Piotra,2,,klub muzyczny,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,16.0,13.0
+49,398139564,Świętego Piotra,2,,klub muzyczny,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,16.0,13.0
+56,398139490,Świętego Piotra,2,,klub muzyczny,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,16.0,13.0
+58,398139535,Świętego Piotra,2,,klub muzyczny,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-27,1,16.0,13.0
+1215,126173498,Świętojańska,101,,"handel meble,nieużytek",,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,2,125.0,1.0
+1219,206642061,Świętojańska,101,,handel meble,,,1,,1940,modernizm,2,,,google.com/maps,2,2026-09-30,1,125.0,1.0
+613,125910026,Świętojańska,17,,"restauracja,usługi noclegi",,,6,,1930,modernizm,3,,,google.com/maps,2,2026-09-27,2,125.0,1.0
+720,125925875,Świętojańska,17,,"lodziarnia,żabka",,Mieszkaniowa Wielorodzinna,9,,1940,modernizm,2,,,google.com/maps,3,2026-09-27,2,125.0,1.0
+607,126341124,Świętojańska,18,,delikatesy,,,1,,1980,współczesność,2,,,google.com/maps,2,2026-09-26,1,125.0,1.0
+615,126117711,Świętojańska,18,,"restauracja,cukiernia",,Mieszkaniowa_Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,3,2026-09-24,2,125.0,1.0
+632,228112086,Świętojańska,20,,cukiernia,,,1,,2000,współczesność,2,,,google.com/maps,2,2026-09-26,1,125.0,1.0
+639,228113855,Świętojańska,20,,lodziarnia,,,1,,2000,współczesność,3,,,google.com/maps,2,2026-09-26,1,125.0,1.0
+746,260800959,Świętojańska,21,,pub,,,1,,1940,modernizm,2,,,google.com/maps,2,2026-09-27,1,125.0,1.0
+747,125925881,Świętojańska,21,,"pub,restauracja",,Mieszkaniowa Wielorodzinna,4,,1940,modernizm,2,,,google.com/maps,2,2026-09-27,2,125.0,1.0
+727,260675963,Świętojańska,30,,restauracja,,,2,,2000,współczesność,3,,,google.com/maps,2,2026-09-27,1,125.0,1.0
+736,226083717,Świętojańska,30,,informacja,,Informacja,3,,2000,współczesność,3,,,google.com/maps,3,2026-09-27,1,125.0,1.0
+745,260676339,Świętojańska,30,,informacja,,Informacja,3,,2000,współczesność,3,,,google.com/maps,3,2026-09-27,1,125.0,1.0
+798,126171439,Świętojańska,36,,pizzeria,,Mieszkaniowa Wielorodzinna,7,,1940,modernizm,2,,,google.com/maps,2,2026-09-27,1,125.0,1.0
+802,260676047,Świętojańska,36,,pizzeria,,Mieszkaniowa Wielorodzinna,7,,1940,modernizm,2,,,google.com/maps,2,2026-09-27,1,125.0,1.0
+949,260800640,Świętojańska,47,,"restauracja,bank",,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,2,125.0,1.0
+952,260800651,Świętojańska,47,,"restauracja,bank",,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,2,125.0,1.0
+953,126171641,Świętojańska,47,,"restauracja,bank",,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,2,125.0,1.0
+955,260800663,Świętojańska,47,,"restauracja,bank",,,1,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,2,125.0,1.0
+968,260800838,Świętojańska,51,,kebab,,,1,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,1,125.0,1.0
+970,126171643,Świętojańska,51,,"kebab,piekarnia,lombard",,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,3,125.0,1.0
+1016,126171645,Świętojańska,59,,"handel odzież,fryzjer,bar",,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,3,125.0,1.0
+1021,205231772,Świętojańska,59,,bar,,,1,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,125.0,1.0
+1023,260800545,Świętojańska,61,,restauracja,,,1,,2000,współczesność,2,,,google.com/maps,2,2026-09-30,1,125.0,1.0
+1027,260800519,Świętojańska,61,,"nieużytek,restauracja",,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,3,,,google.com/maps,2,2026-09-30,2,125.0,1.0
+962,126171449,Świętojańska,62,,"restauracja,kebab,delikatesy",,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-27,3,125.0,1.0
+964,205231791,Świętojańska,62,,delikatesy,,,1,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,125.0,1.0
+978,205231736,Świętojańska,66,,handel ubrania,,,1,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,125.0,1.0
+980,126171451,Świętojańska,66,,handel ubrania,,Biurowa,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,125.0,1.0
+987,205231738,Świętojańska,68,,empik,,,1,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,125.0,1.0
+989,125910038,Świętojańska,68,,empik,,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,125.0,1.0
+1076,125910046,Świętojańska,69,,"kawiarnia,restauracja",,Mieszkaniowa Wielorodzinna,5,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,2,125.0,1.0
+1081,260676373,Świętojańska,69,,restauracja,,,1,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,125.0,1.0
+1086,126171788,Świętojańska,71,,"lodziarnia,handel okulary",,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,3,,,google.com/maps,2,2026-09-30,2,125.0,1.0
+1090,260676403,Świętojańska,71,,lodziarnia,,,1,,1930,modernizm,3,,,google.com/maps,2,2026-09-30,1,125.0,1.0
+1126,126171784,Świętojańska,81,,"barber,bar",,Mieszkaniowa Wielorodzinna,5,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,2,125.0,1.0
+1128,205166094,Świętojańska,81,,barber,,,1,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,125.0,1.0
+1133,260675999,Świętojańska,83,,"handel epapierosy,fryzjer,usługi uroda",,Mieszkaniowa Wielorodzinna,5,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,3,125.0,1.0
+1136,260676383,Świętojańska,83,,pustka,,Mieszkaniowa Wielorodzinna,5,,1930,modernizm,2,,,google.com/maps,2,2026-09-30,1,125.0,1.0
+1158,260676273,Świętojańska,87,,"restauracja,kawiarnia,bank",,Mieszkaniowa Wielorodzinna,6,,1930,modernizm,3,,,google.com/maps,2,2026-09-30,3,125.0,1.0
+1165,126171779,Świętojańska,87,,"restauracja,bank,kawiarnia",,Mieszkaniowa Wielorodzinna,7,,1930,modernizm,3,,,google.com/maps,2,2026-09-30,3,125.0,1.0
