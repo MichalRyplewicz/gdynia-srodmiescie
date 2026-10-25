@@ -49,7 +49,7 @@
 48;398139530;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026
 49;398139564;Świętego Piotra;2;;Klub Muzyczny;;;1;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026
 50;126901824;Stefana Żeromskiego;5;;Mieszkaniowa Jednorodzinna;;Mieszkaniowa Jednorodzinna;2;;1980;Współczesność;2;;;google.com/maps;2;26.09.2026
-51;126901815;Portowa;4;;Centrum Medyczne;;Centrum Medyczne;5;;1930;Modernizm;2;;;google.com/maps;2;26.09.2026
+51;126901815;Portowa;4;;Fryzjer,masaż,siłownia,Psycholog;;Mieszkaniowa Jednorodzinna;5;;1930;Modernizm;2;;;google.com/maps;2;26.09.2026
 52;398139531;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026
 53;398139491;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026
 54;126901818;Stefana Żeromskiego;6;;Mieszkaniowa Jednorodzinna;;Mieszkaniowa Jednorodzinna;3;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
@@ -66,7 +66,7 @@
 65;398139474;Jerzego Waszyngtona;16A;;Mieszkaniowa Jednorodzinna;;Mieszkaniowa Jednorodzinna;2;;1980;Współczesność;1;;;google.com/maps;2;27.09.2026
 66;260663426;Wendy;;;Mieszkaniowa Jednorodzinna;;;1;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026
 67;127110180;Portowa;11;;Fryzjer;;Mieszkaniowa Wielorodzinna;5;;1940;Modernizm;2;;;google.com/maps;2;27.09.2026
-68;127110177;Portowa;6;;Centrum Medyczne;;Centrum Medyczne;4;;1930;Modernizm;2;;;google.com/maps;2;27.09.2026
+68;127110177;Portowa;6;;Podologia;;Podologia;4;;1930;Modernizm;2;;;google.com/maps;2;27.09.2026
 69;225076522;Śledziowa;;;Portowa;;;2;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
 70;126117720;Stefana Żeromskiego;8;;Mieszkaniowa Wielorodzinna;;Mieszkaniowa Wielorodzinna;5;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
 71;126117724;Jerzego Waszyngtona;16;;Mieszkaniowa Wielorodzinna;;Mieszkaniowa Wielorodzinna;10;;1980;Współczesność;3;;;google.com/maps;3;27.09.2026
@@ -77,7 +77,7 @@
 76;398139520;Stefana Żeromskiego;10;;Mieszkaniowa Wielorodzinna;;Mieszkaniowa Wielorodzinna;5;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
 77;126901812;Tadeusza Wendy;13A;;Usługi Techniczne;;;1;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026
 78;398139534;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026
-79;1352737997;Stefana Żeromskiego;7;;Centrum Medyczne;;Mieszkaniowa Wielorodzinna;5;;2020;Współczesność;3;;;google.com/maps;3;27.09.2026
+79;1352737997;Stefana Żeromskiego;7;;rehabilitacja;;Mieszkaniowa Wielorodzinna;5;;2020;Współczesność;3;;;google.com/maps;3;27.09.2026
 80;398139523;;;;;;;;;;;;;;google.com/maps;;
 81;127110179;Portowa;13-15;;Policja;;Policja;7;;1940;Modernizm;3;;;google.com/maps;3;27.09.2026
 82;398139536;;;;;;;;;;;;;;google.com/maps;;
@@ -131,7 +131,7 @@
 130;225076519;Hryniewickiego;;;Nieużytek;;Nieużytek;1;;1930;Modernizm;2;;;google.com/maps;2;23.09.2026
 131;76208076;Hryniewickiego;;;Nieużytek;;Nieużytek;6;;1930;Modernizm;2;;;google.com/maps;2;23.09.2026
 132;225076518;Hryniewickiego;;;Nieużytek;;Nieużytek;3;;1930;Modernizm;2;;;google.com/maps;2;23.09.2026
-133;706123163;Stefana Żeromskiego;23;;Usługi_Zdrowie,Centrum Medyczne,Żabka,Piekarnia;;Mieszkaniowa Wielorodzinna;6;;2020;Współczesność;3;;;google.com/maps;3;25.09.2026
+133;706123163;Stefana Żeromskiego;23;;Usługi_Zdrowie,trycholog,Żabka,Piekarnia;;Mieszkaniowa Wielorodzinna;6;;2020;Współczesność;3;;;google.com/maps;3;25.09.2026
 134;273937983;Jana z Kolna;13;;Komis_Sztuki;;;1;;1950;Modernizm;2;;;google.com/maps;3;26.09.2026
 135;126901806;Jana z Kolna;13;;Komis_Sztuki;;;1;;1950;Modernizm;2;;;google.com/maps;3;26.09.2026
 136;1362917315;Hryniewickiego;;;Magazynowa;;Magazynowa;2;;1930;Modernizm;2;;;google.com/maps;2;23.09.2026
@@ -269,7 +269,7 @@
 268;241327983;Wójta Radtkego;10;;Mieszkaniowa Jednorodzinna;;Mieszkaniowa Jednorodzinna;2;;1930;Tradycjonalizm;2;;;google.com/maps;2;25.09.2026
 269;1226628689;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026
 270;126116395;Wójta Radtkego;53;;Bank;;Mieszkaniowa Wielorodzinna;5;;1920;Klasycyzm;2;;;google.com/maps;3;25.09.2026
-271;76208008;Antoniego Hryniewickiego;6;;Dentysta,Dermatolog,Restauracja;;Mieszkaniowa Wielorodzinna;5;;2000;Współczesność;3;;;google.com/maps;2;27.09.2026
+271;76208008;Antoniego Hryniewickiego;6;;Dentysta,Dermatolog,Restauracja;;Mieszkaniowa Wielorodzinna;38;;2000;Współczesność;3;;;google.com/maps;2;27.09.2026
 272;126901802;Wójta Radtkego;7A;;Mieszkaniowa Wielorodzinna;;Mieszkaniowa Wielorodzinna;3;;1980;Współczesność;2;;;google.com/maps;2;25.09.2026
 273;126117715;Hieronima Derdowskiego;5;;Żabka;;Mieszkaniowa Wielorodzinna;7;;1990;Nowożytność;3;;;google.com/maps;2;25.09.2026
 274;261450885;Wójta Radtkego;53;;Bank;;Bank;2;;1920;Klasycyzm;2;;;google.com/maps;3;25.09.2026
@@ -540,7 +540,7 @@
 539;260800937;;;;Mieszkaniowa Wielorodzinna;;Mieszkaniowa Wielorodzinna;4;;1980;Nowożytność;2;;;google.com/maps;2;26.09.2026
 540;225142933;;;;Garaż;;;1;;1980;Nowożytność;2;;;google.com/maps;2;24.09.2026
 541;260800539;Antoniego Abrahama;16;;Aparthotel;;Aparthotel;4;;1980;Nowożytność;2;;;google.com/maps;2;26.09.2026
-542;126603773;Mściwoja;10;;Centrum Medyczne,Monopolowy;;Mieszkaniowa Wielorodzinna;5;;1930;Modernizm;2;;;google.com/maps;2;24.09.2026
+542;126603773;Mściwoja;10;;kosmetologia;;Mieszkaniowa Wielorodzinna;5;;1930;Modernizm;2;;;google.com/maps;2;24.09.2026
 543;241327982;;;;Garaż;;;1;;1980;Nowożytność;2;;;google.com/maps;3;26.09.2026
 544;430300213;Antoniego Abrahama;13;;Żabka;;Hotel;6;;2020;Nowożytność;3;;;google.com/maps;3;26.09.2026
 545;261459270;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026
@@ -556,7 +556,7 @@
 555;126341137;Antoniego Abrahama;16;;Kantor;;;1;;1980;Nowożytność;2;;;google.com/maps;3;26.09.2026
 556;261459223;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026
 557;261459236;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026
-558;126452270;Stefana Żeromskiego;45;;Centrum Medyczne;;Mieszkaniowa Wielorodzinna;5;;1940;Modernizm;2;;;google.com/maps;2;27.09.2026
+558;126452270;Stefana Żeromskiego;45;;rehabilitacja;;Mieszkaniowa Wielorodzinna;5;;1940;Modernizm;2;;;google.com/maps;2;27.09.2026
 559;261459273;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026
 560;126603578;Zygmunta Augusta;11;;Biurowa;;Biurowa;6;;1980;Nowożytność;2;;;google.com/maps;3;26.09.2026
 561;127268557;10 Lutego;32;;Żabka,Handel,Kebab;;Mieszkaniowa Wielorodzinna;6;;1950;Modernizm;3;;;google.com/maps;2;24.09.2026
@@ -820,7 +820,7 @@
 819;126326097;Świętojańska;29;;Kościół;;;1;;1930;Klasycyzm;3;;;google.com/maps;2;30.09.2026
 820;260676222;;;;;;;;;;;;;;google.com/maps;;
 821;260676167;;;;;;;;;;;;;;google.com/maps;;
-822;125910035;Świętojańska;40;;Lombard,Tatułaż,Nieużytek;;Mieszkaniowa Wielorodzinna;2;;1930;Modernizm;4;;;google.com/maps;2;30.09.2026
+822;125910035;Świętojańska;40;;Lombard,Tatułaż,Nieużytek;;Mieszkaniowa Wielorodzinna;2;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
 823;260676298;;;;;;;;;;;;;;google.com/maps;;
 824;260676324;;;;;;;;;;;;;;google.com/maps;;
 825;260676215;;;;;;;;;;;;;;google.com/maps;;
@@ -874,7 +874,7 @@
 873;260676196;;;;;;;;;;;;;;google.com/maps;;
 874;126117737;Świętojańska;33;;Restauracja,Kebab,Kawiarnia,Księgarnia,Handel Ubrania;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
 875;126326102;Armii Krajowej;9;;Nieużytek;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;3;27.09.2026
-876;890302407;Obrońców Wybrzeża;8;;Centrum Medyczne Chirurgia,Pilates;;Mieszkaniowa Wielorodzinna;9;;2020;Współczesność;3;;;google.com/maps;2;24.09.2026
+876;890302407;Obrońców Wybrzeża;8;;kosmetologia;;Mieszkaniowa Wielorodzinna;9;;2020;Współczesność;3;;;google.com/maps;2;24.09.2026
 877;260676015;;;;;;;;;;;;;;google.com/maps;;
 878;126106129;Antoniego Abrahama;45;;Bar,Laboratorium Medyczne,Usługi Techniczne,Handel_Medyczne;;Mieszkaniowa Wielorodzinna;5;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
 879;355444055;Plac Grunwaldzki;2;;Pustka;;Kino;3;;2020;Współczesność;3;;;google.com/maps;3;27.09.2026
@@ -925,7 +925,7 @@
 924;1431046090;Plac Grunwaldzki;1;;Klub Nocny;;Klub Nocny;2;;1920;Klasycyzm;3;;;google.com/maps;3;26.09.2026
 925;206328518;Plac Grunwaldzki;1;;Klub Nocny;;Klub Nocny;2;;1920;Klasycyzm;3;;;google.com/maps;3;26.09.2026
 926;126340030;Antoniego Abrahama;46B;;Restauracja,Bank;;Mieszkaniowa Wielorodzinna;7;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
-927;515933337;Świętojańska;43;;Centrum Medyczne,Fryzjer,Restauracja,Rossman;;Hotel;6;;2020;Współczesność;3;;;google.com/maps;2;27.09.2026
+927;515933337;Świętojańska;43;;kosmetyczka,Fryzjer,Restauracja,Rossman;;Hotel;6;;2020;Współczesność;3;;;google.com/maps;2;27.09.2026
 928;595016178;;;;Techniczne;;;1;;2000;Współczesność;3;;;google.com/maps;3;26.09.2026
 929;167832197;;;;Lodziarnia;;;1;;2000;Współczesność;3;;;google.com/maps;3;30.09.2026
 930;226106475;Antoniego Abrahama;51;;Pustka;;Mieszkaniowa Wielorodzinna;5;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
@@ -967,7 +967,7 @@
 966;260800815;;;;Techniczne;;;1;;1980;Nowożytność;2;;;google.com/maps;2;30.09.2026
 967;126261961;Antoniego Abrahama;54;;Restauracja,Galeria Sztuki;;Mieszkaniowa Wielorodzinna;6;;1950;Modernizm;3;;;google.com/maps;2;30.09.2026
 968;260800838;Świętojańska;51;;Kebab;;;1;;1930;Modernizm;2;;;google.com/maps;2;27.09.2026
-969;126340007;Antoniego Abrahama;57;;Centrum Medyczne KLINIKA;;Centrum Medyczne KLINIKA;2;;1950;Modernizm;2;;;google.com/maps;2;30.09.2026
+969;126340007;Antoniego Abrahama;57;;Logopedia;;Logopedia;2;;1950;Modernizm;2;;;google.com/maps;2;30.09.2026
 970;126171643;Świętojańska;51;;Kebab,Piekarnia,Lombard;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;2;27.09.2026
 971;205231777;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026
 972;222918080;;;;Garaż;;;1;;1980;Współczesność;1;;;google.com/maps;2;27.09.2026
@@ -977,7 +977,7 @@
 976;126261960;Antoniego Abrahama;56;;Restauracja;;Mieszkaniowa Wielorodzinna;6;;1950;Modernizm;2;;;google.com/maps;3;30.09.2026
 977;126106139;Franciszka Żwirki i Stanisława Wigury;14;;Pogotowie ;;Centrum Medyczne;3;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
 978;205231736;Świętojańska;66;;Handel Ubrania;;;1;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
-979;126261949;Władysława IV;48;;Centrum Medyczne,Handel;;Mieszkaniowa Wielorodzinna;6;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
+979;126261949;Władysława IV;48;;Centrum Medycyny naturalnej;;Mieszkaniowa Wielorodzinna;6;;1950;Modernizm;2;;;google.com/maps;2;27.09.2026
 980;126171451;Świętojańska;66;;Handel Ubrania;;Biurowa;6;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
 981;205231771;;;;Garaż;;;1;;1980;Współczesność;2;;;google.com/maps;3;27.09.2026
 982;126261959;Antoniego Abrahama;58;;Bar Mleczny;;Mieszkaniowa Wielorodzinna;6;;1950;Modernizm;3;;;google.com/maps;3;30.09.2026
@@ -1008,8 +1008,8 @@
 1007;125988086;Antoniego Abrahama;64;;Nieużytek;;Mieszkaniowa Wielorodzinna;6;;1940;Modernizm;2;;;google.com/maps;2;30.09.2026
 1008;126171557;Świętojańska;57;;Żabka,Kosmetyczka,Okulista;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;3;;;google.com/maps;2;30.09.2026
 1009;260800955;;;;;;;;;;;;;;google.com/maps;;
-1010;126337107;Franciszka Żwirki i Stanisława Wigury;3;;Kosmetyczka, Centrum Medyczne;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
-1011;125988087;Władysława IV;50;;Centrum Medyczne,Apteka;;Mieszkaniowa Wielorodzinna;10;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026
+1010;126337107;Franciszka Żwirki i Stanisława Wigury;3;;Kosmetyczka, Centrum Medyczne,Optyk;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
+1011;125988087;Władysława IV;50;;kosmetologia;;Mieszkaniowa Wielorodzinna;10;;1980;Współczesność;2;;;google.com/maps;2;27.09.2026
 1012;205231752;;;;;;;;;;;;;;google.com/maps;;
 1013;126337104;Franciszka Żwirki i Stanisława Wigury;1;;Mieszkaniowa Wielorodzinna;;Mieszkaniowa Wielorodzinna;5;;1950;Modernizm;2;;;google.com/maps;2;30.09.2026
 1014;126171651;Świętojańska;72;;Bistro,Usługi Telko;;Mieszkaniowa Wielorodzinna;4;;1930;Modernizm;2;;;google.com/maps;2;29.09.2026
@@ -1184,7 +1184,7 @@
 1183;260676235;;;;;;;;;;;;;;google.com/maps;;
 1184;260676245;;;;;;;;;;;;;;google.com/maps;;
 1185;125910051;Świętojańska;89;;Nieużytek,Restauracja,Handel Medyczny;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
-1186;126325416;Żołnierzy I Armii Wojska Polskiego;4;;Centrum Medyczne;;Mieszkaniowa Wielorodzinna;7;;1950;Modernizm;2;;;google.com/maps;2;30.09.2026
+1186;126325416;Żołnierzy I Armii Wojska Polskiego;4;;rehabilitacja;;Mieszkaniowa Wielorodzinna;7;;1950;Modernizm;2;;;google.com/maps;2;30.09.2026
 1187;260676321;;;;;;;;;;;;;;google.com/maps;;
 1188;125910052;Świętojańska;104A;;Masaż,Handel Ubrania;;Mieszkaniowa Wielorodzinna;6;;1930;Modernizm;2;;;google.com/maps;2;30.09.2026
 1189;260676351;;;;;;;;;;;;;;google.com/maps;;
