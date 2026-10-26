@@ -26,6 +26,9 @@ LONG_COLUMN_TYPES = {"addr_street": "str", "function_clean": "str", "category": 
 
 
 def load_short(source):
+    """Function require a csv file with ';' as separator with id in the first column,
+    date of checking is being parsed as date.
+    """
     return pd.read_csv(
         source,
         sep=";",
@@ -36,6 +39,7 @@ def load_short(source):
 
 
 def load_long(source):
+    """Function require a csv file with ';' as separator with id in the first column,"""
     return pd.read_csv(
         source,
         sep=";",
