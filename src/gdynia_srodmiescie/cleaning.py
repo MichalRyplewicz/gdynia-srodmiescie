@@ -3,7 +3,7 @@ import pandas as pd
 
 
 def drop_missing(df, column):
-    return df.dropna(subset=f'{column}')
+    return df.dropna(subset=f"{column}")
 
 
 def replace_to_space(df, column, to_replace, lower=False):
@@ -119,3 +119,24 @@ def add_categories(long, category_map):
     assert len(missing) == 0, f"functions without category: {list(missing)}"
 
     return long_category.loc[:, ["addr_street", "function_clean", "category"]]
+
+
+def clean_short_raw(df):
+    return (
+        df.pipe(drop_missing, column="ground_floor_function")
+        .pipe(
+            replace_to_space,
+            column="ground_floor_function",
+            to_replace="_",
+            lower=True,
+        )
+        .pipe(
+            replace_to_space,
+            column="upper_floor_function",
+            to_replace="_",
+            lower=True,
+        )
+        .pipe(fix_adresses)
+        .pipe(fix_styles)
+        .pipe(merge_by_same_obj_key)
+    )
