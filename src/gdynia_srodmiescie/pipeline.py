@@ -1,3 +1,4 @@
+import tomllib
 from pathlib import Path
 
 from gdynia_srodmiescie import building_features as bf
@@ -10,29 +11,24 @@ from gdynia_srodmiescie.loading import (
     load_df_short,
 )
 
-RAW_PATH = Path("data/raw/srodmiescie_raw_object_id.csv")
-CATEGORY_MAP_PATH = Path("data/reference/category_map.CSV")
-PROCESSED_DIR = Path("data/processed/fixed")
-FIGURES_DIR = Path("figures")
-MIN_FUNCTIONAL = 10
-STREETS_TO_SHOW = [
-    "Armii Krajowej",
-    "3 Maja",
-    "Portowa",
-    "Antoniego Abrahama",
-    "Starowiejska",
-    "Świętojańska",
-    "Obrońców Wybrzeża",
-    "Antoniego Hryniewickiego",
-    "Władysława IV",
-]
+CONFIG_PATH = Path("config.toml")
 
 
 def main():
-    FIGURES_DIR.mkdir(exist_ok=True)
+    with open(CONFIG_PATH, "rb") as f:
+        config = tomllib.load(f)
+    raw_path = Path(config["paths"]["raw_path"])
+    category_map_path = Path(config["paths"]["category_map_path"])
+    processed_short = Path(config["paths"]["processed_short"])
+    processed_long = Path(config["paths"]["processed_long"])
+    figures_dir = Path(config["paths"]["figures_dir"])
+    min_functional = config["metrics"]["min_functional"]
+    streets_to_show = config["figures"]["streets_to_show"]
+
+    figures_dir.mkdir(exist_ok=True)
     ## Loading and cleaning data
-    short = load_df_short(RAW_PATH, dayfirst=False)
-    category_map = load_df_long(CATEGORY_MAP_PATH, dtype=CATEGORY_COLUMN_TYPES)
+    short = load_df_short(raw_path, dayfirst=False)
+    category_map = load_df_long(category_map_path, dtype=CATEGORY_COLUMN_TYPES)
 
     short_fin = short.pipe(cl.clean_short_raw)
 
@@ -40,12 +36,10 @@ def main():
         cl.add_categories, category_map
     )
 
-    short_fin.to_csv(
-        "data/processed/fixed/srodmiescie_short.csv", sep=";", encoding="utf-8"
-    )
+    short_fin.to_csv(processed_short, sep=";", encoding="utf-8")
 
     long_fin.to_csv(
-        "data/processed/fixed/srodmiescie_long_categories.csv",
+        processed_long,
         sep=";",
         encoding="utf-8",
     )
@@ -58,18 +52,18 @@ def main():
     )
 
     street_metr = long_fin.pipe(
-        sm.street_metrics, buildings_features, min_functional=MIN_FUNCTIONAL
+        sm.street_metrics, buildings_features, min_functional=min_functional
     )
 
     street_metr = street_metr.assign(
-        label=lambda d: d.index.to_series().where(d.index.isin(STREETS_TO_SHOW))
+        label=lambda d: d.index.to_series().where(d.index.isin(streets_to_show))
     )
 
     st.plot_scatter(
         street_metr,
         "num_premises_wo_vacant",
         "func_entropy",
-        FIGURES_DIR / "num_prem_func_entropy.png",
+        figures_dir / "num_prem_func_entropy.png",
         xscale="log",
         label_name="label",
     )
@@ -77,7 +71,7 @@ def main():
         street_metr,
         "num_premises_wo_vacant",
         "share_vacant",
-        FIGURES_DIR / "num_prem_share_vacant.png",
+        figures_dir / "num_prem_share_vacant.png",
         xscale="log",
         label_name="label",
     )
@@ -85,7 +79,7 @@ def main():
         street_metr,
         "func_entropy",
         "share_vacant",
-        FIGURES_DIR / "func_entropy_share_vacant.png",
+        figures_dir / "func_entropy_share_vacant.png",
         xscale="log",
         label_name="label",
     )

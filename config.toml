@@ -1,0 +1,24 @@
+[paths]
+raw_path = "data/raw/srodmiescie_raw_object_id.csv"
+category_map_path = "data/reference/category_map.csv"
+processed_short= "data/processed/fixed/srodmiescie_short.csv"
+processed_long= "data/processed/fixed/srodmiescie_long_categories.csv"
+figures_dir = "figures"
+
+
+[metrics]
+min_functional = 10
+
+
+[figures]
+streets_to_show = [
+    "Armii Krajowej",
+    "3 Maja",
+    "Portowa",
+    "Antoniego Abrahama",
+    "Starowiejska",
+    "Świętojańska",
+    "Obrońców Wybrzeża",
+    "Antoniego Hryniewickiego",
+    "Władysława IV",
+]
