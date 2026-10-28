@@ -22,10 +22,23 @@ SHORT_COLUMN_TYPES = {
     "number_of_functions": "Int64",
 }
 
-LONG_COLUMN_TYPES = {"addr_street": "str", "function_clean": "str", "category": "str"}
+LONG_COLUMN_TYPES = {
+    "id": "Int64",
+    "addr_street": "str",
+    "function_clean": "str",
+    "category": "str",
+}
+
+CATEGORY_COLUMN_TYPES = {
+    "functions": "str",
+    "count": "int",
+    "function_clean": "str",
+    "category": "str",
+    "subcategory": "str",
+}
 
 
-def load_short(source):
+def load_df_short(source, dayfirst=True):
     """Function require a csv file with ';' as separator with id in the first column,
     date of checking is being parsed as date.
     """
@@ -35,14 +48,15 @@ def load_short(source):
         index_col=0,
         dtype=SHORT_COLUMN_TYPES,
         parse_dates=["date_of_checking"],
+        dayfirst=dayfirst,
     )
 
 
-def load_long(source):
+def load_df_long(source, dtype=LONG_COLUMN_TYPES):
     """Function require a csv file with ';' as separator with id in the first column,"""
     return pd.read_csv(
         source,
         sep=";",
         index_col=0,
-        dtype=LONG_COLUMN_TYPES,
+        dtype=dtype,
     )
