@@ -5,6 +5,15 @@ import pandas as pd
 def street_metrics(
     df_long, df_short=None, min_functional=10, cat_omitted=("brak parteru", "pustostan")
 ):
+    """Compute functional metrics per street from the long table of premises.
+
+    Requires: df_long with addr_street and category (one row per premise).
+        If df_short is given, it needs the building features (building type)
+        and is joined to the street metrics.
+    Returns: one row per street, indexed by street name, only streets with at
+        least min_functional premises with a function. Columns include premise
+        counts, vacancy share, func_entropy and the effective number of categories.
+    """
 
     streets_long = pd.concat(
         [
@@ -64,6 +73,12 @@ def street_metrics(
 
 
 def ground_floor_profile(df_long, df_short, types=("mixed-use", "service")):
+    """Cross-tabulate ground-floor premise categories by building type.
+
+    Requires: df_long with category (one row per premise) and df_short with
+        building_type (from add_building_type), joined on building id.
+    Returns: table with categories as rows and building types (mixed-use,
+        service) as columns, values as shares of each category."""
 
     premises_wth_types = df_long.join(df_short.loc[:, "type"], validate="many_to_one")
 
@@ -90,7 +105,10 @@ def ground_floor_profile(df_long, df_short, types=("mixed-use", "service")):
 
 
 def building_type_shares(df_short):
+    """returns a crostabulation with a share of building types across the streets.
 
+    Requires df_short
+    """
     return pd.crosstab(
         index=df_short.reset_index()["addr_street"],
         columns=df_short.reset_index()["type"],
@@ -99,6 +117,11 @@ def building_type_shares(df_short):
 
 
 def entropy_from_shares(df_share, column_name="type"):
+    """returns a type entropy score across the streets
+
+    Requires building type shares
+    """
+
     df_share = df_share.replace(0, np.nan)
     return (
         (np.log(df_share) * df_share)

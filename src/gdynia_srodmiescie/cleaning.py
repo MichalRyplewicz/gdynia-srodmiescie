@@ -3,10 +3,18 @@ import pandas as pd
 
 
 def drop_missing(df, column):
+    """Removes the rows that contains Na data in inputted column
+
+    Requires a dataframe and column
+    """
     return df.dropna(subset=f"{column}")
 
 
 def replace_to_space(df, column, to_replace, lower=False):
+    """Replaced the selected symbol to space in chosen column, optionally lowers the elements
+
+    Requires a dataframe, a column and an element to replace, optionally a bool whether to lower the elements of the column
+    """
     replaced = df.assign(**{column: lambda d: d[column].str.replace(to_replace, " ")})
 
     if lower:
@@ -23,6 +31,10 @@ STREET_FIXES = {
 
 
 def fix_adresses(df, fixes=STREET_FIXES):
+    """Fixes the typos in the street names and correxts the adress numbers by removing spaces and uppers them
+
+    Requires a short dataframe and a dictionary with the fixes listed
+    """
     return df.assign(
         addr_street=lambda d: d["addr_street"].replace(fixes),
         addr_number=lambda d: d["addr_number"].str.strip().str.upper(),
@@ -45,6 +57,10 @@ STYLE_FIXES = {
 
 
 def fix_styles(df, fixes=STYLE_FIXES):
+    """Fixes the typos in the style names
+
+    Requites a short dataframe and a dictionary with the fixes listed
+    """
     return df.assign(
         arch_style=lambda d: d["arch_style"].str.lower().str.strip().replace(fixes),
     )
@@ -56,6 +72,11 @@ def connect_func(s):
 
 
 def merge_by_same_obj_key(df):
+    """Connects the rows of elements with the same object_id
+
+    Requires a short dataframe
+    """
+
     with_obj_id = (
         df.loc[df["object_id"].notna()]
         .reset_index()
@@ -92,6 +113,10 @@ def merge_by_same_obj_key(df):
 
 
 def long_df_from_short(df):
+    """Returns a long df from a short one, based on the column and the lists in'ground floor function'
+
+    Requires a short dataframe
+    """
     return (
         df.assign(
             ground_floor_function=lambda d: d["ground_floor_function"].str.split(",")
@@ -103,7 +128,10 @@ def long_df_from_short(df):
 
 
 def add_categories(long, category_map):
+    """Adds category column to the long df based on the function and correct the function
 
+    Requires a long dataframe and a category map
+    """
     long_category = pd.merge(
         long,
         category_map,
@@ -122,6 +150,10 @@ def add_categories(long, category_map):
 
 
 def clean_short_raw(df):
+    """Returns a cleaned short df, correcting typos in styles and adresses, merged by object id
+
+    Requires short dataframe
+    """
     return (
         df.pipe(drop_missing, column="ground_floor_function")
         .pipe(

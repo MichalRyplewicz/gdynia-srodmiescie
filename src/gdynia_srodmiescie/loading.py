@@ -39,7 +39,9 @@ CATEGORY_COLUMN_TYPES = {
 
 
 def load_df_short(source, dayfirst=True):
-    """Function require a csv file with ';' as separator with id in the first column,
+    """load short df
+
+    Requires a csv file with ';' as separator with id in the first column,
     date of checking is being parsed as date.
     """
     return pd.read_csv(
@@ -53,7 +55,9 @@ def load_df_short(source, dayfirst=True):
 
 
 def load_df_long(source, dtype=LONG_COLUMN_TYPES):
-    """Function require a csv file with ';' as separator with id in the first column,"""
+    """load long df
+
+    Requires a csv file with ';' as separator with id in the first column,"""
     return pd.read_csv(
         source,
         sep=";",

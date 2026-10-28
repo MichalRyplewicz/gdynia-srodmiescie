@@ -14,30 +14,15 @@ RAW_PATH = Path("data/raw/srodmiescie_raw_object_id.csv")
 CATEGORY_MAP_PATH = Path("data/reference/category_map.CSV")
 PROCESSED_DIR = Path("data/processed/fixed")
 FIGURES_DIR = Path("figures")
+MIN_FUNCTIONAL = 10
 
 
 def main():
+    ## Loading and cleaning data
     short = load_df_short(RAW_PATH, dayfirst=False)
     category_map = load_df_long(CATEGORY_MAP_PATH, dtype=CATEGORY_COLUMN_TYPES)
 
-    short_fin = (
-        short.pipe(cl.drop_missing, column="ground_floor_function")
-        .pipe(
-            cl.replace_to_space,
-            column="ground_floor_function",
-            to_replace="_",
-            lower=True,
-        )
-        .pipe(
-            cl.replace_to_space,
-            column="upper_floor_function",
-            to_replace="_",
-            lower=True,
-        )
-        .pipe(cl.fix_adresses)
-        .pipe(cl.fix_styles)
-        .pipe(cl.merge_by_same_obj_key)
-    )
+    short_fin = short.pipe(cl.clean_short_raw)
 
     long_fin = short_fin.pipe(cl.long_df_from_short).pipe(
         cl.add_categories, category_map
@@ -52,6 +37,35 @@ def main():
         sep=";",
         encoding="utf-8",
     )
+
+    buildings_features = (
+    short_fin.pipe(bf.add_building_floor_flags, long_fin)
+    .pipe(bf.add_building_type)
+    .pipe(bf.add_building_periods)
+    .pipe(bf.add_vacancy_kind, long_fin)
+    )
+
+    street_metr = long_fin.pipe(sm.street_metrics, buildings_features,min_functional =  MIN_FUNCTIONAL)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 if __name__ == "__main__":
