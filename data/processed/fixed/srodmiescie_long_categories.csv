@@ -1,1418 +1,1418 @@
 id;addr_street;function_clean;category
-219;Stefana Żeromskiego;administracja;organizacje publiczne
-258;3 Maja;administracja;organizacje publiczne
-374;Starowiejska;administracja;organizacje publiczne
-495;10 Lutego;administracja;organizacje publiczne
-86;Jana z Kolna;administracja;organizacje publiczne
-320;Świętojańska;administracja;organizacje publiczne
-344;Starowiejska;kancelaria adwokacka;usługi
-900;Władysława IV;sklep spożywczy;handel
-18;Świętego Piotra;apartament turystyczny;noclegi
-129;Plac Kaszubski;apartament turystyczny;noclegi
-530;Antoniego Abrahama;aparthotel;noclegi
-181;Plac Kaszubski;apteka;handel
-262;Wójta Radtkego;apteka;handel
-345;Starowiejska;apteka;handel
-377;Starowiejska;apteka;handel
-389;Antoniego Abrahama;apteka;handel
-396;Starowiejska;apteka;handel
-400;Świętojańska;apteka;handel
-423;Świętojańska;apteka;handel
-572;Świętojańska;apteka;handel
-605;Skwer Tadeusza Kościuszki;apteka;handel
-678;10 Lutego;apteka;handel
-1015;Antoniego Abrahama;apteka;handel
-1102;Świętojańska;apteka;handel
-1238;Świętojańska;apteka;handel
-943;Antoniego Abrahama;apteka;handel
-181;Plac Kaszubski;bank;finanse
-234;Plac Kaszubski;bank;finanse
-270;Wójta Radtkego;bank;finanse
-412;Starowiejska;bank;finanse
-461;Kazimierza Pułaskiego;bank;finanse
-583;10 Lutego;bank;finanse
-605;Skwer Tadeusza Kościuszki;bank;finanse
-617;10 Lutego;bank;finanse
-743;Stefana Batorego;bank;finanse
-762;Świętojańska;bank;finanse
-900;Władysława IV;bank;finanse
-916;Antoniego Abrahama;bank;finanse
-920;Antoniego Abrahama;bank;finanse
-926;Antoniego Abrahama;bank;finanse
-942;Antoniego Abrahama;bank;finanse
-949;Świętojańska;bank;finanse
-1101;Świętojańska;bank;finanse
-1158;Świętojańska;bank;finanse
-1177;Świętojańska;bank;finanse
-1212;Świętojańska;bank;finanse
-9;Świętego Piotra;bar;gastronomia
-314;Starowiejska;bar;gastronomia
-318;Starowiejska;bar;gastronomia
-340;Starowiejska;bar;gastronomia
-365;Starowiejska;bar;gastronomia
-419;Antoniego Abrahama;bar;gastronomia
-445;Mściwoja;bar;gastronomia
-459;Świętojańska;bar;gastronomia
-601;Skwer Tadeusza Kościuszki;bar;gastronomia
-658;10 Lutego;bar;gastronomia
-698;Antoniego Abrahama;bar;gastronomia
-725;Skwer Tadeusza Kościuszki;bar;gastronomia
-769;;bar;gastronomia
-878;Antoniego Abrahama;bar;gastronomia
-1016;Świętojańska;bar;gastronomia
-1126;Świętojańska;bar;gastronomia
-1147;Świętojańska;bar;gastronomia
-1205;Świętojańska;bar;gastronomia
-982;Antoniego Abrahama;bar mleczny;gastronomia
-469;Zygmunta Augusta;barber;usługi
-1126;Świętojańska;barber;usługi
-233;Władysława IV;biblioteka;organizacje publiczne
-985;Antoniego Abrahama;biblioteka;organizacje publiczne
-791;Antoniego Abrahama;sklep spożywczy;handel
-1198;Generała Józefa Bema;sklep spożywczy;handel
-611;Skwer Tadeusza Kościuszki;bistro;gastronomia
-1014;Świętojańska;bistro;gastronomia
-525;Zgoda;usługi nieruchomości;usługi
-244;Wójta Radtkego;biuro obsługi klienta zkm;transport
-1041;Jana Kilińskiego;biuro obsługi klienta zkm;transport
-914;Świętojańska;biuro podróży;usługi
-531;Władysława IV;biuro rachunkowe;usługi
-1265;Jana Kilińskiego;biuro rachunkowe;usługi
-1277;Juliusza Słowackiego;biuro rachunkowe;usługi
+1;Świętego Piotra;hotel;noclegi
+2;Świętego Piotra;mieszkaniowa wielorodzinna;mieszkaniowa
+3;Węglowa;centrum handlowe;handel
+4;Świętego Piotra;mieszkaniowa wielorodzinna;mieszkaniowa
+5;Tadeusza Wendy;centrum medyczne;zdrowie
 6;Tadeusza Wendy;biurowa;biura
 7;Tadeusza Wendy;biurowa;biura
 8;Tadeusza Wendy;biurowa;biura
-59;Jerzego Waszyngtona;biurowa;biura
-144;Plac Kaszubski;biurowa;biura
-147;Jana z Kolna;biurowa;biura
-153;Antoniego Hryniewickiego;biurowa;biura
-157;Antoniego Hryniewickiego;biurowa;biura
-167;Antoniego Hryniewickiego;biurowa;biura
-170;Antoniego Hryniewickiego;biurowa;biura
-172;Antoniego Hryniewickiego;biurowa;biura
-180;Antoniego Hryniewickiego;biurowa;biura
-192;Antoniego Hryniewickiego;biurowa;biura
-194;Antoniego Hryniewickiego;biurowa;biura
-278;Jerzego Waszyngtona;biurowa;biura
-283;Hieronima Derdowskiego;biurowa;biura
-352;Stefana Żeromskiego;biurowa;biura
-385;Jerzego Waszyngtona;biurowa;biura
-420;Jerzego Waszyngtona;biurowa;biura
-537;Mściwoja;biurowa;biura
-560;Zygmunta Augusta;biurowa;biura
-710;Stefana Batorego;biurowa;biura
-774;Aleja Jana Pawła II;biurowa;biura
-846;Armii Krajowej;biurowa;biura
-848;Armii Krajowej;biurowa;biura
-998;Franciszka Żwirki i Stanisława Wigury;biurowa;biura
-683;Antoniego Abrahama;bukmacher;kultura i rozrywka
-3;Węglowa;centrum handlowe;handel
-277;3 Maja;centrum handlowe;handel
-438;Starowiejska;centrum handlowe;handel
-662;10 Lutego;centrum handlowe;handel
-1159;Romualda Traugutta;centrum integracji;organizacje publiczne
-959;Władysława IV;centrum medyczne;zdrowie
-979;Władysława IV;centrum medyczne;zdrowie
-5;Tadeusza Wendy;centrum medyczne;zdrowie
+8;Tadeusza Wendy;usługi transport;usługi
+9;Świętego Piotra;bar;gastronomia
+10;Tadeusza Wendy;usługi transport;usługi
 11;Świętego Piotra;centrum medyczne;zdrowie
-84;Świętego Wojciecha;centrum medyczne;zdrowie
-115;Plac Kaszubski;centrum medyczne;zdrowie
-133;Stefana Żeromskiego;centrum medyczne;zdrowie
-257;Antoniego Hryniewickiego;centrum medyczne;zdrowie
-380;Starowiejska;centrum medyczne;zdrowie
-418;3 Maja;centrum medyczne;zdrowie
-436;Kazimierza Pułaskiego;centrum medyczne;zdrowie
-498;3 Maja;centrum medyczne;zdrowie
-501;Zygmunta Augusta;centrum medyczne;zdrowie
-507;Świętojańska;centrum medyczne;zdrowie
-1010;Franciszka Żwirki i Stanisława Wigury;centrum medyczne;zdrowie
-1060;Jana Kilińskiego;centrum medyczne;zdrowie
-1152;Generała Józefa Bema;centrum medyczne;zdrowie
-1161;Generała Józefa Bema;centrum medyczne;zdrowie
-1255;Generała Józefa Bema;centrum medyczne;zdrowie
-1281;Juliusza Słowackiego;centrum medyczne;zdrowie
-1317;Ignacego Krasickiego;centrum medyczne;zdrowie
-913;Obrońców Wybrzeża;medycyna estetyczna;zdrowie
-830;Armii Krajowej;rehabilitacja;zdrowie
-120;Plac Kaszubski;cukiernia;handel
-245;Wójta Radtkego;cukiernia;handel
-423;Świętojańska;cukiernia;handel
-536;Antoniego Abrahama;cukiernia;handel
-615;Świętojańska;cukiernia;handel
-632;Świętojańska;cukiernia;handel
-657;10 Lutego;cukiernia;handel
-811;Świętojańska;cukiernia;handel
-914;Świętojańska;cukiernia;handel
-921;Świętojańska;cukiernia;handel
-944;Świętojańska;cukiernia;handel
-974;Świętojańska;cukiernia;handel
-1042;Świętojańska;cukiernia;handel
-1066;Jana Kilińskiego;cukiernia;handel
-1174;Żołnierzy I Armii Wojska Polskiego;cukiernia;handel
-1223;Świętojańska;cukiernia;handel
-1233;Świętojańska;cukiernia;handel
-332;Starowiejska;delikatesy;handel
-400;Świętojańska;delikatesy;handel
-607;Świętojańska;delikatesy;handel
-671;10 Lutego;delikatesy;handel
-930;Antoniego Abrahama;delikatesy;handel
-962;Świętojańska;delikatesy;handel
-225;Arkadiusza Rybickiego;stomatolog;zdrowie
-229;Arkadiusza Rybickiego;stomatolog;zdrowie
-257;Antoniego Hryniewickiego;stomatolog;zdrowie
-754;Stefana Batorego;stomatolog;zdrowie
-909;Józefa Wybickiego;stomatolog;zdrowie
-913;Obrońców Wybrzeża;stomatolog;zdrowie
-930;Antoniego Abrahama;stomatolog;zdrowie
-940;Obrońców Wybrzeża;stomatolog;zdrowie
-1037;Świętojańska;stomatolog;zdrowie
-1224;Władysława IV;stomatolog;zdrowie
-1297;Żołnierzy I Armii Wojska Polskiego;stomatolog;zdrowie
-257;Antoniego Hryniewickiego;dermatolog;zdrowie
-328;Starowiejska;drogeria;handel
-631;10 Lutego;drogeria;handel
-764;Świętojańska;drogeria;handel
-777;Władysława IV;drogeria;handel
-565;Szkolna;drukarnia;usługi
-988;Franciszka Żwirki i Stanisława Wigury;drukarnia;usługi
-291;Plac Konstytucji;dworzec kolejowy;transport
-298;Plac Konstytucji;dworzec kolejowy;transport
-327;Plac Konstytucji;dworzec kolejowy;transport
-338;Plac Konstytucji;dworzec kolejowy;transport
-360;Plac Konstytucji;dworzec kolejowy;transport
-494;Dworcowa;dworzec kolejowy;transport
-987;Świętojańska;handlowa;handel
-991;Franciszka Żwirki i Stanisława Wigury;handlowa;handel
-921;Świętojańska;handlowa używki;handel
-723;Skwer Tadeusza Kościuszki;escape room;kultura i rozrywka
-51;Portowa;fryzjer;usługi
-67;Portowa;fryzjer;usługi
-225;Arkadiusza Rybickiego;fryzjer;usługi
-362;Starowiejska;fryzjer;usługi
-363;Starowiejska;fryzjer;usługi
-389;Antoniego Abrahama;fryzjer;usługi
-392;Starowiejska;fryzjer;usługi
-394;Starowiejska;fryzjer;usługi
-404;Starowiejska;fryzjer;usługi
-405;3 Maja;fryzjer;usługi
-412;Starowiejska;fryzjer;usługi
-525;Zgoda;fryzjer;usługi
-533;Świętojańska;fryzjer;usługi
-538;Świętojańska;fryzjer;usługi
-636;10 Lutego;fryzjer;usługi
-714;Antoniego Abrahama;fryzjer;usługi
-725;Skwer Tadeusza Kościuszki;fryzjer;usługi
-743;Stefana Batorego;fryzjer;usługi
-777;Władysława IV;fryzjer;usługi
-809;Armii Krajowej;fryzjer;usługi
-895;Antoniego Abrahama;fryzjer;usługi
-927;Świętojańska;fryzjer;usługi
-988;Franciszka Żwirki i Stanisława Wigury;fryzjer;usługi
-1016;Świętojańska;fryzjer;usługi
-1036;Świętojańska;fryzjer;usługi
-1060;Jana Kilińskiego;fryzjer;usługi
-1078;Świętojańska;fryzjer;usługi
-1133;Świętojańska;fryzjer;usługi
-1144;Antoniego Abrahama;fryzjer;usługi
-1161;Generała Józefa Bema;fryzjer;usługi
-1172;Żołnierzy I Armii Wojska Polskiego;fryzjer;usługi
-1196;Świętojańska;fryzjer;usługi
-1295;Juliusza Słowackiego;fryzjer;usługi
-285;Hieronima Derdowskiego;fundacja;organizacje publiczne
-603;10 Lutego;centrum handlowe;handel
-714;Antoniego Abrahama;galeria sztuki;kultura i rozrywka
-879;Plac Grunwaldzki;galeria sztuki;kultura i rozrywka
-921;Świętojańska;galeria sztuki;kultura i rozrywka
-967;Antoniego Abrahama;galeria sztuki;kultura i rozrywka
-1037;Świętojańska;galeria sztuki;kultura i rozrywka
+13;Świętego Piotra;wystawowa;kultura i rozrywka
+14;Portowa;sklep monopolowy;handel
+15;Świętego Piotra;usługi techniczne;usługi
+18;Świętego Piotra;apartament turystyczny;noclegi
+19;Świętego Piotra;mieszkaniowa wielorodzinna;mieszkaniowa
+20;Stefana Żeromskiego;mieszkaniowa jednorodzinna;mieszkaniowa
 22;;garaż;garaże
+23;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
 24;;garaż;garaże
 25;;garaż;garaże
+26;Portowa;sklep monopolowy;handel
+27;Śledziowa;hurtownia;handel
+28;Portowa;sakralna;kult religijny
+29;Śledziowa;portowa;przemysł i infrastruktura
+30;Śledziowa;portowa;przemysł i infrastruktura
+31;Stefana Żeromskiego;mieszkaniowa jednorodzinna;mieszkaniowa
+32;Stefana Żeromskiego;mieszkaniowa jednorodzinna;mieszkaniowa
+33;Śledziowa;portowa;przemysł i infrastruktura
+34;Śledziowa;hurtownia;handel
 35;;garaż;garaże
+36;Portowa;handlowa;handel
 37;;garaż;garaże
 38;;garaż;garaże
+39;Śledziowa;portowa;przemysł i infrastruktura
+40;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+41;Świętego Piotra;klub muzyczny;kultura i rozrywka
 42;;garaż;garaże
+43;Śledziowa;portowa;przemysł i infrastruktura
+44;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+45;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
 47;;garaż;garaże
 48;;garaż;garaże
+50;Stefana Żeromskiego;mieszkaniowa jednorodzinna;mieszkaniowa
+51;Portowa;fryzjer;usługi
+51;Portowa;usługi masaż;zdrowie
+51;Portowa;siłownia;kultura i rozrywka
+51;Portowa;usługi zdrowie;zdrowie
 52;;garaż;garaże
 53;;garaż;garaże
+54;Stefana Żeromskiego;mieszkaniowa jednorodzinna;mieszkaniowa
+55;Jerzego Waszyngtona;mieszkaniowa jednorodzinna;mieszkaniowa
+57;Portowa;klub muzyczny;kultura i rozrywka
+59;Jerzego Waszyngtona;biurowa;biura
+60;Portowa;sakralna;kult religijny
+61;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+62;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+63;Śledziowa;hurtownia;handel
 64;;garaż;garaże
+65;Jerzego Waszyngtona;mieszkaniowa jednorodzinna;mieszkaniowa
+66;Tadeusza Wendy;mieszkaniowa jednorodzinna;mieszkaniowa
+67;Portowa;fryzjer;usługi
+68;Portowa;usługi zdrowie;zdrowie
+69;Śledziowa;portowa;przemysł i infrastruktura
+70;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+71;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
 72;;garaż;garaże
 73;;garaż;garaże
 74;;garaż;garaże
+75;Portowa;restauracja;gastronomia
+76;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+77;Tadeusza Wendy;usługi techniczne;usługi
 78;;garaż;garaże
+79;Stefana Żeromskiego;rehabilitacja;zdrowie
+81;Portowa;policja;organizacje publiczne
+83;Antoniego Hryniewickiego;portowa;przemysł i infrastruktura
+84;Świętego Wojciecha;centrum medyczne;zdrowie
+85;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
+86;Jana z Kolna;administracja;organizacje publiczne
+88;Jana z Kolna;pustostan;pustostan
+89;Jana z Kolna;hurtownia;handel
+90;Jana z Kolna;pustostan;pustostan
+91;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+92;Jana z Kolna;pustostan;pustostan
+93;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
+94;;techniczna;przemysł i infrastruktura
 96;;garaż;garaże
+97;Jana z Kolna;mieszkaniowa jednorodzinna;mieszkaniowa
+98;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
+99;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
+100;Jerzego Waszyngtona;mieszkaniowa jednorodzinna;mieszkaniowa
+102;Portowa;restauracja;gastronomia
+103;Jana z Kolna;pustostan;pustostan
+106;Portowa;restauracja;gastronomia
+109;Jana z Kolna;lumpeks;handel
+110;Jana z Kolna;hotel;noclegi
+112;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
+113;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
+115;Plac Kaszubski;centrum medyczne;zdrowie
+116;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
+117;Jana z Kolna;hotel;noclegi
+117;Jana z Kolna;restauracja;gastronomia
+119;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
+120;Plac Kaszubski;cukiernia;handel
+120;Plac Kaszubski;usługi zdrowie;zdrowie
+121;;techniczna;przemysł i infrastruktura
+122;Jerzego Waszyngtona;policja;organizacje publiczne
+123;Świętego Wojciecha;handlowa rowery;handel
+123;Świętego Wojciecha;usługi reklamowe;usługi
+124;Jana z Kolna;pustostan;pustostan
+125;Jana z Kolna;handlowa;handel
+126;Plac Kaszubski;usługi zdrowie;zdrowie
+127;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
 128;;garaż;garaże
+129;Plac Kaszubski;apartament turystyczny;noclegi
+130;Antoniego Hryniewickiego;pustostan;pustostan
+131;Antoniego Hryniewickiego;pustostan;pustostan
+132;Antoniego Hryniewickiego;pustostan;pustostan
+133;Stefana Żeromskiego;usługi zdrowie;zdrowie
+133;Stefana Żeromskiego;usługi uroda;usługi
+133;Stefana Żeromskiego;sklep spożywczy;handel
+133;Stefana Żeromskiego;piekarnia;handel
+133;Stefana Żeromskiego;centrum medyczne;zdrowie
+134;Jana z Kolna;komis sztuki;kultura i rozrywka
+135;Jana z Kolna;komis sztuki;kultura i rozrywka
+136;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
 137;;garaż;garaże
+138;Plac Kaszubski;kawiarnia;gastronomia
+139;Jana z Kolna;szkoła podstawowa;organizacje publiczne
+140;Jana z Kolna;kebab;gastronomia
+142;Jana z Kolna;konsulat kultury;kultura i rozrywka
+143;Jana z Kolna;handlowa medyczna;handel
+143;Jana z Kolna;sklep spożywczy;handel
+144;Plac Kaszubski;biurowa;biura
+145;Jana z Kolna;targ;handel
+146;Jana z Kolna;handlowa ubrania;handel
+147;Jana z Kolna;biurowa;biura
+151;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
+153;Antoniego Hryniewickiego;biurowa;biura
+154;;techniczna;przemysł i infrastruktura
+155;Jana z Kolna;kiosk;handel
+156;;techniczna;przemysł i infrastruktura
+157;Antoniego Hryniewickiego;biurowa;biura
 158;;garaż;garaże
+159;Jana z Kolna;przedszkole;organizacje publiczne
+160;Plac Kaszubski;pustostan;pustostan
+161;Janka Wiśniewskiego;warsztat samochodowy;usługi
+162;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
 163;;garaż;garaże
 164;;garaż;garaże
 165;;garaż;garaże
+166;Janka Wiśniewskiego;warsztat samochodowy;usługi
+167;Antoniego Hryniewickiego;biurowa;biura
+168;Plac Kaszubski;restauracja;gastronomia
+169;Wójta Radtkego;targ;handel
+170;Antoniego Hryniewickiego;biurowa;biura
+171;Władysława IV;magazynowa;przemysł i infrastruktura
+172;Antoniego Hryniewickiego;biurowa;biura
+173;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
 176;;garaż;garaże
+177;Janka Wiśniewskiego;warsztat samochodowy;usługi
+178;Władysława IV;mieszkaniowa wielorodzinna;mieszkaniowa
+180;Antoniego Hryniewickiego;biurowa;biura
+181;Plac Kaszubski;apteka;handel
+181;Plac Kaszubski;bank;finanse
+182;Wójta Radtkego;mieszkaniowa wielorodzinna;mieszkaniowa
+183;Wójta Radtkego;mieszkaniowa wielorodzinna;mieszkaniowa
+184;;techniczna;przemysł i infrastruktura
+185;;techniczna;przemysł i infrastruktura
+186;Plac Kaszubski;usługi zdrowie;zdrowie
+186;Plac Kaszubski;handlowa ubrania;handel
+187;Jana z Kolna;sąd;organizacje publiczne
+188;Wójta Radtkego;targ;handel
+189;Wójta Radtkego;rehabilitacja;zdrowie
+191;Wójta Radtkego;targ;handel
+192;Antoniego Hryniewickiego;biurowa;biura
+193;Stefana Żeromskiego;usługi techniczne;usługi
+194;Antoniego Hryniewickiego;biurowa;biura
+195;Stefana Żeromskiego;mieszkaniowa jednorodzinna;mieszkaniowa
 196;;garaż;garaże
+197;Wójta Radtkego;targ;handel
 198;;garaż;garaże
 199;;garaż;garaże
+200;Plac Kaszubski;sklep spożywczy;handel
+200;Plac Kaszubski;brak parteru;brak parteru
 201;;garaż;garaże
+202;Plac Konstytucji;sąd;organizacje publiczne
+203;Wójta Radtkego;targ;handel
+204;Jerzego Waszyngtona;mieszkaniowa jednorodzinna;mieszkaniowa
+205;Wójta Radtkego;mieszkaniowa wielorodzinna;mieszkaniowa
+207;Arkadiusza Rybickiego;usługi transport;usługi
+208;Wójta Radtkego;stomatolog;zdrowie
+209;Wójta Radtkego;usługowa;usługi
+210;Plac Konstytucji;pustostan;pustostan
+211;Wójta Radtkego;targ;handel
+212;Wójta Radtkego;targ;handel
+213;Wójta Radtkego;notariusz;usługi
+214;Arkadiusza Rybickiego;portowa;przemysł i infrastruktura
+215;;pustostan;pustostan
+216;;techniczna;przemysł i infrastruktura
+218;Wójta Radtkego;targ;handel
+219;Stefana Żeromskiego;szkoła policealna;organizacje publiczne
+219;Stefana Żeromskiego;administracja;organizacje publiczne
+220;Arkadiusza Rybickiego;pustostan;pustostan
+221;Arkadiusza Rybickiego;restauracja;gastronomia
+221;Arkadiusza Rybickiego;pustostan;pustostan
+222;Arkadiusza Rybickiego;portowa;przemysł i infrastruktura
+223;Plac Konstytucji;informacja autobusowa;transport
+224;Wójta Radtkego;restauracja;gastronomia
+225;Arkadiusza Rybickiego;stomatolog;zdrowie
+225;Arkadiusza Rybickiego;fryzjer;usługi
+226;Wójta Radtkego;szpital;zdrowie
+227;Stefana Żeromskiego;hostel;noclegi
+228;Wójta Radtkego;handlowa;handel
+229;Arkadiusza Rybickiego;stomatolog;zdrowie
+229;Arkadiusza Rybickiego;pustostan;pustostan
+231;Arkadiusza Rybickiego;restauracja;gastronomia
+232;Plac Konstytucji;pustostan;pustostan
+233;Władysława IV;biblioteka;organizacje publiczne
+234;Plac Kaszubski;sklep wielobranżowy;handel
+234;Plac Kaszubski;bank;finanse
+234;Plac Kaszubski;usługi zdrowie;zdrowie
+235;Wójta Radtkego;szpital;zdrowie
+236;Arkadiusza Rybickiego;sklep monopolowy;handel
+237;Wójta Radtkego;straż pożarna;organizacje publiczne
+238;Hieronima Derdowskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+240;Hieronima Derdowskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+242;;brak parteru;brak parteru
+243;Wójta Radtkego;straż pożarna;organizacje publiczne
+244;Wójta Radtkego;biuro obsługi klienta zkm;transport
+245;Wójta Radtkego;cukiernia;handel
+246;Wójta Radtkego;zegarmistrz;usługi
+246;Wójta Radtkego;handlowa używki;handel
+247;Wójta Radtkego;handlowa sprzęt;handel
+247;Wójta Radtkego;handlowa medyczna;handel
+248;Wójta Radtkego;żłobek;organizacje publiczne
+249;Wójta Radtkego;pustostan;pustostan
 250;;garaż;garaże
+251;Plac Kaszubski;szpital;zdrowie
+252;Wójta Radtkego;restauracja;gastronomia
+253;Wójta Radtkego;sklep spożywczy;handel
 255;;garaż;garaże
 256;;garaż;garaże
+257;Antoniego Hryniewickiego;stomatolog;zdrowie
+257;Antoniego Hryniewickiego;dermatolog;zdrowie
+257;Antoniego Hryniewickiego;restauracja;gastronomia
+257;Antoniego Hryniewickiego;centrum medyczne;zdrowie
+258;3 Maja;administracja;organizacje publiczne
+259;Wójta Radtkego;lombard;finanse
 260;;garaż;garaże
+261;Wójta Radtkego;sklep spożywczy;handel
+262;Wójta Radtkego;apteka;handel
+263;Władysława IV;straż pożarna;organizacje publiczne
 264;;garaż;garaże
+265;3 Maja;handlowa sprzęt;handel
 266;;garaż;garaże
+267;Wójta Radtkego;mieszkaniowa wielorodzinna;mieszkaniowa
+268;Wójta Radtkego;mieszkaniowa jednorodzinna;mieszkaniowa
 269;;garaż;garaże
+270;Wójta Radtkego;bank;finanse
+272;Wójta Radtkego;mieszkaniowa wielorodzinna;mieszkaniowa
+273;Hieronima Derdowskiego;sklep spożywczy;handel
+276;Starowiejska;szpital;zdrowie
+277;3 Maja;centrum handlowe;handel
+277;3 Maja;usługi szkolenia;usługi
+278;Jerzego Waszyngtona;biurowa;biura
+279;Wójta Radtkego;kaplica;kult religijny
 280;;garaż;garaże
+281;Jerzego Waszyngtona;sklep spożywczy;handel
+282;Władysława IV;handlowa meble;handel
+283;Hieronima Derdowskiego;biurowa;biura
+284;Jerzego Waszyngtona;usługowa;usługi
+285;Hieronima Derdowskiego;fundacja;organizacje publiczne
+286;Hieronima Derdowskiego;restauracja;gastronomia
+289;;techniczna;przemysł i infrastruktura
+290;Dworcowa;kiosk;handel
+291;Plac Konstytucji;dworzec kolejowy;transport
+292;;techniczna;przemysł i infrastruktura
+293;;techniczna;przemysł i infrastruktura
+294;Wójta Radtkego;serwis rowerowy;usługi
+295;3 Maja;mieszkaniowa wielorodzinna;mieszkaniowa
 296;;garaż;garaże
 297;;garaż;garaże
+298;Plac Konstytucji;dworzec kolejowy;transport
+299;Wójta Radtkego;mieszkaniowa wielorodzinna;mieszkaniowa
 300;;garaż;garaże
+301;Władysława IV;kawiarnia;gastronomia
+302;Starowiejska;kiosk;handel
 303;;garaż;garaże
 304;;garaż;garaże
 305;;garaż;garaże
 306;;garaż;garaże
 307;;garaż;garaże
 308;;garaż;garaże
+309;Starowiejska;restauracja;gastronomia
+310;;usługi szkolenia;usługi
 311;;garaż;garaże
 312;;garaż;garaże
+314;Starowiejska;bar;gastronomia
 315;;garaż;garaże
 316;;garaż;garaże
+318;Starowiejska;bar;gastronomia
+318;Starowiejska;ubezpieczenia;finanse
+319;Plac Konstytucji;piekarnia;handel
+319;Plac Konstytucji;sklep wielobranżowy;handel
+319;Plac Konstytucji;usługi krawiec;usługi
+320;Świętojańska;administracja;organizacje publiczne
 321;;garaż;garaże
 322;;garaż;garaże
 323;;garaż;garaże
 324;;garaż;garaże
 325;;garaż;garaże
 326;;garaż;garaże
+327;Plac Konstytucji;dworzec kolejowy;transport
+328;Starowiejska;sklep spożywczy;handel
+328;Starowiejska;drogeria;handel
+328;Starowiejska;usługowa;usługi
+330;;techniczna;przemysł i infrastruktura
+331;Starowiejska;restauracja;gastronomia
+332;Starowiejska;restauracja;gastronomia
+332;Starowiejska;delikatesy;handel
 333;;garaż;garaże
 334;;garaż;garaże
+335;Starowiejska;restauracja;gastronomia
+336;Starowiejska;restauracja;gastronomia
+337;3 Maja;pralnia;usługi
+337;3 Maja;księgarnia;handel
+338;Plac Konstytucji;dworzec kolejowy;transport
+340;Starowiejska;piekarnia;handel
+340;Starowiejska;lombard;finanse
+340;Starowiejska;bar;gastronomia
 342;;garaż;garaże
+343;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+344;Starowiejska;restauracja;gastronomia
+344;Starowiejska;kancelaria adwokacka;usługi
+344;Starowiejska;handlowa komputery;handel
+345;Starowiejska;apteka;handel
+346;Starowiejska;usługi telekomunikacja;usługi
+347;Starowiejska;handlowa ubrania;handel
+347;Starowiejska;usługi uroda;usługi
+348;Starowiejska;handlowa papiernicza;handel
+349;Starowiejska;piekarnia;handel
 350;;garaż;garaże
 351;;garaż;garaże
+352;Stefana Żeromskiego;biurowa;biura
+353;Starowiejska;restauracja;gastronomia
+353;Starowiejska;usługi zdrowie;zdrowie
+354;Starowiejska;handlowa ubrania;handel
+355;Jerzego Waszyngtona;pustostan;pustostan
+356;Świętojańska;piekarnia;handel
+357;Starowiejska;handlowa ubrania;handel
 358;;garaż;garaże
+359;Starowiejska;handlowa ubrania;handel
+360;Plac Konstytucji;dworzec kolejowy;transport
+360;Plac Konstytucji;drogeria;handel
+360;Plac Konstytucji;restauracja;gastronomia
+361;Świętojańska;lumpeks;handel
+362;Starowiejska;fryzjer;usługi
+363;Starowiejska;restauracja;gastronomia
+363;Starowiejska;fryzjer;usługi
+364;Starowiejska;usługi krawiec;usługi
+364;Starowiejska;biuro podróży;usługi
+365;Starowiejska;bar;gastronomia
+366;Starowiejska;sklep spożywczy;handel
+367;Starowiejska;restauracja;gastronomia
+368;Starowiejska;handlowa ubrania;handel
+368;Starowiejska;restauracja;gastronomia
+368;Starowiejska;piekarnia;handel
 370;;garaż;garaże
 372;;garaż;garaże
+373;Antoniego Abrahama;handlowa ubrania;handel
+373;Antoniego Abrahama;pustostan;pustostan
+374;Starowiejska;administracja;organizacje publiczne
+375;Starowiejska;handlowa ubrania;handel
+375;Starowiejska;usługi zdrowie;zdrowie
+377;Starowiejska;apteka;handel
+377;Starowiejska;kawiarnia;gastronomia
 378;;garaż;garaże
+380;Starowiejska;centrum medyczne;zdrowie
+381;Starowiejska;restauracja;gastronomia
 382;;garaż;garaże
+383;Starowiejska;handlowa ubrania;handel
+383;Starowiejska;fotograf;usługi
+384;Starowiejska;warzywniak;handel
+384;Starowiejska;handlowa ubrania;handel
+384;Starowiejska;usługi zdrowie;zdrowie
+385;Jerzego Waszyngtona;biurowa;biura
 386;;garaż;garaże
+387;Starowiejska;piekarnia;handel
+387;Starowiejska;ubezpieczenia;finanse
+387;Starowiejska;jubiler;handel
+388;Stefana Żeromskiego;stowarzyszenie kulturalne;kultura i rozrywka
+389;Antoniego Abrahama;apteka;handel
+389;Antoniego Abrahama;fryzjer;usługi
+389;Antoniego Abrahama;kantor;finanse
 391;;garaż;garaże
+392;Starowiejska;fryzjer;usługi
+392;Starowiejska;usługowa;usługi
+393;Starowiejska;sklep spożywczy;handel
+393;Starowiejska;kawiarnia;gastronomia
+393;Starowiejska;handlowa ubrania;handel
+394;Starowiejska;fryzjer;usługi
+394;Starowiejska;handlowa;handel
+394;Starowiejska;pustostan;pustostan
+395;Jerzego Waszyngtona;usługi szkolenia;usługi
+396;Starowiejska;apteka;handel
+396;Starowiejska;handlowa;handel
 397;;garaż;garaże
+398;Starowiejska;biuro podróży;usługi
+400;Świętojańska;apteka;handel
+400;Świętojańska;delikatesy;handel
+400;Świętojańska;księgarnia;handel
+400;Świętojańska;zakład pogrzebowy;usługi
 401;;garaż;garaże
+402;Starowiejska;restauracja;gastronomia
+402;Starowiejska;lombard;finanse
+403;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+404;Starowiejska;restauracja;gastronomia
+404;Starowiejska;fryzjer;usługi
+405;3 Maja;fryzjer;usługi
+405;3 Maja;biuro podróży;usługi
+405;3 Maja;handlowa ubrania;handel
+406;Starowiejska;usługi masaż;zdrowie
+407;Starowiejska;stomatolog;zdrowie
+407;Starowiejska;kawiarnia;gastronomia
+408;Starowiejska;księgarnia;handel
+409;Starowiejska;mieszkaniowa jednorodzinna;mieszkaniowa
 410;;garaż;garaże
+411;Mściwoja;sklep spożywczy;handel
+411;Mściwoja;usługi masaż;zdrowie
+412;Starowiejska;restauracja;gastronomia
+412;Starowiejska;fryzjer;usługi
+412;Starowiejska;bank;finanse
 413;;garaż;garaże
 414;;garaż;garaże
+415;Starowiejska;mieszkaniowa jednorodzinna;mieszkaniowa
+416;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
 417;;garaż;garaże
+418;3 Maja;restauracja;gastronomia
+418;3 Maja;centrum medyczne;zdrowie
+419;Antoniego Abrahama;bar;gastronomia
+420;Jerzego Waszyngtona;biurowa;biura
+420;Jerzego Waszyngtona;stomatolog;zdrowie
+420;Jerzego Waszyngtona;brak parteru;brak parteru
 421;;garaż;garaże
+423;Świętojańska;handlowa sztuka;handel
+423;Świętojańska;apteka;handel
+423;Świętojańska;sklep spożywczy;handel
+423;Świętojańska;cukiernia;handel
+423;Świętojańska;lumpeks;handel
+424;Zygmunta Augusta;hostel;noclegi
 425;;garaż;garaże
+426;Zygmunta Augusta;brak parteru;brak parteru
 427;;garaż;garaże
+429;Starowiejska;gimnazjum;organizacje publiczne
 430;;garaż;garaże
 431;Jerzego Waszyngtona;garaż;garaże
+432;;usługi szkolenia;usługi
+434;;usługi zdrowie;zdrowie
+435;Starowiejska;brak parteru;brak parteru
+435;Starowiejska;notariusz;usługi
+436;Kazimierza Pułaskiego;centrum medyczne;zdrowie
 437;;garaż;garaże
+438;Starowiejska;centrum handlowe;handel
 439;Antoniego Abrahama;garaż;garaże
+440;3 Maja;sklep spożywczy;handel
+441;Mściwoja;mieszkaniowa wielorodzinna;mieszkaniowa
 442;;garaż;garaże
+445;Mściwoja;bar;gastronomia
+445;Mściwoja;usługowa;usługi
 446;;garaż;garaże
+447;Starowiejska;usługowa;usługi
 448;;garaż;garaże
+449;Antoniego Abrahama;usługi zdrowie;zdrowie
+449;Antoniego Abrahama;kantor;finanse
+450;Władysława IV;sklep spożywczy;handel
 451;;garaż;garaże
+452;3 Maja;handlowa medyczna;handel
+453;Jerzego Waszyngtona;hotel;noclegi
+453;Jerzego Waszyngtona;restauracja;gastronomia
+454;Antoniego Abrahama;usługi zdrowie;zdrowie
+455;Zygmunta Augusta;mieszkaniowa wielorodzinna;mieszkaniowa
+456;Plac Konstytucji;usługowa;usługi
+456;Plac Konstytucji;sklep spożywczy;handel
+456;Plac Konstytucji;restauracja;gastronomia
 457;;garaż;garaże
 458;;garaż;garaże
+459;Świętojańska;pub;gastronomia
+459;Świętojańska;bar;gastronomia
+459;Świętojańska;usługi zdrowie;zdrowie
+460;3 Maja;lombard;finanse
+460;3 Maja;fotograf;usługi
+461;Kazimierza Pułaskiego;bank;finanse
 462;;garaż;garaże
+463;Jerzego Waszyngtona;instytut meteorologii;organizacje publiczne
 464;;garaż;garaże
 465;;garaż;garaże
+466;Mściwoja;mieszkaniowa wielorodzinna;mieszkaniowa
 467;;garaż;garaże
+469;Zygmunta Augusta;pralnia;usługi
+469;Zygmunta Augusta;barber;usługi
+470;Stefana Żeromskiego;przychodnia;zdrowie
 471;;garaż;garaże
+472;;pustostan;pustostan
+473;;techniczna;przemysł i infrastruktura
+474;Kazimierza Pułaskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+475;Mściwoja;klub bilardowy;kultura i rozrywka
+476;Antoniego Abrahama;restauracja;gastronomia
 477;;garaż;garaże
+478;Antoniego Abrahama;pustostan;pustostan
 479;;garaż;garaże
+480;Zgoda;spółdzielnia mieszkaniowa;biura
+481;3 Maja;restauracja;gastronomia
+482;Mściwoja;mieszkaniowa wielorodzinna;mieszkaniowa
 483;;garaż;garaże
+484;Zgoda;mieszkaniowa wielorodzinna;mieszkaniowa
+485;Zgoda;pub;gastronomia
+486;Zgoda;mieszkaniowa wielorodzinna;mieszkaniowa
+487;Świętojańska;piekarnia;handel
+487;Świętojańska;jubiler;handel
+487;Świętojańska;kantor;finanse
+488;Dworcowa;lombard;finanse
+488;Dworcowa;restauracja;gastronomia
+489;;mieszkaniowa jednorodzinna;mieszkaniowa
+490;Władysława IV;zus;organizacje publiczne
 491;;garaż;garaże
+492;Antoniego Abrahama;usługi zdrowie;zdrowie
+492;Antoniego Abrahama;usługi złotnik;usługi
+492;Antoniego Abrahama;kawiarnia;gastronomia
+493;Antoniego Abrahama;handlowa ubrania;handel
+493;Antoniego Abrahama;usługi krawiec;usługi
+494;Dworcowa;dworzec kolejowy;transport
+495;10 Lutego;gimnazjum;organizacje publiczne
+495;10 Lutego;administracja;organizacje publiczne
 496;;garaż;garaże
+497;Kazimierza Pułaskiego;wojskowa;organizacje publiczne
+498;3 Maja;handlowa muzyczna;handel
+498;3 Maja;centrum medyczne;zdrowie
+499;Mściwoja;usługi nieruchomości;usługi
+500;Kazimierza Pułaskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+501;Zygmunta Augusta;centrum medyczne;zdrowie
 502;;garaż;garaże
+503;Świętojańska;pustostan;pustostan
+505;Dworcowa;piekarnia;handel
+505;Dworcowa;handlowa;handel
+506;Władysława IV;usługi zdrowie;zdrowie
+506;Władysława IV;handlowa ubrania;handel
+507;Świętojańska;centrum medyczne;zdrowie
+507;Świętojańska;sklep erotyczny;handel
 508;;garaż;garaże
+510;Kazimierza Pułaskiego;wojskowa;organizacje publiczne
+511;Kazimierza Pułaskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+512;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+513;Antoniego Abrahama;handlowa medyczna;handel
+513;Antoniego Abrahama;handlowa kolekcjonerska;handel
+513;Antoniego Abrahama;restauracja;gastronomia
+514;Antoniego Abrahama;restauracja;gastronomia
 516;;garaż;garaże
+517;Zygmunta Augusta;usługi krawiec;usługi
+517;Zygmunta Augusta;fotograf;usługi
+518;Zgoda;spa;zdrowie
+519;Zgoda;mieszkaniowa wielorodzinna;mieszkaniowa
+520;Zgoda;mieszkaniowa wielorodzinna;mieszkaniowa
+521;Zgoda;mieszkaniowa wielorodzinna;mieszkaniowa
+522;Zgoda;sklep erotyczny;handel
 523;;garaż;garaże
+524;Zgoda;mieszkaniowa wielorodzinna;mieszkaniowa
+525;Zgoda;fryzjer;usługi
+525;Zgoda;usługi nieruchomości;usługi
 526;;garaż;garaże
 527;;garaż;garaże
 528;;garaż;garaże
+529;Kazimierza Pułaskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+530;Antoniego Abrahama;aparthotel;noclegi
+531;Władysława IV;kawiarnia;gastronomia
+531;Władysława IV;biuro rachunkowe;usługi
 532;;garaż;garaże
+533;Świętojańska;usługi techniczne;usługi
+533;Świętojańska;fryzjer;usługi
+534;;mieszkaniowa jednorodzinna;mieszkaniowa
 535;;garaż;garaże
+536;Antoniego Abrahama;mieszkaniowa wielorodzinna;mieszkaniowa
+536;Antoniego Abrahama;cukiernia;handel
+537;Mściwoja;restauracja;gastronomia
+537;Mściwoja;biurowa;biura
+538;Świętojańska;fryzjer;usługi
+538;Świętojańska;sklep monopolowy;handel
+538;Świętojańska;restauracja;gastronomia
+539;;mieszkaniowa wielorodzinna;mieszkaniowa
 540;;garaż;garaże
+542;Mściwoja;usługi uroda;usługi
 543;;garaż;garaże
+544;Antoniego Abrahama;sklep spożywczy;handel
 545;;garaż;garaże
 546;;garaż;garaże
 547;;garaż;garaże
 548;;garaż;garaże
 549;;garaż;garaże
+550;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
 551;;garaż;garaże
 552;;garaż;garaże
 553;;garaż;garaże
 554;;garaż;garaże
+555;Antoniego Abrahama;kantor;finanse
 556;;garaż;garaże
 557;;garaż;garaże
+558;Stefana Żeromskiego;rehabilitacja;zdrowie
 559;;garaż;garaże
+560;Zygmunta Augusta;biurowa;biura
+561;10 Lutego;sklep spożywczy;handel
+561;10 Lutego;handlowa;handel
+561;10 Lutego;kebab;gastronomia
+562;Władysława IV;pub;gastronomia
+563;Władysława IV;pustostan;pustostan
 564;;garaż;garaże
+565;Szkolna;szkoła nauki jazdy;usługi
+565;Szkolna;drukarnia;usługi
+565;Szkolna;lombard;finanse
+565;Szkolna;optyk;handel
+566;10 Lutego;handlowa kolekcjonerska;handel
+566;10 Lutego;kebab;gastronomia
 567;;garaż;garaże
 568;Kazimierza Pułaskiego;garaż;garaże
+569;Świętojańska;salon gier;kultura i rozrywka
 570;;garaż;garaże
+571;;mieszkaniowa jednorodzinna;mieszkaniowa
+572;Świętojańska;apteka;handel
 573;;garaż;garaże
+574;10 Lutego;restauracja;gastronomia
+575;Mściwoja;handlowa obuwie;handel
+576;10 Lutego;sklep erotyczny;handel
 577;Kazimierza Pułaskiego;garaż;garaże
+578;10 Lutego;pustostan;pustostan
 579;Kazimierza Pułaskiego;garaż;garaże
+580;10 Lutego;informacja turystyczna;organizacje publiczne
+581;Antoniego Abrahama;restauracja;gastronomia
+581;Antoniego Abrahama;pustostan;pustostan
+582;;poczta;organizacje publiczne
+583;10 Lutego;kawiarnia;gastronomia
+583;10 Lutego;bank;finanse
 584;Kazimierza Pułaskiego;garaż;garaże
+585;;mieszkaniowa jednorodzinna;mieszkaniowa
+586;10 Lutego;hotel;noclegi
 587;Kazimierza Pułaskiego;garaż;garaże
 588;;garaż;garaże
+589;Stefana Żeromskiego;ubezpieczenia;finanse
 590;;garaż;garaże
 591;;garaż;garaże
 592;;garaż;garaże
 593;;garaż;garaże
+594;Antoniego Abrahama;kantor;finanse
+594;Antoniego Abrahama;usługi uroda;usługi
+595;Świętojańska;restauracja;gastronomia
 596;;garaż;garaże
+597;;mieszkaniowa jednorodzinna;mieszkaniowa
 598;;garaż;garaże
 599;;garaż;garaże
+600;Jerzego Waszyngtona;wojskowa;organizacje publiczne
+601;Skwer Tadeusza Kościuszki;kebab;gastronomia
+601;Skwer Tadeusza Kościuszki;bar;gastronomia
+603;10 Lutego;centrum handlowe;handel
+604;Skwer Tadeusza Kościuszki;restauracja;gastronomia
+605;Skwer Tadeusza Kościuszki;bank;finanse
+605;Skwer Tadeusza Kościuszki;apteka;handel
+607;Świętojańska;delikatesy;handel
+608;10 Lutego;pustostan;pustostan
+610;10 Lutego;cukiernia;handel
+611;Skwer Tadeusza Kościuszki;bistro;gastronomia
+612;10 Lutego;poczta;organizacje publiczne
+613;Świętojańska;restauracja;gastronomia
+613;Świętojańska;usługi noclegi;noclegi
+614;Antoniego Abrahama;restauracja;gastronomia
+615;Świętojańska;restauracja;gastronomia
+615;Świętojańska;cukiernia;handel
+616;Antoniego Abrahama;usługi złotnik;usługi
+616;Antoniego Abrahama;usługi krawiec;usługi
+617;10 Lutego;bank;finanse
+618;Skwer Tadeusza Kościuszki;brak parteru;brak parteru
+621;Antoniego Abrahama;mieszkaniowa jednorodzinna;mieszkaniowa
+622;Skwer Tadeusza Kościuszki;kebab;gastronomia
+622;Skwer Tadeusza Kościuszki;usługi zdrowie;zdrowie
+627;Skwer Tadeusza Kościuszki;targ;handel
+627;Skwer Tadeusza Kościuszki;pustostan;pustostan
+628;Antoniego Abrahama;kantor;finanse
 629;;garaż;garaże
+630;10 Lutego;kebab;gastronomia
+631;10 Lutego;drogeria;handel
+632;Świętojańska;cukiernia;handel
+633;10 Lutego;kantor;finanse
+634;10 Lutego;kantor;finanse
+634;10 Lutego;handlowa używki;handel
+635;Antoniego Abrahama;handlowa rękodzieło;handel
+635;Antoniego Abrahama;handlowa ubrania;handel
+635;Antoniego Abrahama;kantor;finanse
+636;10 Lutego;handlowa medyczna;handel
+636;10 Lutego;fryzjer;usługi
+636;10 Lutego;usługi pośrednictwo pracy;usługi
+637;10 Lutego;usługi zdrowie;zdrowie
+638;10 Lutego;usługi szkolenia;usługi
+639;Świętojańska;lodziarnia;gastronomia
+640;10 Lutego;handlowa ubrania;handel
+640;10 Lutego;handlowa antyki;handel
+641;10 Lutego;handlowa ubrania;handel
+642;10 Lutego;jubiler;handel
+642;10 Lutego;usługi zdrowie;zdrowie
+642;10 Lutego;restauracja;gastronomia
+643;10 Lutego;prokuratura;organizacje publiczne
+644;Aleja Jana Pawła II;kasa biletowa;transport
+645;10 Lutego;pustostan;pustostan
+649;10 Lutego;mieszkaniowa wielorodzinna;mieszkaniowa
+650;10 Lutego;usługi energetyczne;usługi
+651;10 Lutego;piekarnia;handel
+651;10 Lutego;zegarmistrz;usługi
 654;;garaż;garaże
+656;10 Lutego;piekarnia;handel
+657;10 Lutego;cukiernia;handel
+658;10 Lutego;bar;gastronomia
+658;10 Lutego;jubiler;handel
+658;10 Lutego;usługi zdrowie;zdrowie
 659;;garaż;garaże
+661;10 Lutego;przychodnia;zdrowie
+661;10 Lutego;kawiarnia;gastronomia
+662;10 Lutego;centrum handlowe;handel
+662;10 Lutego;brak parteru;brak parteru
+668;Władysława IV;kwiaciarnia;handel
+668;Władysława IV;sklep spożywczy;handel
+670;3 Maja;klub muzyczny;kultura i rozrywka
+671;10 Lutego;delikatesy;handel
 672;;garaż;garaże
+675;10 Lutego;pensjonat;noclegi
 676;;garaż;garaże
 677;;garaż;garaże
+678;10 Lutego;apteka;handel
 679;;garaż;garaże
 681;;garaż;garaże
+683;Antoniego Abrahama;handlowa ubrania;handel
+683;Antoniego Abrahama;restauracja;gastronomia
+683;Antoniego Abrahama;jubiler;handel
+683;Antoniego Abrahama;drogeria;handel
+683;Antoniego Abrahama;bukmacher;kultura i rozrywka
+684;Aleja Jana Pawła II;restauracja;gastronomia
+684;Aleja Jana Pawła II;handlowa pamiątki;handel
+685;3 Maja;klub muzyczny;kultura i rozrywka
+686;Aleja Jana Pawła II;restauracja;gastronomia
+686;Aleja Jana Pawła II;handlowa pamiątki;handel
 687;;garaż;garaże
 688;;garaż;garaże
+689;Aleja Jana Pawła II;restauracja;gastronomia
+689;Aleja Jana Pawła II;handlowa pamiątki;handel
 691;;garaż;garaże
 692;;garaż;garaże
+695;10 Lutego;sklep spożywczy;handel
+697;Władysława IV;restauracja;gastronomia
+697;Władysława IV;kancelaria adwokacka;usługi
+698;Antoniego Abrahama;bar;gastronomia
+698;Antoniego Abrahama;pub;gastronomia
+698;Antoniego Abrahama;piekarnia;handel
+698;Antoniego Abrahama;szewc;usługi
+699;Aleja Jana Pawła II;restauracja;gastronomia
+700;;techniczna;przemysł i infrastruktura
 701;;garaż;garaże
 702;;garaż;garaże
+704;3 Maja;restauracja;gastronomia
+704;3 Maja;urząd miasta;organizacje publiczne
+705;Aleja Jana Pawła II;restauracja;gastronomia
+706;Aleja Jana Pawła II;restauracja;gastronomia
+708;;techniczna;przemysł i infrastruktura
+709;Aleja Jana Pawła II;restauracja;gastronomia
+710;Stefana Batorego;biurowa;biura
+710;Stefana Batorego;usługi zdrowie;zdrowie
 712;;garaż;garaże
+714;Antoniego Abrahama;galeria sztuki;kultura i rozrywka
+714;Antoniego Abrahama;fryzjer;usługi
+716;Antoniego Abrahama;restauracja;gastronomia
+716;Antoniego Abrahama;kebab;gastronomia
+718;;techniczna;przemysł i infrastruktura
+719;Skwer Tadeusza Kościuszki;usługi telekomunikacja;usługi
+720;Skwer Tadeusza Kościuszki;lodziarnia;gastronomia
+720;Skwer Tadeusza Kościuszki;sklep spożywczy;handel
+721;Skwer Tadeusza Kościuszki;restauracja;gastronomia
+721;Skwer Tadeusza Kościuszki;usługi telekomunikacja;usługi
+722;Władysława IV;mieszkaniowa wielorodzinna;mieszkaniowa
+723;Skwer Tadeusza Kościuszki;restauracja;gastronomia
+723;Skwer Tadeusza Kościuszki;escape room;kultura i rozrywka
+724;Władysława IV;pustostan;pustostan
+725;Skwer Tadeusza Kościuszki;bar;gastronomia
+725;Skwer Tadeusza Kościuszki;fryzjer;usługi
+725;Skwer Tadeusza Kościuszki;hostel;noclegi
+725;Skwer Tadeusza Kościuszki;brak parteru;brak parteru
+727;Świętojańska;restauracja;gastronomia
+728;Stefana Batorego;studio tatuażu;usługi
+731;Stefana Batorego;mieszkaniowa wielorodzinna;mieszkaniowa
+734;Świętojańska;handlowa pamiątki;handel
+735;Antoniego Abrahama;kwiaciarnia;handel
+735;Antoniego Abrahama;serwis agd;usługi
+736;Świętojańska;informacja;organizacje publiczne
 737;;garaż;garaże
+738;Antoniego Abrahama;mieszkaniowa wielorodzinna;mieszkaniowa
+738;Antoniego Abrahama;brak parteru;brak parteru
+738;Antoniego Abrahama;usługi zdrowie;zdrowie
+738;Antoniego Abrahama;serwis gsm;usługi
+738;Antoniego Abrahama;handlowa ubrania;handel
 742;;garaż;garaże
+743;Stefana Batorego;piekarnia;handel
+743;Stefana Batorego;bank;finanse
+743;Stefana Batorego;fryzjer;usługi
+746;Świętojańska;pub;gastronomia
+746;Świętojańska;restauracja;gastronomia
 749;;garaż;garaże
 750;;garaż;garaże
+751;Antoniego Abrahama;handlowa ubrania;handel
 752;;garaż;garaże
+753;Stefana Batorego;techniczna;przemysł i infrastruktura
+754;Stefana Batorego;stomatolog;zdrowie
 755;;garaż;garaże
 756;;garaż;garaże
+757;3 Maja;pustostan;pustostan
 758;;garaż;garaże
 759;;garaż;garaże
 760;;garaż;garaże
+761;Stefana Batorego;sklep spożywczy;handel
+761;Stefana Batorego;usługi zdrowie;zdrowie
+762;Świętojańska;bank;finanse
+762;Świętojańska;restauracja;gastronomia
+762;Świętojańska;księgarnia;handel
 763;;garaż;garaże
+764;Świętojańska;drogeria;handel
+765;Armii Krajowej;kościół;kult religijny
+766;Zygmuntowska;restauracja;gastronomia
 768;;garaż;garaże
+769;;bar;gastronomia
 770;;garaż;garaże
+771;Stefana Batorego;usługi zdrowie;zdrowie
 772;3 Maja;garaż;garaże
+773;;budka strażnicza;przemysł i infrastruktura
+774;Aleja Jana Pawła II;muzeum;kultura i rozrywka
+774;Aleja Jana Pawła II;biurowa;biura
+776;Świętojańska;handlowa ubrania;handel
+776;Świętojańska;jubiler;handel
+776;Świętojańska;lodziarnia;gastronomia
+777;Władysława IV;usługi zdrowie;zdrowie
+777;Władysława IV;fryzjer;usługi
+777;Władysława IV;drogeria;handel
+777;Władysława IV;usługi nieruchomości;usługi
 778;;garaż;garaże
+781;Armii Krajowej;kościół;kult religijny
 782;;garaż;garaże
+783;Hilarego Jastaka;przychodnia;zdrowie
 784;;garaż;garaże
+785;Aleja Jana Pawła II;szkoła wyższa;organizacje publiczne
+785;Aleja Jana Pawła II;planetarium;kultura i rozrywka
+786;Aleja Jana Pawła II;muzeum;kultura i rozrywka
 790;3 Maja;garaż;garaże
+791;Antoniego Abrahama;sklep spożywczy;handel
+792;Armii Krajowej;szkoła wyższa;organizacje publiczne
+792;Armii Krajowej;szkoła wyższa;organizacje publiczne
+792;Armii Krajowej;brak parteru;brak parteru
+795;Armii Krajowej;przychodnia;zdrowie
+798;Świętojańska;pizzeria;gastronomia
+800;Aleja Jana Pawła II;szkoła żeglarska;kultura i rozrywka
+801;Armii Krajowej;szkoła parafialna;organizacje publiczne
+801;Armii Krajowej;księgarnia;handel
+801;Armii Krajowej;przedszkole;organizacje publiczne
+801;Armii Krajowej;sanktuarium;kult religijny
 801;Armii Krajowej;garaż;garaże
+803;;pustostan;pustostan
+804;;pustostan;pustostan
+805;Aleja Jana Pawła II;restauracja;gastronomia
+806;Antoniego Abrahama;kawiarnia;gastronomia
+807;Aleja Jana Pawła II;szkoła żeglarska;kultura i rozrywka
+808;Aleja Jana Pawła II;szkoła żeglarska;kultura i rozrywka
+809;Armii Krajowej;usługi zdrowie;zdrowie
+809;Armii Krajowej;fryzjer;usługi
+810;;brak parteru;brak parteru
+811;Świętojańska;sklep wielobranżowy;handel
+811;Świętojańska;cukiernia;handel
+812;Antoniego Abrahama;restauracja;gastronomia
+813;3 Maja;mieszkaniowa wielorodzinna;mieszkaniowa
+814;;techniczna;przemysł i infrastruktura
+815;Armii Krajowej;hotel;noclegi
+816;;techniczna;przemysł i infrastruktura
+819;Świętojańska;kościół;kult religijny
+822;Świętojańska;lombard;finanse
+822;Świętojańska;studio tatuażu;usługi
+822;Świętojańska;pustostan;pustostan
+829;Antoniego Abrahama;kawiarnia;gastronomia
+829;Antoniego Abrahama;restauracja;gastronomia
+829;Antoniego Abrahama;serwis gsm;usługi
+829;Antoniego Abrahama;handlowa medyczna;handel
+829;Antoniego Abrahama;handlowa używki;handel
+830;Armii Krajowej;rehabilitacja;zdrowie
+832;;szkoła żeglarska;kultura i rozrywka
+833;Armii Krajowej;mieszkaniowa wielorodzinna;mieszkaniowa
+834;Armii Krajowej;mieszkaniowa wielorodzinna;mieszkaniowa
+835;Armii Krajowej;brak parteru;brak parteru
+836;Armii Krajowej;sklep spożywczy;handel
+837;Armii Krajowej;mieszkaniowa wielorodzinna;mieszkaniowa
 838;;garaż;garaże
+839;Armii Krajowej;mieszkaniowa wielorodzinna;mieszkaniowa
+840;Armii Krajowej;kawiarnia;gastronomia
+840;Armii Krajowej;handlowa ubrania;handel
+841;;restauracja;gastronomia
+846;Armii Krajowej;biurowa;biura
+847;;kawiarnia;gastronomia
+848;Armii Krajowej;urząd miasta;organizacje publiczne
+848;Armii Krajowej;biurowa;biura
+849;3 Maja;mieszkaniowa wielorodzinna;mieszkaniowa
+851;Armii Krajowej;optyk;handel
+851;Armii Krajowej;brak parteru;brak parteru
+853;Armii Krajowej;komis;handel
+854;Armii Krajowej;optyk;handel
+855;Armii Krajowej;optyk;handel
+856;Armii Krajowej;restauracja;gastronomia
+856;Armii Krajowej;jubiler;handel
+863;;techniczna;przemysł i infrastruktura
+865;Armii Krajowej;brak parteru;brak parteru
+865;Armii Krajowej;kawiarnia;gastronomia
+866;Świętojańska;handlowa ubrania;handel
+866;Świętojańska;lodziarnia;gastronomia
+866;Świętojańska;usługi zdrowie;zdrowie
+868;3 Maja;mieszkaniowa wielorodzinna;mieszkaniowa
+869;Armii Krajowej;pustostan;pustostan
+870;Armii Krajowej;handlowa ubrania;handel
+871;Antoniego Abrahama;usługi nieruchomości;usługi
+871;Antoniego Abrahama;komis;handel
+874;Świętojańska;restauracja;gastronomia
+874;Świętojańska;kebab;gastronomia
+874;Świętojańska;kawiarnia;gastronomia
+874;Świętojańska;księgarnia;handel
+874;Świętojańska;handlowa ubrania;handel
+876;Obrońców Wybrzeża;usługi uroda;usługi
+878;Antoniego Abrahama;bar;gastronomia
+878;Antoniego Abrahama;laboratorium medyczne;zdrowie
+878;Antoniego Abrahama;usługi techniczne;usługi
+878;Antoniego Abrahama;handlowa medyczna;handel
+879;Plac Grunwaldzki;brak parteru;brak parteru
+879;Plac Grunwaldzki;galeria sztuki;kultura i rozrywka
+879;Plac Grunwaldzki;restauracja;gastronomia
+881;Antoniego Abrahama;pustostan;pustostan
 882;;garaż;garaże
+883;;techniczna;przemysł i infrastruktura
+884;;klub jachtowy;kultura i rozrywka
+886;Świętojańska;sklep spożywczy;handel
+886;Świętojańska;restauracja;gastronomia
 888;;garaż;garaże
 891;;garaż;garaże
+892;Plac Grunwaldzki;mieszkaniowa wielorodzinna;mieszkaniowa
+894;Świętojańska;handlowa ubrania;handel
+895;Antoniego Abrahama;fryzjer;usługi
+895;Antoniego Abrahama;restauracja;gastronomia
+896;Świętojańska;restauracja;gastronomia
+896;Świętojańska;pustostan;pustostan
 897;;garaż;garaże
 898;;garaż;garaże
+900;Władysława IV;kawiarnia;gastronomia
+900;Władysława IV;restauracja;gastronomia
+900;Władysława IV;bank;finanse
+900;Władysława IV;sklep spożywczy;handel
+900;Władysława IV;sklep spożywczy;handel
+900;Władysława IV;handlowa meble;handel
+901;Antoniego Abrahama;usługi masaż;zdrowie
 902;;garaż;garaże
+903;Plac Grunwaldzki;kancelaria adwokacka;usługi
 904;;garaż;garaże
+905;Antoniego Abrahama;centrum tańca;kultura i rozrywka
+906;Świętojańska;handlowa ubrania;handel
+906;Świętojańska;pustostan;pustostan
+907;Świętojańska;pustostan;pustostan
+908;;pustostan;pustostan
+909;Józefa Wybickiego;restauracja;gastronomia
+909;Józefa Wybickiego;stomatolog;zdrowie
+910;Antoniego Abrahama;solarium;usługi
+910;Antoniego Abrahama;centrum tańca;kultura i rozrywka
+911;Antoniego Abrahama;optyk;handel
+911;Antoniego Abrahama;handlowa papiernicza;handel
+912;Plac Grunwaldzki;mieszkaniowa wielorodzinna;mieszkaniowa
+913;Obrońców Wybrzeża;medycyna estetyczna;zdrowie
+913;Obrońców Wybrzeża;stomatolog;zdrowie
+914;Świętojańska;cukiernia;handel
+914;Świętojańska;restauracja;gastronomia
+914;Świętojańska;biuro podróży;usługi
+915;Plac Grunwaldzki;teatr;kultura i rozrywka
+916;Antoniego Abrahama;bank;finanse
+917;;lodziarnia;gastronomia
+918;;restauracja;gastronomia
+919;;usługi ratownicze;organizacje publiczne
+919;;wc;przemysł i infrastruktura
+920;Antoniego Abrahama;bank;finanse
+921;Świętojańska;cukiernia;handel
+921;Świętojańska;galeria sztuki;kultura i rozrywka
+921;Świętojańska;zegarmistrz;usługi
+921;Świętojańska;handlowa używki;handel
+922;Świętojańska;handlowa ubrania;handel
+922;Świętojańska;jubiler;handel
+923;;infrastruktura;przemysł i infrastruktura
+924;Plac Grunwaldzki;klub nocny;kultura i rozrywka
+926;Antoniego Abrahama;restauracja;gastronomia
+926;Antoniego Abrahama;bank;finanse
+927;Świętojańska;kosmetyczka;usługi
+927;Świętojańska;fryzjer;usługi
+927;Świętojańska;restauracja;gastronomia
+927;Świętojańska;drogeria;handel
+928;;techniczna;przemysł i infrastruktura
+929;;lodziarnia;gastronomia
+930;Antoniego Abrahama;sklep spożywczy;handel
+930;Antoniego Abrahama;stomatolog;zdrowie
+930;Antoniego Abrahama;delikatesy;handel
+930;Antoniego Abrahama;brak parteru;brak parteru
+933;Świętojańska;usługi zdrowie;zdrowie
+933;Świętojańska;kiosk;handel
+933;Świętojańska;jubiler;handel
+933;Świętojańska;kawiarnia;gastronomia
+935;;techniczna;przemysł i infrastruktura
+936;;techniczna;przemysł i infrastruktura
 937;;garaż;garaże
 938;;garaż;garaże
 939;;garaż;garaże
+940;Obrońców Wybrzeża;stomatolog;zdrowie
+940;Obrońców Wybrzeża;laboratorium medyczne;zdrowie
+940;Obrońców Wybrzeża;usługi złotnik;usługi
+940;Obrońców Wybrzeża;usługi media;usługi
+941;Antoniego Abrahama;handlowa papiernicza;handel
+942;Antoniego Abrahama;handlowa papiernicza;handel
+942;Antoniego Abrahama;bank;finanse
+943;Antoniego Abrahama;sklep spożywczy;handel
+943;Antoniego Abrahama;apteka;handel
+944;Świętojańska;handlowa papiernicza;handel
+944;Świętojańska;cukiernia;handel
+944;Świętojańska;optyk;handel
+944;Świętojańska;sklep spożywczy;handel
+945;Obrońców Wybrzeża;mieszkaniowa wielorodzinna;mieszkaniowa
+946;Obrońców Wybrzeża;restauracja;gastronomia
+947;Obrońców Wybrzeża;przychodnia;zdrowie
+948;Obrońców Wybrzeża;mieszkaniowa wielorodzinna;mieszkaniowa
+949;Świętojańska;restauracja;gastronomia
+949;Świętojańska;bank;finanse
+950;Świętojańska;sklep wielobranżowy;handel
+951;Antoniego Abrahama;handlowa gry;handel
+951;Antoniego Abrahama;usługi uroda;usługi
+954;;techniczna;przemysł i infrastruktura
+956;;mieszkaniowa jednorodzinna;mieszkaniowa
+957;Antoniego Abrahama;ośrodek pomocy społecznej;organizacje publiczne
+958;Antoniego Abrahama;handlowa sztuka;handel
+959;Władysława IV;piekarnia;handel
+959;Władysława IV;sklep spożywczy;handel
+959;Władysława IV;handlowa medyczna;handel
+959;Władysława IV;centrum medyczne;zdrowie
+959;Władysława IV;solarium;usługi
+959;Władysława IV;handlowa rowery;handel
+959;Władysława IV;skarbiec;finanse
+959;Władysława IV;handlowa meble;handel
+960;;techniczna;przemysł i infrastruktura
 961;;garaż;garaże
+962;Świętojańska;restauracja;gastronomia
+962;Świętojańska;kebab;gastronomia
+962;Świętojańska;delikatesy;handel
+963;Świętojańska;kawiarnia;gastronomia
 965;;garaż;garaże
+966;;techniczna;przemysł i infrastruktura
+967;Antoniego Abrahama;restauracja;gastronomia
+967;Antoniego Abrahama;galeria sztuki;kultura i rozrywka
+968;Świętojańska;kebab;gastronomia
+968;Świętojańska;piekarnia;handel
+968;Świętojańska;lombard;finanse
+969;Antoniego Abrahama;usługi zdrowie;zdrowie
 971;;garaż;garaże
 972;;garaż;garaże
+973;;techniczna;przemysł i infrastruktura
+974;Świętojańska;pustostan;pustostan
+974;Świętojańska;cukiernia;handel
+974;Świętojańska;lombard;finanse
 975;;garaż;garaże
+976;Antoniego Abrahama;restauracja;gastronomia
+977;Franciszka Żwirki i Stanisława Wigury;pogotowie;organizacje publiczne
+978;Świętojańska;handlowa ubrania;handel
+979;Władysława IV;centrum medyczne;zdrowie
 981;;garaż;garaże
+982;Antoniego Abrahama;bar mleczny;gastronomia
+983;Świętojańska;handlowa ubrania;handel
+985;Antoniego Abrahama;biblioteka;organizacje publiczne
+987;Świętojańska;handlowa;handel
+988;Franciszka Żwirki i Stanisława Wigury;sklep monopolowy;handel
+988;Franciszka Żwirki i Stanisława Wigury;handlowa ubrania;handel
+988;Franciszka Żwirki i Stanisława Wigury;handlowa chemia;handel
+988;Franciszka Żwirki i Stanisława Wigury;drukarnia;usługi
+988;Franciszka Żwirki i Stanisława Wigury;fryzjer;usługi
+988;Franciszka Żwirki i Stanisława Wigury;salon gier;kultura i rozrywka
+990;;sklep wielobranżowy;handel
+991;Franciszka Żwirki i Stanisława Wigury;handlowa;handel
 992;;garaż;garaże
 993;;garaż;garaże
+994;Świętojańska;lumpeks;handel
+994;Świętojańska;usługi zdrowie;zdrowie
+996;;techniczna;przemysł i infrastruktura
+997;Franciszka Żwirki i Stanisława Wigury;usługi zdrowie;zdrowie
+998;Franciszka Żwirki i Stanisława Wigury;biurowa;biura
+999;Antoniego Abrahama;sklep spożywczy;handel
+1001;Franciszka Żwirki i Stanisława Wigury;biuro podróży;usługi
+1002;Władysława IV;spółdzielnia mieszkaniowa;biura
+1003;Antoniego Abrahama;handlowa techniczna;handel
+1004;Franciszka Żwirki i Stanisława Wigury;solarium;usługi
+1004;Franciszka Żwirki i Stanisława Wigury;sklep spożywczy;handel
+1004;Franciszka Żwirki i Stanisława Wigury;usługi nieruchomości;usługi
+1005;Antoniego Abrahama;usługi społeczne;organizacje publiczne
+1006;Franciszka Żwirki i Stanisława Wigury;pustostan;pustostan
+1007;Antoniego Abrahama;pustostan;pustostan
+1008;Świętojańska;sklep spożywczy;handel
+1008;Świętojańska;kosmetyczka;usługi
+1008;Świętojańska;okulista;zdrowie
+1010;Franciszka Żwirki i Stanisława Wigury;kosmetyczka;usługi
+1010;Franciszka Żwirki i Stanisława Wigury;centrum medyczne;zdrowie
+1010;Franciszka Żwirki i Stanisława Wigury;optyk;handel
+1011;Władysława IV;mieszkaniowa wielorodzinna;mieszkaniowa
+1011;Władysława IV;usługi uroda;usługi
+1013;Franciszka Żwirki i Stanisława Wigury;mieszkaniowa wielorodzinna;mieszkaniowa
+1014;Świętojańska;bistro;gastronomia
+1014;Świętojańska;usługi telekomunikacja;usługi
+1015;Antoniego Abrahama;apteka;handel
+1016;Świętojańska;handlowa ubrania;handel
+1016;Świętojańska;fryzjer;usługi
+1016;Świętojańska;bar;gastronomia
 1017;;garaż;garaże
 1018;;garaż;garaże
 1019;;garaż;garaże
+1020;Antoniego Abrahama;pub;gastronomia
+1020;Antoniego Abrahama;usługi pośrednictwo pracy;usługi
+1022;Świętojańska;usługi telekomunikacja;usługi
+1023;Świętojańska;pustostan;pustostan
+1023;Świętojańska;restauracja;gastronomia
+1024;Antoniego Abrahama;restauracja;gastronomia
+1025;Juliusza Słowackiego;mieszkaniowa wielorodzinna;mieszkaniowa
 1028;;garaż;garaże
 1029;;garaż;garaże
 1031;;garaż;garaże
+1032;Świętojańska;piekarnia;handel
+1032;Świętojańska;handlowa kuchenna;handel
+1033;Antoniego Abrahama;restauracja;gastronomia
+1034;Juliusza Słowackiego;mieszkaniowa wielorodzinna;mieszkaniowa
 1035;;garaż;garaże
+1036;Świętojańska;usługi krawiec;usługi
+1036;Świętojańska;kosmetyczka;usługi
+1036;Świętojańska;fryzjer;usługi
+1036;Świętojańska;pub;gastronomia
+1037;Świętojańska;stomatolog;zdrowie
+1037;Świętojańska;galeria sztuki;kultura i rozrywka
+1037;Świętojańska;pustostan;pustostan
+1038;Juliusza Słowackiego;mieszkaniowa wielorodzinna;mieszkaniowa
 1039;;garaż;garaże
 1040;;garaż;garaże
+1041;Jana Kilińskiego;biuro obsługi klienta zkm;transport
+1042;Świętojańska;cukiernia;handel
+1042;Świętojańska;kosmetyczka;usługi
+1042;Świętojańska;pizzeria;gastronomia
+1042;Świętojańska;usługi szklarz;usługi
 1043;;garaż;garaże
+1044;Antoniego Abrahama;brak parteru;brak parteru
+1045;Jana Kilińskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+1046;Władysława IV;przedszkole;organizacje publiczne
 1047;;garaż;garaże
+1048;Świętojańska;kawiarnia;gastronomia
+1049;Jana Kilińskiego;mieszkaniowa wielorodzinna;mieszkaniowa
 1050;;garaż;garaże
+1051;Juliusza Słowackiego;mieszkaniowa wielorodzinna;mieszkaniowa
+1052;Jana Kilińskiego;usługi uroda;usługi
+1052;Jana Kilińskiego;szkoła nauki jazdy;usługi
+1053;Świętojańska;hostel;noclegi
+1054;Jana Kilińskiego;kawiarnia;gastronomia
+1054;Jana Kilińskiego;fotograf;usługi
 1055;;garaż;garaże
+1056;;handlowa ubrania;handel
 1057;;garaż;garaże
+1060;Jana Kilińskiego;centrum medyczne;zdrowie
+1060;Jana Kilińskiego;restauracja;gastronomia
+1060;Jana Kilińskiego;fryzjer;usługi
+1061;Jana Kilińskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+1062;Jana Kilińskiego;warzywniak;handel
+1062;Jana Kilińskiego;handlowa ubrania;handel
+1063;Antoniego Abrahama;handlowa ubrania;handel
+1064;Jana Kilińskiego;przedszkole;organizacje publiczne
+1065;Jana Kilińskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+1066;Jana Kilińskiego;cukiernia;handel
+1070;Jana Kilińskiego;kawiarnia;gastronomia
+1070;Jana Kilińskiego;pub;gastronomia
+1074;Władysława IV;handlowa ubrania;handel
+1074;Władysława IV;pralnia;usługi
+1074;Władysława IV;sklep detektywistyczny;handel
+1075;Jana Kilińskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+1076;Świętojańska;kawiarnia;gastronomia
+1076;Świętojańska;restauracja;gastronomia
+1078;Świętojańska;kantor;finanse
+1078;Świętojańska;restauracja;gastronomia
+1078;Świętojańska;fryzjer;usługi
+1078;Świętojańska;paczkomat;usługi
 1079;;garaż;garaże
 1083;;garaż;garaże
+1085;;techniczna;przemysł i infrastruktura
+1086;Świętojańska;lodziarnia;gastronomia
+1086;Świętojańska;optyk;handel
+1088;Świętojańska;handlowa medyczna;handel
+1088;Świętojańska;handel militarne;handel
+1089;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
+1091;Antoniego Abrahama;mieszkaniowa wielorodzinna;mieszkaniowa
+1093;Świętojańska;okulista;zdrowie
 1094;;garaż;garaże
+1095;Generała Józefa Bema;usługi nieruchomości;usługi
+1096;Świętojańska;studio tatuażu;usługi
+1096;Świętojańska;serwis gsm;usługi
 1097;Antoniego Abrahama;garaż;garaże
+1099;Władysława IV;liceum;organizacje publiczne
 1100;;garaż;garaże
+1101;Świętojańska;bank;finanse
+1101;Świętojańska;księgarnia;handel
+1102;Świętojańska;apteka;handel
+1102;Świętojańska;pustostan;pustostan
+1103;Władysława IV;handlowa meble;handel
+1103;Władysława IV;restauracja;gastronomia
+1105;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
 1107;;garaż;garaże
 1110;;garaż;garaże
+1111;Świętojańska;handlowa ubrania;handel
+1113;Świętojańska;serwis gsm;usługi
+1113;Świętojańska;handlowa sztuka;handel
+1115;Generała Józefa Bema;usługi uroda;usługi
+1115;Generała Józefa Bema;psycholog;zdrowie
+1119;Świętojańska;usługi uroda;usługi
+1119;Świętojańska;kwiaciarnia;handel
+1119;Świętojańska;usługi nieruchomości;usługi
+1119;Świętojańska;sklep spożywczy;handel
+1121;Generała Józefa Bema;pustostan;pustostan
+1121;Generała Józefa Bema;handlowa muzyczna;handel
+1123;Świętojańska;restauracja;gastronomia
+1126;Świętojańska;barber;usługi
+1126;Świętojańska;bar;gastronomia
+1129;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
+1130;Władysława IV;usługi nieruchomości;usługi
+1133;Świętojańska;brak parteru;brak parteru
+1133;Świętojańska;handlowa używki;handel
+1133;Świętojańska;fryzjer;usługi
+1133;Świętojańska;usługi uroda;usługi
+1137;;techniczna;przemysł i infrastruktura
+1139;Świętojańska;sklep spożywczy;handel
+1139;Świętojańska;handlowa ubrania;handel
+1139;Świętojańska;serwis gsm;usługi
+1143;Świętojańska;restauracja;gastronomia
+1143;Świętojańska;usługi uroda;usługi
+1144;Antoniego Abrahama;kawiarnia;gastronomia
+1144;Antoniego Abrahama;fryzjer;usługi
+1147;Świętojańska;bar;gastronomia
+1147;Świętojańska;handlowa medyczna;handel
+1147;Świętojańska;pasmanteria;handel
+1148;Świętojańska;restauracja;gastronomia
+1149;;techniczna;przemysł i infrastruktura
+1151;Władysława IV;przedszkole;organizacje publiczne
+1152;Generała Józefa Bema;centrum medyczne;zdrowie
+1153;Świętojańska;siłownia;kultura i rozrywka
+1156;Świętojańska;lombard;finanse
+1156;Świętojańska;usługi krawiec;usługi
+1156;Świętojańska;ubezpieczenia;finanse
+1156;Świętojańska;kebab;gastronomia
+1158;Świętojańska;restauracja;gastronomia
+1158;Świętojańska;kawiarnia;gastronomia
+1158;Świętojańska;bank;finanse
+1159;Romualda Traugutta;kawiarnia;gastronomia
+1159;Romualda Traugutta;żłobek;organizacje publiczne
+1159;Romualda Traugutta;centrum integracji;organizacje publiczne
+1161;Generała Józefa Bema;fryzjer;usługi
+1161;Generała Józefa Bema;centrum medyczne;zdrowie
 1170;;garaż;garaże
+1171;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
+1172;Żołnierzy I Armii Wojska Polskiego;fryzjer;usługi
+1172;Żołnierzy I Armii Wojska Polskiego;restauracja;gastronomia
+1174;Żołnierzy I Armii Wojska Polskiego;cukiernia;handel
+1176;Romualda Traugutta;przychodnia;zdrowie
+1177;Świętojańska;bank;finanse
+1178;Władysława IV;laboratorium medyczne;zdrowie
+1178;Władysława IV;usługi uroda;usługi
+1185;Świętojańska;pustostan;pustostan
+1185;Świętojańska;restauracja;gastronomia
+1185;Świętojańska;handlowa medyczna;handel
+1186;Żołnierzy I Armii Wojska Polskiego;rehabilitacja;zdrowie
+1188;Świętojańska;usługi masaż;zdrowie
+1188;Świętojańska;handlowa ubrania;handel
+1194;Władysława IV;liceum;organizacje publiczne
+1195;;techniczna;przemysł i infrastruktura
+1196;Świętojańska;zakład pogrzebowy;usługi
+1196;Świętojańska;fryzjer;usługi
+1197;Świętojańska;handlowa ubrania;handel
+1197;Świętojańska;handlowa medyczna;handel
+1198;Generała Józefa Bema;sklep spożywczy;handel
+1199;Władysława IV;restauracja;gastronomia
+1199;Władysława IV;kancelaria prawnicza;usługi
+1200;Świętojańska;pustostan;pustostan
+1200;Świętojańska;restauracja;gastronomia
+1201;Świętojańska;restauracja;gastronomia
+1201;Świętojańska;pustostan;pustostan
+1202;Świętojańska;restauracja;gastronomia
+1203;Władysława IV;stowarzyszenie;organizacje publiczne
+1203;Władysława IV;usługi masaż;zdrowie
+1204;Świętojańska;drogeria;handel
+1204;Świętojańska;handlowa meble;handel
+1204;Świętojańska;usługi nieruchomości;usługi
+1205;Świętojańska;serwis gsm;usługi
+1205;Świętojańska;handlowa ceramika;handel
+1205;Świętojańska;bar;gastronomia
+1206;Generała Józefa Bema;teatr;kultura i rozrywka
+1207;Świętojańska;restauracja;gastronomia
+1207;Świętojańska;studio tatuażu;usługi
+1209;Władysława IV;handlowa meble;handel
+1209;Władysława IV;sklep spożywczy;handel
+1212;Świętojańska;sklep monopolowy;handel
+1212;Świętojańska;bank;finanse
+1214;;techniczna;przemysł i infrastruktura
+1215;Świętojańska;handlowa meble;handel
+1215;Świętojańska;pustostan;pustostan
 1220;;garaż;garaże
+1221;Świętojańska;kawiarnia;gastronomia
+1221;Świętojańska;handlowa kuchenna;handel
+1222;Świętojańska;sklep spożywczy;handel
+1223;Świętojańska;cukiernia;handel
+1224;Władysława IV;stomatolog;zdrowie
+1225;Władysława IV;pralnia;usługi
+1225;Władysława IV;usługi kredyty;finanse
+1226;Świętojańska;kwiaciarnia;handel
+1226;Świętojańska;biuro podróży;usługi
+1226;Świętojańska;pustostan;pustostan
+1227;Świętojańska;poczta;organizacje publiczne
+1227;Świętojańska;kwiaciarnia;handel
+1227;Świętojańska;handlowa ubrania;handel
 1228;;garaż;garaże
 1229;;garaż;garaże
 1230;;garaż;garaże
 1231;;garaż;garaże
-1251;;garaż;garaże
-1252;;garaż;garaże
-1254;;garaż;garaże
-1256;;garaż;garaże
-1257;;garaż;garaże
-1259;;garaż;garaże
-1260;;garaż;garaże
-1269;;garaż;garaże
-1276;;garaż;garaże
-1288;;garaż;garaże
-1294;;garaż;garaże
-1298;;garaż;garaże
-1304;;garaż;garaże
-1306;;garaż;garaże
-1309;;garaż;garaże
-1310;;garaż;garaże
-1311;;garaż;garaże
-1312;;garaż;garaże
-1320;;garaż;garaże
-429;Starowiejska;gimnazjum;organizacje publiczne
-495;10 Lutego;gimnazjum;organizacje publiczne
-829;Antoniego Abrahama;serwis gsm;usługi
-1205;Świętojańska;serwis gsm;usługi
-505;Dworcowa;handlowa;handel
-561;10 Lutego;handlowa;handel
-538;Świętojańska;sklep monopolowy;handel
-634;10 Lutego;handlowa używki;handel
-1205;Świętojańska;handlowa ceramika;handel
-988;Franciszka Żwirki i Stanisława Wigury;handlowa chemia;handel
-1074;Władysława IV;sklep detektywistyczny;handel
-1133;Świętojańska;handlowa używki;handel
-1234;Świętojańska;handlowa używki;handel
-1032;Świętojańska;handlowa kuchenna;handel
-951;Antoniego Abrahama;handlowa gry;handel
-658;10 Lutego;jubiler;handel
-566;10 Lutego;handlowa kolekcjonerska;handel
-344;Starowiejska;handlowa komputery;handel
-408;Starowiejska;księgarnia;handel
-1221;Świętojańska;handlowa kuchenna;handel
-900;Władysława IV;handlowa meble;handel
-959;Władysława IV;handlowa meble;handel
-1103;Władysława IV;handlowa meble;handel
-1204;Świętojańska;handlowa meble;handel
-1209;Władysława IV;handlowa meble;handel
-1215;Świętojańska;handlowa meble;handel
-1317;Ignacego Krasickiego;handlowa meble;handel
-143;Jana z Kolna;handlowa medyczna;handel
-878;Antoniego Abrahama;handlowa medyczna;handel
-829;Antoniego Abrahama;handlowa medyczna;handel
-959;Władysława IV;handlowa medyczna;handel
-1185;Świętojańska;handlowa medyczna;handel
-1088;Świętojańska;handel militarne;handel
-1121;Generała Józefa Bema;handlowa muzyczna;handel
-871;Antoniego Abrahama;usługi nieruchomości;usługi
-1095;Generała Józefa Bema;usługi nieruchomości;usługi
-575;Mściwoja;handlowa obuwie;handel
-347;Starowiejska;handlowa ubrania;handel
-1016;Świętojańska;handlowa ubrania;handel
-1056;;handlowa ubrania;handel
-1062;Jana Kilińskiego;handlowa ubrania;handel
-1234;Świętojańska;handlowa ubrania;handel
-1086;Świętojańska;optyk;handel
-684;Aleja Jana Pawła II;handlowa pamiątki;handel
-686;Aleja Jana Pawła II;handlowa pamiątki;handel
-689;Aleja Jana Pawła II;handlowa pamiątki;handel
-734;Świętojańska;handlowa pamiątki;handel
-348;Starowiejska;handlowa papiernicza;handel
-941;Antoniego Abrahama;handlowa papiernicza;handel
-942;Antoniego Abrahama;handlowa papiernicza;handel
-911;Antoniego Abrahama;handlowa papiernicza;handel
-123;Świętego Wojciecha;handlowa rowery;handel
-959;Władysława IV;handlowa rowery;handel
-811;Świętojańska;sklep wielobranżowy;handel
-990;;sklep wielobranżowy;handel
-958;Antoniego Abrahama;handlowa sztuka;handel
-1113;Świętojańska;handlowa sztuka;handel
-1003;Antoniego Abrahama;handlowa techniczna;handel
-1282;Juliusza Słowackiego;handlowa techniczna;handel
-146;Jana z Kolna;handlowa ubrania;handel
-186;Plac Kaszubski;handlowa ubrania;handel
-359;Starowiejska;handlowa ubrania;handel
-368;Starowiejska;handlowa ubrania;handel
-393;Starowiejska;handlowa ubrania;handel
-405;3 Maja;handlowa ubrania;handel
-506;Władysława IV;handlowa ubrania;handel
-738;Antoniego Abrahama;handlowa ubrania;handel
-751;Antoniego Abrahama;handlowa ubrania;handel
-840;Armii Krajowej;handlowa ubrania;handel
-866;Świętojańska;handlowa ubrania;handel
-870;Armii Krajowej;handlowa ubrania;handel
-874;Świętojańska;handlowa ubrania;handel
-894;Świętojańska;handlowa ubrania;handel
-922;Świętojańska;handlowa ubrania;handel
-978;Świętojańska;handlowa ubrania;handel
-983;Świętojańska;handlowa ubrania;handel
-988;Franciszka Żwirki i Stanisława Wigury;handlowa ubrania;handel
-1063;Antoniego Abrahama;handlowa ubrania;handel
-1074;Władysława IV;handlowa ubrania;handel
-1111;Świętojańska;handlowa ubrania;handel
-1139;Świętojańska;handlowa ubrania;handel
-1188;Świętojańska;handlowa ubrania;handel
-1197;Świętojańska;handlowa ubrania;handel
-1227;Świętojańska;handlowa ubrania;handel
-1267;Jana Kilińskiego;handlowa ubrania;handel
-829;Antoniego Abrahama;handlowa używki;handel
-950;Świętojańska;sklep wielobranżowy;handel
-1088;Świętojańska;handlowa medyczna;handel
-1147;Świętojańska;handlowa medyczna;handel
-1197;Świętojańska;handlowa medyczna;handel
-1238;Świętojańska;handlowa medyczna;handel
-36;Portowa;handlowa;handel
-125;Jana z Kolna;handlowa;handel
-228;Wójta Radtkego;handlowa;handel
-394;Starowiejska;handlowa;handel
-396;Starowiejska;handlowa;handel
-642;10 Lutego;jubiler;handel
-246;Wójta Radtkego;handlowa używki;handel
-513;Antoniego Abrahama;handlowa kolekcjonerska;handel
-337;3 Maja;księgarnia;handel
-668;Władysława IV;kwiaciarnia;handel
-282;Władysława IV;handlowa meble;handel
-513;Antoniego Abrahama;handlowa medyczna;handel
-498;3 Maja;handlowa muzyczna;handel
-777;Władysława IV;usługi nieruchomości;usługi
-640;10 Lutego;handlowa ubrania;handel
-641;10 Lutego;handlowa ubrania;handel
-906;Świętojańska;handlowa ubrania;handel
-635;Antoniego Abrahama;handlowa rękodzieło;handel
-247;Wójta Radtkego;handlowa sprzęt;handel
-265;3 Maja;handlowa sprzęt;handel
-423;Świętojańska;handlowa sztuka;handel
-398;Starowiejska;biuro podróży;usługi
-354;Starowiejska;handlowa ubrania;handel
-357;Starowiejska;handlowa ubrania;handel
-373;Antoniego Abrahama;handlowa ubrania;handel
-375;Starowiejska;handlowa ubrania;handel
-383;Starowiejska;handlowa ubrania;handel
-384;Starowiejska;handlowa ubrania;handel
-493;Antoniego Abrahama;handlowa ubrania;handel
-635;Antoniego Abrahama;handlowa ubrania;handel
-683;Antoniego Abrahama;handlowa ubrania;handel
-776;Świętojańska;handlowa ubrania;handel
-247;Wójta Radtkego;handlowa medyczna;handel
-452;3 Maja;handlowa medyczna;handel
-636;10 Lutego;handlowa medyczna;handel
-988;Franciszka Żwirki i Stanisława Wigury;salon gier;kultura i rozrywka
-227;Stefana Żeromskiego;hostel;noclegi
-424;Zygmunta Augusta;hostel;noclegi
-725;Skwer Tadeusza Kościuszki;hostel;noclegi
-1053;Świętojańska;hostel;noclegi
-1;Świętego Piotra;hotel;noclegi
-110;Jana z Kolna;hotel;noclegi
-117;Jana z Kolna;hotel;noclegi
-453;Jerzego Waszyngtona;hotel;noclegi
-586;10 Lutego;hotel;noclegi
-815;Armii Krajowej;hotel;noclegi
-27;Śledziowa;hurtownia;handel
-34;Śledziowa;hurtownia;handel
-63;Śledziowa;hurtownia;handel
-89;Jana z Kolna;hurtownia;handel
-736;Świętojańska;informacja;organizacje publiczne
-223;Plac Konstytucji;informacja autobusowa;transport
-580;10 Lutego;informacja turystyczna;organizacje publiczne
-923;;infrastruktura;przemysł i infrastruktura
-463;Jerzego Waszyngtona;instytut meteorologii;organizacje publiczne
-487;Świętojańska;jubiler;handel
-683;Antoniego Abrahama;jubiler;handel
-776;Świętojańska;jubiler;handel
-856;Armii Krajowej;jubiler;handel
-922;Świętojańska;jubiler;handel
-933;Świętojańska;jubiler;handel
-697;Władysława IV;kancelaria adwokacka;usługi
-903;Plac Grunwaldzki;kancelaria adwokacka;usługi
-1199;Władysława IV;kancelaria prawnicza;usługi
-635;Antoniego Abrahama;kantor;finanse
-389;Antoniego Abrahama;kantor;finanse
-449;Antoniego Abrahama;kantor;finanse
-487;Świętojańska;kantor;finanse
-555;Antoniego Abrahama;kantor;finanse
-594;Antoniego Abrahama;kantor;finanse
-628;Antoniego Abrahama;kantor;finanse
-633;10 Lutego;kantor;finanse
-634;10 Lutego;kantor;finanse
-1078;Świętojańska;kantor;finanse
-279;Wójta Radtkego;kaplica;kult religijny
-644;Aleja Jana Pawła II;kasa biletowa;transport
-138;Plac Kaszubski;kawiarnia;gastronomia
-301;Władysława IV;kawiarnia;gastronomia
-377;Starowiejska;kawiarnia;gastronomia
-393;Starowiejska;kawiarnia;gastronomia
-407;Starowiejska;kawiarnia;gastronomia
-492;Antoniego Abrahama;kawiarnia;gastronomia
-531;Władysława IV;kawiarnia;gastronomia
-583;10 Lutego;kawiarnia;gastronomia
-661;10 Lutego;kawiarnia;gastronomia
-806;Antoniego Abrahama;kawiarnia;gastronomia
-829;Antoniego Abrahama;kawiarnia;gastronomia
-847;;kawiarnia;gastronomia
-865;Armii Krajowej;kawiarnia;gastronomia
-874;Świętojańska;kawiarnia;gastronomia
-900;Władysława IV;kawiarnia;gastronomia
-933;Świętojańska;kawiarnia;gastronomia
-963;Świętojańska;kawiarnia;gastronomia
-1048;Świętojańska;kawiarnia;gastronomia
-1054;Jana Kilińskiego;kawiarnia;gastronomia
-1070;Jana Kilińskiego;kawiarnia;gastronomia
-1076;Świętojańska;kawiarnia;gastronomia
-1144;Antoniego Abrahama;kawiarnia;gastronomia
-1158;Świętojańska;kawiarnia;gastronomia
-1159;Romualda Traugutta;kawiarnia;gastronomia
-1221;Świętojańska;kawiarnia;gastronomia
+1232;Władysława IV;brak parteru;brak parteru
+1232;Władysława IV;restauracja;gastronomia
 1233;Świętojańska;kawiarnia;gastronomia
-140;Jana z Kolna;kebab;gastronomia
-561;10 Lutego;kebab;gastronomia
-566;10 Lutego;kebab;gastronomia
-601;Skwer Tadeusza Kościuszki;kebab;gastronomia
-622;Skwer Tadeusza Kościuszki;kebab;gastronomia
-630;10 Lutego;kebab;gastronomia
-716;Antoniego Abrahama;kebab;gastronomia
-874;Świętojańska;kebab;gastronomia
-962;Świętojańska;kebab;gastronomia
-968;Świętojańska;kebab;gastronomia
-1156;Świętojańska;kebab;gastronomia
-155;Jana z Kolna;kiosk;handel
-290;Dworcowa;kiosk;handel
-302;Starowiejska;kiosk;handel
-933;Świętojańska;kiosk;handel
-1237;Władysława IV;kiosk;handel
-475;Mściwoja;klub bilardowy;kultura i rozrywka
-884;;klub jachtowy;kultura i rozrywka
-41;Świętego Piotra;klub muzyczny;kultura i rozrywka
-57;Portowa;klub muzyczny;kultura i rozrywka
-670;3 Maja;klub muzyczny;kultura i rozrywka
-685;3 Maja;klub muzyczny;kultura i rozrywka
-924;Plac Grunwaldzki;klub nocny;kultura i rozrywka
-134;Jana z Kolna;komis sztuki;kultura i rozrywka
-135;Jana z Kolna;komis sztuki;kultura i rozrywka
-142;Jana z Kolna;konsulat kultury;kultura i rozrywka
-542;Mściwoja;usługi uroda;usługi
-876;Obrońców Wybrzeża;usługi uroda;usługi
-1011;Władysława IV;usługi uroda;usługi
-1324;Żołnierzy I Armii Wojska Polskiego;usługi uroda;usługi
-927;Świętojańska;kosmetyczka;usługi
-1008;Świętojańska;kosmetyczka;usługi
-1010;Franciszka Żwirki i Stanisława Wigury;kosmetyczka;usługi
-1036;Świętojańska;kosmetyczka;usługi
-1042;Świętojańska;kosmetyczka;usługi
-1325;Żołnierzy I Armii Wojska Polskiego;kosmetyczka;usługi
-765;Armii Krajowej;kościół;kult religijny
-781;Armii Krajowej;kościół;kult religijny
-819;Świętojańska;kościół;kult religijny
-1036;Świętojańska;usługi krawiec;usługi
-400;Świętojańska;księgarnia;handel
-762;Świętojańska;księgarnia;handel
-801;Armii Krajowej;księgarnia;handel
-874;Świętojańska;księgarnia;handel
-1101;Świętojańska;księgarnia;handel
-735;Antoniego Abrahama;kwiaciarnia;handel
-1119;Świętojańska;kwiaciarnia;handel
-1226;Świętojańska;kwiaciarnia;handel
-1227;Świętojańska;kwiaciarnia;handel
-878;Antoniego Abrahama;laboratorium medyczne;zdrowie
-940;Obrońców Wybrzeża;laboratorium medyczne;zdrowie
+1233;Świętojańska;cukiernia;handel
+1233;Świętojańska;biuro podróży;usługi
+1234;Świętojańska;sklep spożywczy;handel
+1234;Świętojańska;handlowa ubrania;handel
+1234;Świętojańska;handlowa używki;handel
+1236;;techniczna;przemysł i infrastruktura
 1237;Władysława IV;laboratorium medyczne;zdrowie
-1178;Władysława IV;laboratorium medyczne;zdrowie
-1099;Władysława IV;liceum;organizacje publiczne
-1194;Władysława IV;liceum;organizacje publiczne
-944;Świętojańska;sklep spożywczy;handel
-776;Świętojańska;lodziarnia;gastronomia
-639;Świętojańska;lodziarnia;gastronomia
-720;Skwer Tadeusza Kościuszki;lodziarnia;gastronomia
-866;Świętojańska;lodziarnia;gastronomia
-917;;lodziarnia;gastronomia
-929;;lodziarnia;gastronomia
-1086;Świętojańska;lodziarnia;gastronomia
-969;Antoniego Abrahama;usługi zdrowie;zdrowie
-259;Wójta Radtkego;lombard;finanse
-340;Starowiejska;lombard;finanse
-460;3 Maja;lombard;finanse
-488;Dworcowa;lombard;finanse
-565;Szkolna;lombard;finanse
-822;Świętojańska;lombard;finanse
-968;Świętojańska;lombard;finanse
-974;Świętojańska;lombard;finanse
-1156;Świętojańska;lombard;finanse
-402;Starowiejska;lombard;finanse
-109;Jana z Kolna;lumpeks;handel
-361;Świętojańska;lumpeks;handel
-423;Świętojańska;lumpeks;handel
-994;Świętojańska;lumpeks;handel
-93;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
-99;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
-112;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
-116;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
-119;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
-127;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
-136;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
-151;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
-162;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
-171;Władysława IV;magazynowa;przemysł i infrastruktura
-173;Antoniego Hryniewickiego;magazynowa;przemysł i infrastruktura
-347;Starowiejska;usługi uroda;usługi
-610;10 Lutego;cukiernia;handel
-51;Portowa;usługi masaż;zdrowie
-1188;Świętojańska;usługi masaż;zdrowie
-360;Plac Konstytucji;restauracja;gastronomia
-20;Stefana Żeromskiego;mieszkaniowa jednorodzinna;mieszkaniowa
-31;Stefana Żeromskiego;mieszkaniowa jednorodzinna;mieszkaniowa
-32;Stefana Żeromskiego;mieszkaniowa jednorodzinna;mieszkaniowa
-50;Stefana Żeromskiego;mieszkaniowa jednorodzinna;mieszkaniowa
-54;Stefana Żeromskiego;mieszkaniowa jednorodzinna;mieszkaniowa
-55;Jerzego Waszyngtona;mieszkaniowa jednorodzinna;mieszkaniowa
-65;Jerzego Waszyngtona;mieszkaniowa jednorodzinna;mieszkaniowa
-66;Tadeusza Wendy;mieszkaniowa jednorodzinna;mieszkaniowa
-97;Jana z Kolna;mieszkaniowa jednorodzinna;mieszkaniowa
-100;Jerzego Waszyngtona;mieszkaniowa jednorodzinna;mieszkaniowa
-195;Stefana Żeromskiego;mieszkaniowa jednorodzinna;mieszkaniowa
-204;Jerzego Waszyngtona;mieszkaniowa jednorodzinna;mieszkaniowa
-268;Wójta Radtkego;mieszkaniowa jednorodzinna;mieszkaniowa
-409;Starowiejska;mieszkaniowa jednorodzinna;mieszkaniowa
-415;Starowiejska;mieszkaniowa jednorodzinna;mieszkaniowa
-489;;mieszkaniowa jednorodzinna;mieszkaniowa
-534;;mieszkaniowa jednorodzinna;mieszkaniowa
-571;;mieszkaniowa jednorodzinna;mieszkaniowa
-585;;mieszkaniowa jednorodzinna;mieszkaniowa
-597;;mieszkaniowa jednorodzinna;mieszkaniowa
-621;Antoniego Abrahama;mieszkaniowa jednorodzinna;mieszkaniowa
-956;;mieszkaniowa jednorodzinna;mieszkaniowa
-1272;;mieszkaniowa jednorodzinna;mieszkaniowa
-1278;;mieszkaniowa jednorodzinna;mieszkaniowa
-1279;;mieszkaniowa jednorodzinna;mieszkaniowa
-1323;Żołnierzy I Armii Wojska Polskiego;mieszkaniowa jednorodzinna;mieszkaniowa
-2;Świętego Piotra;mieszkaniowa wielorodzinna;mieszkaniowa
-4;Świętego Piotra;mieszkaniowa wielorodzinna;mieszkaniowa
-19;Świętego Piotra;mieszkaniowa wielorodzinna;mieszkaniowa
-23;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
-40;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-44;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-45;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
-61;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-62;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-70;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-71;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
-76;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-85;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
-91;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-98;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
-113;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
-178;Władysława IV;mieszkaniowa wielorodzinna;mieszkaniowa
-182;Wójta Radtkego;mieszkaniowa wielorodzinna;mieszkaniowa
-183;Wójta Radtkego;mieszkaniowa wielorodzinna;mieszkaniowa
-205;Wójta Radtkego;mieszkaniowa wielorodzinna;mieszkaniowa
-238;Hieronima Derdowskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-240;Hieronima Derdowskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-267;Wójta Radtkego;mieszkaniowa wielorodzinna;mieszkaniowa
-272;Wójta Radtkego;mieszkaniowa wielorodzinna;mieszkaniowa
-295;3 Maja;mieszkaniowa wielorodzinna;mieszkaniowa
-299;Wójta Radtkego;mieszkaniowa wielorodzinna;mieszkaniowa
-343;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-403;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-416;Jerzego Waszyngtona;mieszkaniowa wielorodzinna;mieszkaniowa
-441;Mściwoja;mieszkaniowa wielorodzinna;mieszkaniowa
-455;Zygmunta Augusta;mieszkaniowa wielorodzinna;mieszkaniowa
-466;Mściwoja;mieszkaniowa wielorodzinna;mieszkaniowa
-474;Kazimierza Pułaskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-482;Mściwoja;mieszkaniowa wielorodzinna;mieszkaniowa
-484;Zgoda;mieszkaniowa wielorodzinna;mieszkaniowa
-486;Zgoda;mieszkaniowa wielorodzinna;mieszkaniowa
-500;Kazimierza Pułaskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-511;Kazimierza Pułaskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-512;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-519;Zgoda;mieszkaniowa wielorodzinna;mieszkaniowa
-520;Zgoda;mieszkaniowa wielorodzinna;mieszkaniowa
-521;Zgoda;mieszkaniowa wielorodzinna;mieszkaniowa
-524;Zgoda;mieszkaniowa wielorodzinna;mieszkaniowa
-529;Kazimierza Pułaskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-536;Antoniego Abrahama;mieszkaniowa wielorodzinna;mieszkaniowa
-539;;mieszkaniowa wielorodzinna;mieszkaniowa
-550;Stefana Żeromskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-649;10 Lutego;mieszkaniowa wielorodzinna;mieszkaniowa
-722;Władysława IV;mieszkaniowa wielorodzinna;mieszkaniowa
-731;Stefana Batorego;mieszkaniowa wielorodzinna;mieszkaniowa
-738;Antoniego Abrahama;mieszkaniowa wielorodzinna;mieszkaniowa
-813;3 Maja;mieszkaniowa wielorodzinna;mieszkaniowa
-833;Armii Krajowej;mieszkaniowa wielorodzinna;mieszkaniowa
-834;Armii Krajowej;mieszkaniowa wielorodzinna;mieszkaniowa
-837;Armii Krajowej;mieszkaniowa wielorodzinna;mieszkaniowa
-839;Armii Krajowej;mieszkaniowa wielorodzinna;mieszkaniowa
-849;3 Maja;mieszkaniowa wielorodzinna;mieszkaniowa
-868;3 Maja;mieszkaniowa wielorodzinna;mieszkaniowa
-892;Plac Grunwaldzki;mieszkaniowa wielorodzinna;mieszkaniowa
-912;Plac Grunwaldzki;mieszkaniowa wielorodzinna;mieszkaniowa
-945;Obrońców Wybrzeża;mieszkaniowa wielorodzinna;mieszkaniowa
-948;Obrońców Wybrzeża;mieszkaniowa wielorodzinna;mieszkaniowa
-1011;Władysława IV;mieszkaniowa wielorodzinna;mieszkaniowa
-1013;Franciszka Żwirki i Stanisława Wigury;mieszkaniowa wielorodzinna;mieszkaniowa
-1025;Juliusza Słowackiego;mieszkaniowa wielorodzinna;mieszkaniowa
-1034;Juliusza Słowackiego;mieszkaniowa wielorodzinna;mieszkaniowa
-1038;Juliusza Słowackiego;mieszkaniowa wielorodzinna;mieszkaniowa
-1045;Jana Kilińskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-1049;Jana Kilińskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-1051;Juliusza Słowackiego;mieszkaniowa wielorodzinna;mieszkaniowa
-1061;Jana Kilińskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-1065;Jana Kilińskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-1075;Jana Kilińskiego;mieszkaniowa wielorodzinna;mieszkaniowa
-1089;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
-1091;Antoniego Abrahama;mieszkaniowa wielorodzinna;mieszkaniowa
-1105;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
-1129;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
-1171;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
+1237;Władysława IV;piekarnia;handel
+1237;Władysława IV;kiosk;handel
+1238;Świętojańska;apteka;handel
+1238;Świętojańska;handlowa medyczna;handel
 1239;Aleja Marszałka Józefa Piłsudskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+1239;Aleja Marszałka Józefa Piłsudskiego;restauracja;gastronomia
+1241;Aleja Marszałka Józefa Piłsudskiego;urząd miasta;organizacje publiczne
 1242;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
 1243;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
 1246;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
 1249;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
 1250;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
+1251;;garaż;garaże
+1252;;garaż;garaże
 1253;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
+1254;;garaż;garaże
+1255;Generała Józefa Bema;centrum medyczne;zdrowie
+1256;;garaż;garaże
+1257;;garaż;garaże
 1258;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
+1259;;garaż;garaże
+1260;;garaż;garaże
+1261;;techniczna;przemysł i infrastruktura
 1262;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
+1263;Generała Józefa Bema;restauracja;gastronomia
+1265;Jana Kilińskiego;biuro rachunkowe;usługi
+1267;Jana Kilińskiego;brak parteru;brak parteru
+1267;Jana Kilińskiego;handlowa ubrania;handel
+1269;;garaż;garaże
+1270;Jana Kilińskiego;usługi zdrowie;zdrowie
+1271;Juliusza Słowackiego;studio tatuażu;usługi
+1272;;mieszkaniowa jednorodzinna;mieszkaniowa
 1273;Juliusza Słowackiego;mieszkaniowa wielorodzinna;mieszkaniowa
 1274;Juliusza Słowackiego;mieszkaniowa wielorodzinna;mieszkaniowa
 1275;Juliusza Słowackiego;mieszkaniowa wielorodzinna;mieszkaniowa
+1276;;garaż;garaże
+1277;Juliusza Słowackiego;biuro rachunkowe;usługi
+1278;;mieszkaniowa jednorodzinna;mieszkaniowa
+1279;;mieszkaniowa jednorodzinna;mieszkaniowa
 1280;Juliusza Słowackiego;mieszkaniowa wielorodzinna;mieszkaniowa
+1281;Juliusza Słowackiego;brak parteru;brak parteru
+1281;Juliusza Słowackiego;centrum medyczne;zdrowie
+1282;Juliusza Słowackiego;handlowa techniczna;handel
+1288;;garaż;garaże
+1289;Juliusza Słowackiego;stomatolog;zdrowie
+1289;Juliusza Słowackiego;usługi masaż;zdrowie
+1294;;garaż;garaże
+1295;Juliusza Słowackiego;fryzjer;usługi
+1295;Juliusza Słowackiego;usługi uroda;usługi
+1297;Żołnierzy I Armii Wojska Polskiego;siłownia;kultura i rozrywka
+1297;Żołnierzy I Armii Wojska Polskiego;sklep spożywczy;handel
+1297;Żołnierzy I Armii Wojska Polskiego;usługi uroda;usługi
+1297;Żołnierzy I Armii Wojska Polskiego;stomatolog;zdrowie
+1298;;garaż;garaże
+1303;Aleja Marszałka Józefa Piłsudskiego;usługi masaż;zdrowie
+1303;Aleja Marszałka Józefa Piłsudskiego;pizzeria;gastronomia
+1304;;garaż;garaże
 1305;Aleja Marszałka Józefa Piłsudskiego;mieszkaniowa wielorodzinna;mieszkaniowa
+1306;;garaż;garaże
 1307;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
 1308;Generała Józefa Bema;mieszkaniowa wielorodzinna;mieszkaniowa
-1319;Ignacego Krasickiego;mieszkaniowa wielorodzinna;mieszkaniowa
-957;Antoniego Abrahama;ośrodek pomocy społecznej;organizacje publiczne
-774;Aleja Jana Pawła II;muzeum;kultura i rozrywka
-786;Aleja Jana Pawła II;muzeum;kultura i rozrywka
-565;Szkolna;szkoła nauki jazdy;usługi
-88;Jana z Kolna;pustostan;pustostan
-90;Jana z Kolna;pustostan;pustostan
-92;Jana z Kolna;pustostan;pustostan
-103;Jana z Kolna;pustostan;pustostan
-124;Jana z Kolna;pustostan;pustostan
-130;Antoniego Hryniewickiego;pustostan;pustostan
-131;Antoniego Hryniewickiego;pustostan;pustostan
-132;Antoniego Hryniewickiego;pustostan;pustostan
-160;Plac Kaszubski;pustostan;pustostan
-210;Plac Konstytucji;pustostan;pustostan
-215;;pustostan;pustostan
-220;Arkadiusza Rybickiego;pustostan;pustostan
-221;Arkadiusza Rybickiego;pustostan;pustostan
-229;Arkadiusza Rybickiego;pustostan;pustostan
-232;Plac Konstytucji;pustostan;pustostan
-249;Wójta Radtkego;pustostan;pustostan
-355;Jerzego Waszyngtona;pustostan;pustostan
-373;Antoniego Abrahama;pustostan;pustostan
-394;Starowiejska;pustostan;pustostan
-472;;pustostan;pustostan
-478;Antoniego Abrahama;pustostan;pustostan
-503;Świętojańska;pustostan;pustostan
-563;Władysława IV;pustostan;pustostan
-578;10 Lutego;pustostan;pustostan
-581;Antoniego Abrahama;pustostan;pustostan
-608;10 Lutego;pustostan;pustostan
-627;Skwer Tadeusza Kościuszki;pustostan;pustostan
-645;10 Lutego;pustostan;pustostan
-724;Władysława IV;pustostan;pustostan
-757;3 Maja;pustostan;pustostan
-803;;pustostan;pustostan
-804;;pustostan;pustostan
-822;Świętojańska;pustostan;pustostan
-869;Armii Krajowej;pustostan;pustostan
-881;Antoniego Abrahama;pustostan;pustostan
-896;Świętojańska;pustostan;pustostan
-906;Świętojańska;pustostan;pustostan
-907;Świętojańska;pustostan;pustostan
-908;;pustostan;pustostan
-974;Świętojańska;pustostan;pustostan
-1006;Franciszka Żwirki i Stanisława Wigury;pustostan;pustostan
-1007;Antoniego Abrahama;pustostan;pustostan
-1023;Świętojańska;pustostan;pustostan
-1037;Świętojańska;pustostan;pustostan
-1102;Świętojańska;pustostan;pustostan
-1121;Generała Józefa Bema;pustostan;pustostan
-1185;Świętojańska;pustostan;pustostan
-1200;Świętojańska;pustostan;pustostan
-1201;Świętojańska;pustostan;pustostan
-1215;Świętojańska;pustostan;pustostan
-1226;Świętojańska;pustostan;pustostan
-213;Wójta Radtkego;notariusz;usługi
-435;Starowiejska;notariusz;usługi
-1008;Świętojańska;okulista;zdrowie
-1093;Świętojańska;okulista;zdrowie
-565;Szkolna;optyk;handel
-851;Armii Krajowej;optyk;handel
-854;Armii Krajowej;optyk;handel
-855;Armii Krajowej;optyk;handel
-911;Antoniego Abrahama;optyk;handel
-944;Świętojańska;optyk;handel
-1010;Franciszka Żwirki i Stanisława Wigury;optyk;handel
-1078;Świętojańska;paczkomat;usługi
-773;;budka strażnicza;przemysł i infrastruktura
-1147;Świętojańska;pasmanteria;handel
-675;10 Lutego;pensjonat;noclegi
-683;Antoniego Abrahama;drogeria;handel
-133;Stefana Żeromskiego;piekarnia;handel
-319;Plac Konstytucji;piekarnia;handel
-340;Starowiejska;piekarnia;handel
-349;Starowiejska;piekarnia;handel
-356;Świętojańska;piekarnia;handel
-368;Starowiejska;piekarnia;handel
-387;Starowiejska;piekarnia;handel
-487;Świętojańska;piekarnia;handel
-505;Dworcowa;piekarnia;handel
-651;10 Lutego;piekarnia;handel
-656;10 Lutego;piekarnia;handel
-698;Antoniego Abrahama;piekarnia;handel
-743;Stefana Batorego;piekarnia;handel
-959;Władysława IV;piekarnia;handel
-968;Świętojańska;piekarnia;handel
-1032;Świętojańska;piekarnia;handel
-1237;Władysława IV;piekarnia;handel
-798;Świętojańska;pizzeria;gastronomia
-1042;Świętojańska;pizzeria;gastronomia
-1303;Aleja Marszałka Józefa Piłsudskiego;pizzeria;gastronomia
-785;Aleja Jana Pawła II;planetarium;kultura i rozrywka
-582;;poczta;organizacje publiczne
-612;10 Lutego;poczta;organizacje publiczne
-68;Portowa;usługi zdrowie;zdrowie
-977;Franciszka Żwirki i Stanisława Wigury;pogotowie;organizacje publiczne
-910;Antoniego Abrahama;centrum tańca;kultura i rozrywka
-81;Portowa;policja;organizacje publiczne
-122;Jerzego Waszyngtona;policja;organizacje publiczne
-29;Śledziowa;portowa;przemysł i infrastruktura
-30;Śledziowa;portowa;przemysł i infrastruktura
-33;Śledziowa;portowa;przemysł i infrastruktura
-39;Śledziowa;portowa;przemysł i infrastruktura
-43;Śledziowa;portowa;przemysł i infrastruktura
-69;Śledziowa;portowa;przemysł i infrastruktura
-83;Antoniego Hryniewickiego;portowa;przemysł i infrastruktura
-214;Arkadiusza Rybickiego;portowa;przemysł i infrastruktura
-222;Arkadiusza Rybickiego;portowa;przemysł i infrastruktura
-643;10 Lutego;prokuratura;organizacje publiczne
-159;Jana z Kolna;przedszkole;organizacje publiczne
-801;Armii Krajowej;przedszkole;organizacje publiczne
-1046;Władysława IV;przedszkole;organizacje publiczne
-1064;Jana Kilińskiego;przedszkole;organizacje publiczne
-1151;Władysława IV;przedszkole;organizacje publiczne
-470;Stefana Żeromskiego;przychodnia;zdrowie
-661;10 Lutego;przychodnia;zdrowie
-783;Hilarego Jastaka;przychodnia;zdrowie
-795;Armii Krajowej;przychodnia;zdrowie
-1176;Romualda Traugutta;przychodnia;zdrowie
-947;Obrońców Wybrzeża;przychodnia;zdrowie
-51;Portowa;usługi zdrowie;zdrowie
-1270;Jana Kilińskiego;usługi zdrowie;zdrowie
-459;Świętojańska;pub;gastronomia
-485;Zgoda;pub;gastronomia
-562;Władysława IV;pub;gastronomia
-698;Antoniego Abrahama;pub;gastronomia
-746;Świętojańska;pub;gastronomia
-1020;Antoniego Abrahama;pub;gastronomia
-1036;Świętojańska;pub;gastronomia
-1070;Jana Kilińskiego;pub;gastronomia
-200;Plac Kaszubski;brak parteru;brak parteru
-242;;brak parteru;brak parteru
-420;Jerzego Waszyngtona;brak parteru;brak parteru
-426;Zygmunta Augusta;brak parteru;brak parteru
-435;Starowiejska;brak parteru;brak parteru
-618;Skwer Tadeusza Kościuszki;brak parteru;brak parteru
-662;10 Lutego;brak parteru;brak parteru
-725;Skwer Tadeusza Kościuszki;brak parteru;brak parteru
-738;Antoniego Abrahama;brak parteru;brak parteru
-792;Armii Krajowej;brak parteru;brak parteru
-810;;brak parteru;brak parteru
-835;Armii Krajowej;brak parteru;brak parteru
-851;Armii Krajowej;brak parteru;brak parteru
-865;Armii Krajowej;brak parteru;brak parteru
-879;Plac Grunwaldzki;brak parteru;brak parteru
-930;Antoniego Abrahama;brak parteru;brak parteru
-1044;Antoniego Abrahama;brak parteru;brak parteru
-1133;Świętojańska;brak parteru;brak parteru
-1232;Władysława IV;brak parteru;brak parteru
-1267;Jana Kilińskiego;brak parteru;brak parteru
-1281;Juliusza Słowackiego;brak parteru;brak parteru
-79;Stefana Żeromskiego;rehabilitacja;zdrowie
-189;Wójta Radtkego;rehabilitacja;zdrowie
-558;Stefana Żeromskiego;rehabilitacja;zdrowie
-1186;Żołnierzy I Armii Wojska Polskiego;rehabilitacja;zdrowie
-75;Portowa;restauracja;gastronomia
-102;Portowa;restauracja;gastronomia
-106;Portowa;restauracja;gastronomia
-117;Jana z Kolna;restauracja;gastronomia
-168;Plac Kaszubski;restauracja;gastronomia
-221;Arkadiusza Rybickiego;restauracja;gastronomia
-224;Wójta Radtkego;restauracja;gastronomia
-231;Arkadiusza Rybickiego;restauracja;gastronomia
-252;Wójta Radtkego;restauracja;gastronomia
-257;Antoniego Hryniewickiego;restauracja;gastronomia
-286;Hieronima Derdowskiego;restauracja;gastronomia
-309;Starowiejska;restauracja;gastronomia
-331;Starowiejska;restauracja;gastronomia
-332;Starowiejska;restauracja;gastronomia
-335;Starowiejska;restauracja;gastronomia
-336;Starowiejska;restauracja;gastronomia
-344;Starowiejska;restauracja;gastronomia
-353;Starowiejska;restauracja;gastronomia
-363;Starowiejska;restauracja;gastronomia
-367;Starowiejska;restauracja;gastronomia
-368;Starowiejska;restauracja;gastronomia
-381;Starowiejska;restauracja;gastronomia
-402;Starowiejska;restauracja;gastronomia
-404;Starowiejska;restauracja;gastronomia
-412;Starowiejska;restauracja;gastronomia
-418;3 Maja;restauracja;gastronomia
-453;Jerzego Waszyngtona;restauracja;gastronomia
-456;Plac Konstytucji;restauracja;gastronomia
-476;Antoniego Abrahama;restauracja;gastronomia
-481;3 Maja;restauracja;gastronomia
-488;Dworcowa;restauracja;gastronomia
-513;Antoniego Abrahama;restauracja;gastronomia
-514;Antoniego Abrahama;restauracja;gastronomia
-537;Mściwoja;restauracja;gastronomia
-538;Świętojańska;restauracja;gastronomia
-574;10 Lutego;restauracja;gastronomia
-581;Antoniego Abrahama;restauracja;gastronomia
-595;Świętojańska;restauracja;gastronomia
-604;Skwer Tadeusza Kościuszki;restauracja;gastronomia
-613;Świętojańska;restauracja;gastronomia
-614;Antoniego Abrahama;restauracja;gastronomia
-615;Świętojańska;restauracja;gastronomia
-642;10 Lutego;restauracja;gastronomia
-683;Antoniego Abrahama;restauracja;gastronomia
-684;Aleja Jana Pawła II;restauracja;gastronomia
-686;Aleja Jana Pawła II;restauracja;gastronomia
-689;Aleja Jana Pawła II;restauracja;gastronomia
-697;Władysława IV;restauracja;gastronomia
-699;Aleja Jana Pawła II;restauracja;gastronomia
-704;3 Maja;restauracja;gastronomia
-705;Aleja Jana Pawła II;restauracja;gastronomia
-706;Aleja Jana Pawła II;restauracja;gastronomia
-709;Aleja Jana Pawła II;restauracja;gastronomia
-716;Antoniego Abrahama;restauracja;gastronomia
-721;Skwer Tadeusza Kościuszki;restauracja;gastronomia
-723;Skwer Tadeusza Kościuszki;restauracja;gastronomia
-727;Świętojańska;restauracja;gastronomia
-746;Świętojańska;restauracja;gastronomia
-762;Świętojańska;restauracja;gastronomia
-766;Zygmuntowska;restauracja;gastronomia
-805;Aleja Jana Pawła II;restauracja;gastronomia
-812;Antoniego Abrahama;restauracja;gastronomia
-829;Antoniego Abrahama;restauracja;gastronomia
-841;;restauracja;gastronomia
-856;Armii Krajowej;restauracja;gastronomia
-874;Świętojańska;restauracja;gastronomia
-879;Plac Grunwaldzki;restauracja;gastronomia
-886;Świętojańska;restauracja;gastronomia
-895;Antoniego Abrahama;restauracja;gastronomia
-896;Świętojańska;restauracja;gastronomia
-900;Władysława IV;restauracja;gastronomia
-909;Józefa Wybickiego;restauracja;gastronomia
-914;Świętojańska;restauracja;gastronomia
-918;;restauracja;gastronomia
-926;Antoniego Abrahama;restauracja;gastronomia
-927;Świętojańska;restauracja;gastronomia
-946;Obrońców Wybrzeża;restauracja;gastronomia
-949;Świętojańska;restauracja;gastronomia
-962;Świętojańska;restauracja;gastronomia
-967;Antoniego Abrahama;restauracja;gastronomia
-976;Antoniego Abrahama;restauracja;gastronomia
-1023;Świętojańska;restauracja;gastronomia
-1024;Antoniego Abrahama;restauracja;gastronomia
-1033;Antoniego Abrahama;restauracja;gastronomia
-1060;Jana Kilińskiego;restauracja;gastronomia
-1076;Świętojańska;restauracja;gastronomia
-1078;Świętojańska;restauracja;gastronomia
-1103;Władysława IV;restauracja;gastronomia
-1123;Świętojańska;restauracja;gastronomia
-1143;Świętojańska;restauracja;gastronomia
-1148;Świętojańska;restauracja;gastronomia
-1158;Świętojańska;restauracja;gastronomia
-1172;Żołnierzy I Armii Wojska Polskiego;restauracja;gastronomia
-1185;Świętojańska;restauracja;gastronomia
-1199;Władysława IV;restauracja;gastronomia
-1200;Świętojańska;restauracja;gastronomia
-1201;Świętojańska;restauracja;gastronomia
-1202;Świętojańska;restauracja;gastronomia
-1207;Świętojańska;restauracja;gastronomia
-1232;Władysława IV;restauracja;gastronomia
-1239;Aleja Marszałka Józefa Piłsudskiego;restauracja;gastronomia
-1263;Generała Józefa Bema;restauracja;gastronomia
-1325;Żołnierzy I Armii Wojska Polskiego;restauracja;gastronomia
-360;Plac Konstytucji;drogeria;handel
-927;Świętojańska;drogeria;handel
-1204;Świętojańska;drogeria;handel
-28;Portowa;sakralna;kult religijny
-60;Portowa;sakralna;kult religijny
-801;Armii Krajowej;sanktuarium;kult religijny
-1096;Świętojańska;serwis gsm;usługi
-1113;Świętojańska;serwis gsm;usługi
-294;Wójta Radtkego;serwis rowerowy;usługi
-507;Świętojańska;sklep erotyczny;handel
-522;Zgoda;sklep erotyczny;handel
-576;10 Lutego;sklep erotyczny;handel
-51;Portowa;siłownia;kultura i rozrywka
-1153;Świętojańska;siłownia;kultura i rozrywka
-1297;Żołnierzy I Armii Wojska Polskiego;siłownia;kultura i rozrywka
-959;Władysława IV;skarbiec;finanse
-14;Portowa;sklep monopolowy;handel
-26;Portowa;sklep monopolowy;handel
-236;Arkadiusza Rybickiego;sklep monopolowy;handel
-988;Franciszka Żwirki i Stanisława Wigury;sklep monopolowy;handel
-1212;Świętojańska;sklep monopolowy;handel
-944;Świętojańska;handlowa papiernicza;handel
-200;Plac Kaszubski;sklep spożywczy;handel
-253;Wójta Radtkego;sklep spożywczy;handel
-943;Antoniego Abrahama;sklep spożywczy;handel
-1004;Franciszka Żwirki i Stanisława Wigury;sklep spożywczy;handel
-1297;Żołnierzy I Armii Wojska Polskiego;sklep spożywczy;handel
-234;Plac Kaszubski;sklep wielobranżowy;handel
-319;Plac Konstytucji;sklep wielobranżowy;handel
-910;Antoniego Abrahama;solarium;usługi
-959;Władysława IV;solarium;usługi
-1004;Franciszka Żwirki i Stanisława Wigury;solarium;usługi
-518;Zgoda;spa;zdrowie
-480;Zgoda;spółdzielnia mieszkaniowa;biura
-1002;Władysława IV;spółdzielnia mieszkaniowa;biura
-840;Armii Krajowej;kawiarnia;gastronomia
-640;10 Lutego;handlowa antyki;handel
-328;Starowiejska;sklep spożywczy;handel
-208;Wójta Radtkego;stomatolog;zdrowie
-407;Starowiejska;stomatolog;zdrowie
-420;Jerzego Waszyngtona;stomatolog;zdrowie
-1289;Juliusza Słowackiego;stomatolog;zdrowie
-388;Stefana Żeromskiego;stowarzyszenie kulturalne;kultura i rozrywka
-1203;Władysława IV;stowarzyszenie;organizacje publiczne
-237;Wójta Radtkego;straż pożarna;organizacje publiczne
-243;Wójta Radtkego;straż pożarna;organizacje publiczne
-263;Władysława IV;straż pożarna;organizacje publiczne
-1042;Świętojańska;usługi szklarz;usługi
-801;Armii Krajowej;szkoła parafialna;organizacje publiczne
-139;Jana z Kolna;szkoła podstawowa;organizacje publiczne
-219;Stefana Żeromskiego;szkoła policealna;organizacje publiczne
-792;Armii Krajowej;szkoła wyższa;organizacje publiczne
-800;Aleja Jana Pawła II;szkoła żeglarska;kultura i rozrywka
-807;Aleja Jana Pawła II;szkoła żeglarska;kultura i rozrywka
-808;Aleja Jana Pawła II;szkoła żeglarska;kultura i rozrywka
-832;;szkoła żeglarska;kultura i rozrywka
-226;Wójta Radtkego;szpital;zdrowie
-235;Wójta Radtkego;szpital;zdrowie
-251;Plac Kaszubski;szpital;zdrowie
-276;Starowiejska;szpital;zdrowie
-187;Jana z Kolna;sąd;organizacje publiczne
-202;Plac Konstytucji;sąd;organizacje publiczne
-145;Jana z Kolna;targ;handel
-169;Wójta Radtkego;targ;handel
-188;Wójta Radtkego;targ;handel
-191;Wójta Radtkego;targ;handel
-197;Wójta Radtkego;targ;handel
-203;Wójta Radtkego;targ;handel
-211;Wójta Radtkego;targ;handel
-212;Wójta Radtkego;targ;handel
-218;Wójta Radtkego;targ;handel
-627;Skwer Tadeusza Kościuszki;targ;handel
-822;Świętojańska;studio tatuażu;usługi
-1206;Generała Józefa Bema;teatr;kultura i rozrywka
-915;Plac Grunwaldzki;teatr;kultura i rozrywka
-184;;techniczna;przemysł i infrastruktura
-185;;techniczna;przemysł i infrastruktura
-216;;techniczna;przemysł i infrastruktura
-292;;techniczna;przemysł i infrastruktura
-293;;techniczna;przemysł i infrastruktura
-330;;techniczna;przemysł i infrastruktura
-473;;techniczna;przemysł i infrastruktura
-700;;techniczna;przemysł i infrastruktura
-708;;techniczna;przemysł i infrastruktura
-718;;techniczna;przemysł i infrastruktura
-753;Stefana Batorego;techniczna;przemysł i infrastruktura
-883;;techniczna;przemysł i infrastruktura
-1085;;techniczna;przemysł i infrastruktura
-1195;;techniczna;przemysł i infrastruktura
-1214;;techniczna;przemysł i infrastruktura
-1236;;techniczna;przemysł i infrastruktura
-1261;;techniczna;przemysł i infrastruktura
-94;;techniczna;przemysł i infrastruktura
-121;;techniczna;przemysł i infrastruktura
-154;;techniczna;przemysł i infrastruktura
-156;;techniczna;przemysł i infrastruktura
-289;;techniczna;przemysł i infrastruktura
-814;;techniczna;przemysł i infrastruktura
-816;;techniczna;przemysł i infrastruktura
-863;;techniczna;przemysł i infrastruktura
-928;;techniczna;przemysł i infrastruktura
-935;;techniczna;przemysł i infrastruktura
-936;;techniczna;przemysł i infrastruktura
-954;;techniczna;przemysł i infrastruktura
-960;;techniczna;przemysł i infrastruktura
-966;;techniczna;przemysł i infrastruktura
-973;;techniczna;przemysł i infrastruktura
-996;;techniczna;przemysł i infrastruktura
-1137;;techniczna;przemysł i infrastruktura
-1149;;techniczna;przemysł i infrastruktura
-133;Stefana Żeromskiego;usługi uroda;usługi
-318;Starowiejska;ubezpieczenia;finanse
-1156;Świętojańska;ubezpieczenia;finanse
-792;Armii Krajowej;szkoła wyższa;organizacje publiczne
-785;Aleja Jana Pawła II;szkoła wyższa;organizacje publiczne
-704;3 Maja;urząd miasta;organizacje publiczne
-848;Armii Krajowej;urząd miasta;organizacje publiczne
-1241;Aleja Marszałka Józefa Piłsudskiego;urząd miasta;organizacje publiczne
-589;Stefana Żeromskiego;ubezpieczenia;finanse
-1119;Świętojańska;usługi uroda;usługi
-460;3 Maja;fotograf;usługi
-1054;Jana Kilińskiego;fotograf;usługi
-738;Antoniego Abrahama;serwis gsm;usługi
-1139;Świętojańska;serwis gsm;usługi
-387;Starowiejska;jubiler;handel
-853;Armii Krajowej;komis;handel
-871;Antoniego Abrahama;komis;handel
-1115;Generała Józefa Bema;usługi uroda;usługi
-1295;Juliusza Słowackiego;usługi uroda;usługi
-1156;Świętojańska;usługi krawiec;usługi
-1225;Władysława IV;usługi kredyty;finanse
-395;Jerzego Waszyngtona;usługi szkolenia;usługi
-1203;Władysława IV;usługi masaż;zdrowie
-1289;Juliusza Słowackiego;usługi masaż;zdrowie
-1303;Aleja Marszałka Józefa Piłsudskiego;usługi masaż;zdrowie
+1309;;garaż;garaże
+1310;;garaż;garaże
+1311;;garaż;garaże
+1312;;garaż;garaże
+1317;Ignacego Krasickiego;handlowa meble;handel
+1317;Ignacego Krasickiego;centrum medyczne;zdrowie
 1317;Ignacego Krasickiego;usługi masaż;zdrowie
-901;Antoniego Abrahama;usługi masaż;zdrowie
-940;Obrońców Wybrzeża;usługi media;usługi
-120;Plac Kaszubski;usługi zdrowie;zdrowie
-126;Plac Kaszubski;usługi zdrowie;zdrowie
-186;Plac Kaszubski;usługi zdrowie;zdrowie
-738;Antoniego Abrahama;usługi zdrowie;zdrowie
-761;Stefana Batorego;usługi zdrowie;zdrowie
-771;Stefana Batorego;usługi zdrowie;zdrowie
-809;Armii Krajowej;usługi zdrowie;zdrowie
-933;Świętojańska;usługi zdrowie;zdrowie
-994;Świętojańska;usługi zdrowie;zdrowie
-1004;Franciszka Żwirki i Stanisława Wigury;usługi nieruchomości;usługi
-1119;Świętojańska;usługi nieruchomości;usługi
-1130;Władysława IV;usługi nieruchomości;usługi
-1204;Świętojańska;usługi nieruchomości;usługi
-613;Świętojańska;usługi noclegi;noclegi
-1227;Świętojańska;poczta;organizacje publiczne
-1226;Świętojańska;biuro podróży;usługi
-1233;Świętojańska;biuro podróży;usługi
-1196;Świętojańska;zakład pogrzebowy;usługi
-1020;Antoniego Abrahama;usługi pośrednictwo pracy;usługi
-1074;Władysława IV;pralnia;usługi
-1225;Władysława IV;pralnia;usługi
-1115;Generała Józefa Bema;psycholog;zdrowie
-919;;usługi ratownicze;organizacje publiczne
-123;Świętego Wojciecha;usługi reklamowe;usługi
-569;Świętojańska;salon gier;kultura i rozrywka
-735;Antoniego Abrahama;serwis agd;usługi
-1005;Antoniego Abrahama;usługi społeczne;organizacje publiczne
-698;Antoniego Abrahama;szewc;usługi
-277;3 Maja;usługi szkolenia;usługi
-310;;usługi szkolenia;usługi
-1052;Jana Kilińskiego;szkoła nauki jazdy;usługi
-905;Antoniego Abrahama;centrum tańca;kultura i rozrywka
-1207;Świętojańska;studio tatuażu;usługi
-1271;Juliusza Słowackiego;studio tatuażu;usługi
-728;Stefana Batorego;studio tatuażu;usługi
-1096;Świętojańska;studio tatuażu;usługi
-15;Świętego Piotra;usługi techniczne;usługi
-77;Tadeusza Wendy;usługi techniczne;usługi
-193;Stefana Żeromskiego;usługi techniczne;usługi
-533;Świętojańska;usługi techniczne;usługi
-878;Antoniego Abrahama;usługi techniczne;usługi
-719;Skwer Tadeusza Kościuszki;usługi telekomunikacja;usługi
-721;Skwer Tadeusza Kościuszki;usługi telekomunikacja;usługi
-1014;Świętojańska;usługi telekomunikacja;usługi
-1022;Świętojańska;usługi telekomunikacja;usługi
-8;Tadeusza Wendy;usługi transport;usługi
-10;Tadeusza Wendy;usługi transport;usługi
-207;Arkadiusza Rybickiego;usługi transport;usługi
-387;Starowiejska;ubezpieczenia;finanse
-951;Antoniego Abrahama;usługi uroda;usługi
-1052;Jana Kilińskiego;usługi uroda;usługi
-1133;Świętojańska;usługi uroda;usługi
-1143;Świętojańska;usługi uroda;usługi
-1178;Władysława IV;usługi uroda;usługi
-1297;Żołnierzy I Armii Wojska Polskiego;usługi uroda;usługi
-1001;Franciszka Żwirki i Stanisława Wigury;biuro podróży;usługi
-133;Stefana Żeromskiego;usługi zdrowie;zdrowie
-234;Plac Kaszubski;usługi zdrowie;zdrowie
-459;Świętojańska;usługi zdrowie;zdrowie
-866;Świętojańska;usługi zdrowie;zdrowie
-921;Świętojańska;zegarmistrz;usługi
-209;Wójta Radtkego;usługowa;usługi
-284;Jerzego Waszyngtona;usługowa;usługi
-328;Starowiejska;usługowa;usługi
-392;Starowiejska;usługowa;usługi
-445;Mściwoja;usługowa;usługi
-447;Starowiejska;usługowa;usługi
-456;Plac Konstytucji;usługowa;usługi
-405;3 Maja;biuro podróży;usługi
-650;10 Lutego;usługi energetyczne;usługi
-383;Starowiejska;fotograf;usługi
-517;Zygmunta Augusta;fotograf;usługi
-616;Antoniego Abrahama;usługi krawiec;usługi
-319;Plac Konstytucji;usługi krawiec;usługi
-364;Starowiejska;usługi krawiec;usługi
-493;Antoniego Abrahama;usługi krawiec;usługi
-517;Zygmunta Augusta;usługi krawiec;usługi
-432;;usługi szkolenia;usługi
-638;10 Lutego;usługi szkolenia;usługi
-777;Władysława IV;usługi zdrowie;zdrowie
-406;Starowiejska;usługi masaż;zdrowie
-411;Mściwoja;usługi masaż;zdrowie
-434;;usługi zdrowie;zdrowie
-492;Antoniego Abrahama;usługi zdrowie;zdrowie
-710;Stefana Batorego;usługi zdrowie;zdrowie
-997;Franciszka Żwirki i Stanisława Wigury;usługi zdrowie;zdrowie
-499;Mściwoja;usługi nieruchomości;usługi
-636;10 Lutego;usługi pośrednictwo pracy;usługi
-337;3 Maja;pralnia;usługi
-469;Zygmunta Augusta;pralnia;usługi
-346;Starowiejska;usługi telekomunikacja;usługi
-594;Antoniego Abrahama;usługi uroda;usługi
-364;Starowiejska;biuro podróży;usługi
-353;Starowiejska;usługi zdrowie;zdrowie
-375;Starowiejska;usługi zdrowie;zdrowie
-384;Starowiejska;usługi zdrowie;zdrowie
-449;Antoniego Abrahama;usługi zdrowie;zdrowie
-454;Antoniego Abrahama;usługi zdrowie;zdrowie
-506;Władysława IV;usługi zdrowie;zdrowie
-622;Skwer Tadeusza Kościuszki;usługi zdrowie;zdrowie
-637;10 Lutego;usługi zdrowie;zdrowie
-642;10 Lutego;usługi zdrowie;zdrowie
-492;Antoniego Abrahama;usługi złotnik;usługi
-616;Antoniego Abrahama;usługi złotnik;usługi
-658;10 Lutego;usługi zdrowie;zdrowie
-651;10 Lutego;zegarmistrz;usługi
-161;Janka Wiśniewskiego;warsztat samochodowy;usługi
-166;Janka Wiśniewskiego;warsztat samochodowy;usługi
-177;Janka Wiśniewskiego;warsztat samochodowy;usługi
-384;Starowiejska;warzywniak;handel
-1062;Jana Kilińskiego;warzywniak;handel
-919;;wc;przemysł i infrastruktura
-497;Kazimierza Pułaskiego;wojskowa;organizacje publiczne
-510;Kazimierza Pułaskiego;wojskowa;organizacje publiczne
-600;Jerzego Waszyngtona;wojskowa;organizacje publiczne
-13;Świętego Piotra;wystawowa;kultura i rozrywka
-400;Świętojańska;zakład pogrzebowy;usługi
-246;Wójta Radtkego;zegarmistrz;usługi
-490;Władysława IV;zus;organizacje publiczne
-940;Obrońców Wybrzeża;usługi złotnik;usługi
-133;Stefana Żeromskiego;sklep spożywczy;handel
-143;Jana z Kolna;sklep spożywczy;handel
-261;Wójta Radtkego;sklep spożywczy;handel
-273;Hieronima Derdowskiego;sklep spożywczy;handel
-281;Jerzego Waszyngtona;sklep spożywczy;handel
-366;Starowiejska;sklep spożywczy;handel
-393;Starowiejska;sklep spożywczy;handel
-411;Mściwoja;sklep spożywczy;handel
-423;Świętojańska;sklep spożywczy;handel
-440;3 Maja;sklep spożywczy;handel
-450;Władysława IV;sklep spożywczy;handel
-456;Plac Konstytucji;sklep spożywczy;handel
-544;Antoniego Abrahama;sklep spożywczy;handel
-561;10 Lutego;sklep spożywczy;handel
-668;Władysława IV;sklep spożywczy;handel
-695;10 Lutego;sklep spożywczy;handel
-720;Skwer Tadeusza Kościuszki;sklep spożywczy;handel
-761;Stefana Batorego;sklep spożywczy;handel
-836;Armii Krajowej;sklep spożywczy;handel
-886;Świętojańska;sklep spożywczy;handel
-900;Władysława IV;sklep spożywczy;handel
-930;Antoniego Abrahama;sklep spożywczy;handel
-959;Władysława IV;sklep spożywczy;handel
-999;Antoniego Abrahama;sklep spożywczy;handel
-1008;Świętojańska;sklep spożywczy;handel
-1119;Świętojańska;sklep spożywczy;handel
-1139;Świętojańska;sklep spożywczy;handel
-1209;Władysława IV;sklep spożywczy;handel
-1222;Świętojańska;sklep spożywczy;handel
-1234;Świętojańska;sklep spożywczy;handel
-248;Wójta Radtkego;żłobek;organizacje publiczne
-1159;Romualda Traugutta;żłobek;organizacje publiczne
+1319;Ignacego Krasickiego;mieszkaniowa wielorodzinna;mieszkaniowa
+1320;;garaż;garaże
+1323;Żołnierzy I Armii Wojska Polskiego;mieszkaniowa jednorodzinna;mieszkaniowa
+1324;Żołnierzy I Armii Wojska Polskiego;usługi uroda;usługi
+1325;Żołnierzy I Armii Wojska Polskiego;restauracja;gastronomia
+1325;Żołnierzy I Armii Wojska Polskiego;kosmetyczka;usługi
