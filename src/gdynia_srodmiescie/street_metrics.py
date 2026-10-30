@@ -3,7 +3,10 @@ import pandas as pd
 
 
 def street_metrics(
-    df_long, df_short=None, min_functional=10, cat_omitted=("brak parteru", "pustostan")
+    df_long,
+    df_short=None,
+    min_functional=10,
+    cat_omitted=("missing ground floor", "vacant"),
 ):
     """Compute functional metrics per street from the long table of premises.
 
@@ -17,8 +20,8 @@ def street_metrics(
 
     streets_long = pd.concat(
         [
-            df_long.loc[lambda d: d["category"] != "brak parteru"]
-            .assign(is_vacant=lambda d: d["category"] == "pustostan")
+            df_long.loc[lambda d: d["category"] != "missing ground floor"]
+            .assign(is_vacant=lambda d: d["category"] == "vacant")
             .groupby("addr_street")
             .agg(num_premises=("category", "size"), num_vacant=("is_vacant", "sum"))
             .assign(

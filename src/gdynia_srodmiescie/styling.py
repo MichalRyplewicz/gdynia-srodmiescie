@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import seaborn as sns
 from matplotlib.ticker import FuncFormatter
 
 
@@ -15,56 +16,36 @@ def decimal_formatter(styler, decimals=2, subset=None):
 
 
 def plot_heatmap(
-    cross_table,
+    df,
     path,
-    title="",
-    cmap="Blues",
-    fmt="{:.0%}",
-    other_fmt="{:g}",
-    subset=None,
-    x_label="",
-    y_label="",
-    rotation_xticks=0,
+    figsize=(20, 20),
+    labels=True,
+    title=None,
+    xtick_rotation=90,
+    xtick_fontsize=6,
+    xtick_ha="center",
 ):
-    """This function saves a crosstab as a heatmap with numbers in each cell"""
-    if subset is None:
-        subset = list(cross_table.columns)
-    colored = cross_table[subset].reindex(columns=cross_table.columns)
-
-    fig, ax = plt.subplots(
-        figsize=(cross_table.shape[1] + 1, cross_table.shape[0] + 1),
-        layout="constrained",
+    fig, ax = plt.subplots(figsize=figsize, dpi=300, layout="constrained")
+    g = sns.heatmap(
+        df,
+        annot=labels,
+        cmap="Blues",
+        ax=ax,
+        mask=df.eq(0),
+        fmt="",
+        square=True,
+        linewidths=2,
+        annot_kws={"fontsize": 7},
+        cbar_kws={"format": "{x:.0%}", "shrink": 0.5},
     )
-    im = ax.imshow(colored, cmap=cmap, aspect="auto")
-
-    ha = "right" if rotation_xticks else "center"
-    ax.set_xticks(
-        range(cross_table.shape[1]),
-        labels=cross_table.columns,
-        rotation=rotation_xticks,
-        ha=ha,
-        rotation_mode="anchor",
+    g.set_xticklabels(
+        g.get_xticklabels(),
+        rotation=xtick_rotation,
+        fontsize=xtick_fontsize,
+        ha=xtick_ha,
     )
-    ax.set_yticks(range(cross_table.shape[0]), labels=cross_table.index)
 
-    middle = (colored.max().max() + colored.min().min()) / 2
-    for i in range(cross_table.shape[0]):
-        for j in range(cross_table.shape[1]):
-            value = cross_table.iat[i, j]
-            if cross_table.columns[j] in subset:
-                if value == 0:
-                    continue
-                text = fmt.format(value)
-                color = "white" if value > middle else "black"
-            else:
-                text = other_fmt.format(value)
-                color = "black"
-            ax.text(j, i, text, ha="center", va="center", color=color)
-
-    ax.set_title(title)
-    ax.set_xlabel(x_label)
-    ax.set_ylabel(y_label)
-    fig.colorbar(im, ax=ax, format=FuncFormatter(lambda x, _: fmt.format(x)))
+    plt.title(title)
     fig.savefig(path, dpi=300)
     plt.close(fig)
 

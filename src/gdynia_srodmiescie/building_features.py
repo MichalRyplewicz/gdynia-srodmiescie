@@ -2,11 +2,11 @@ import numpy as np
 import pandas as pd
 
 NON_SERVICE = [
-    "garaże",
-    "mieszkaniowa",
-    "pustostan",
-    "brak parteru",
-    "przemysł i infrastruktura",
+    "garages",
+    "residential",
+    "vacant",
+    "missing ground floor",
+    "industry and infrastructure",
 ]
 
 
@@ -17,9 +17,9 @@ def add_building_floor_flags(df_short, df_long):
     """
     data_long_features = (
         df_long.assign(
-            is_garage=lambda d: d["category"] == "garaże",
-            is_residential=lambda d: d["category"] == "mieszkaniowa",
-            is_vacant=lambda d: d["category"] == "pustostan",
+            is_garage=lambda d: d["category"] == "garages",
+            is_residential=lambda d: d["category"] == "residential",
+            is_vacant=lambda d: d["category"] == "vacant",
             is_service=lambda d: ~d["category"].isin(NON_SERVICE),
         )
         .loc[:, ["is_garage", "is_residential", "is_vacant", "is_service"]]
@@ -35,9 +35,9 @@ def feature_types(d, high_rise):
     return [
         d["number_of_storeys"].ge(high_rise),
         d["is_garage"],
-        d["is_service"] & d["upper_floor_function"].str.contains("mieszkaniowa"),
+        d["is_service"] & d["upper_floor_function"].str.contains("residential"),
         d["is_service"],
-        d["is_residential"] | d["upper_floor_function"].str.contains("mieszkaniowa"),
+        d["is_residential"] | d["upper_floor_function"].str.contains("residential"),
     ]
 
 
@@ -56,7 +56,7 @@ def add_building_type(df_short, high_rise=10):
 
 
 PERIOD_BINS = [1800, 1920, 1940, 1960, 1990, 2030]
-PERIOD_LABELS = ["before1920", "1920-39", "1940-59", "1960-89", "1990+"]
+PERIOD_LABELS = ["before 1920", "1920-39", "1940-59", "1960-89", "1990+"]
 
 
 def add_building_periods(df_short, bins=PERIOD_BINS, labels=PERIOD_LABELS):
@@ -84,12 +84,12 @@ def add_vacancy_kind(df_short, df_long):
     """Function require a short df and long df. It returns a short df with another column 'vacacy kind'
     that represent how much share of premises per building are vacant with 3 values: ("without vacant", "full gf vacant", "vacant among working")
     """
-    df_long = df_long.loc[lambda d: d["category"] != "brak parteru"]
+    df_long = df_long.loc[lambda d: d["category"] != "missing ground floor"]
 
     return df_short.join(
         pd.crosstab(
             df_long.reset_index()["id"],
-            df_long.reset_index()["category"].eq("pustostan"),
+            df_long.reset_index()["category"].eq("vacant"),
         )
         .rename(columns={True: "vacant", False: "active"})
         .assign(sum_premises_per_build=lambda d: d.sum(axis=1))
