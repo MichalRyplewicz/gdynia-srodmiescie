@@ -1,6 +1,8 @@
 import tomllib
 from pathlib import Path
 
+import pandas as pd
+
 from gdynia_srodmiescie import building_features as bf
 from gdynia_srodmiescie import cleaning as cl
 from gdynia_srodmiescie import street_metrics as sm
@@ -82,6 +84,36 @@ def main():
         figures_dir / "func_entropy_share_vacant.png",
         xscale="log",
         label_name="label",
+    )
+    crosstab_street_category = pd.crosstab(
+        long_fin["addr_street"],
+        long_fin["category"],
+        normalize="columns",
+    )
+    labels = crosstab_street_category.map(lambda v: f"{v * 100:.1f}")
+    st.plot_heatmap(
+        crosstab_street_category,
+        labels=labels,
+        path=figures_dir / "share of different categories.png",
+        title="Percent share of different categories across streets(%)",
+        xtick_rotation=90,
+        xtick_fontsize=10.5,
+        figsize=(11, 20),
+    )
+    crosstab_time_period_type = pd.crosstab(
+        index=buildings_features["time_period"],
+        columns=buildings_features["type"],
+        normalize="columns",
+    )
+    labels = crosstab_time_period_type.map(lambda v: f"{v * 100:.1f}")
+
+    st.plot_heatmap(
+        crosstab_time_period_type,
+        labels=labels,
+        path=figures_dir / "Types of buildings by construction period.png",
+        title="Share of buildings by construction period(%)",
+        xtick_fontsize=10.5,
+        figsize=(5, 4),
     )
 
 
