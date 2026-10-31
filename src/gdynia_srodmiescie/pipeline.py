@@ -66,6 +66,7 @@ def main():
         "num_premises_wo_vacant",
         "func_entropy",
         figures_dir / "num_prem_func_entropy.png",
+        title="Number of premises vs function entropy",
         xscale="log",
         label_name="label",
     )
@@ -75,6 +76,7 @@ def main():
         "share_vacant",
         figures_dir / "num_prem_share_vacant.png",
         xscale="log",
+        title="Number of premises vs share of vacant ones",
         label_name="label",
     )
     st.plot_scatter(
@@ -82,7 +84,7 @@ def main():
         "func_entropy",
         "share_vacant",
         figures_dir / "func_entropy_share_vacant.png",
-        xscale="log",
+        title="Function entropy vs share of vacant premises",
         label_name="label",
     )
     crosstab_street_category = pd.crosstab(
@@ -94,11 +96,29 @@ def main():
     st.plot_heatmap(
         crosstab_street_category,
         labels=labels,
-        path=figures_dir / "share of different categories.png",
-        title="Percent share of different categories across streets(%)",
+        path=figures_dir / "share of different categories per category.png",
+        title="Percent share of premise categories across streets(%)",
         xtick_rotation=90,
         xtick_fontsize=10.5,
         figsize=(11, 20),
+    )
+    crosstab_street_category_2 = pd.crosstab(
+        long_fin["addr_street"],
+        long_fin["category"],
+        normalize="index",
+    )
+
+    order = street_metr.sort_values("func_entropy", ascending=False).index
+    crosstab_street_category_2 = crosstab_street_category_2.loc[order]
+    labels_2 = crosstab_street_category_2.map(lambda v: f"{v * 100:.1f}")
+    st.plot_heatmap(
+        crosstab_street_category_2,
+        labels=labels_2,
+        path=figures_dir / "share of different categories per street.png",
+        title="Percent share of premises with diff categories across streets(%)",
+        xtick_rotation=90,
+        xtick_fontsize=10.5,
+        figsize=(11, 15),
     )
     crosstab_time_period_type = pd.crosstab(
         index=buildings_features["time_period"],
@@ -110,7 +130,7 @@ def main():
     st.plot_heatmap(
         crosstab_time_period_type,
         labels=labels,
-        path=figures_dir / "Types of buildings by construction period.png",
+        path=figures_dir / "types of buildings by construction period.png",
         title="Share of buildings by construction period(%)",
         xtick_fontsize=10.5,
         figsize=(5, 4),

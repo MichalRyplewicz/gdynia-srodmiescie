@@ -19,7 +19,6 @@ SHORT_COLUMN_TYPES = {
     "source": "str",
     "confidence": "Int64",
     "date_of_checking": "str",
-    "number_of_functions": "Int64",
 }
 
 LONG_COLUMN_TYPES = {
