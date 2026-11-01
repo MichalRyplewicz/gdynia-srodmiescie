@@ -4,14 +4,14 @@ import pytest
 
 from gdynia_srodmiescie import building_features as bf
 from gdynia_srodmiescie import street_metrics as sm
-from gdynia_srodmiescie.loading import load_long, load_short
+from gdynia_srodmiescie.loading import load_df_long, load_df_short
 
 DATA = Path(__file__).parent / "data"
 
 
 def test_rybickiego_entropy():
-    short = load_short(DATA / "short_old.csv")
-    long = load_long(DATA / "long_old.csv")
+    short = load_df_short(DATA / "short_old.csv")
+    long = load_df_long(DATA / "long_old.csv")
 
     buildings = (
         short.pipe(bf.add_building_floor_flags, long)
