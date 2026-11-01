@@ -27,8 +27,8 @@ def test_rybickiego_entropy():
 
 
 def test_number_street_metrics():
-    short = load_short(DATA / "short_old.csv")
-    long = load_long(DATA / "long_old.csv")
+    short = load_df_short(DATA / "short_old.csv")
+    long = load_df_long(DATA / "long_old.csv")
 
     buildings = (
         short.pipe(bf.add_building_floor_flags, long)
